@@ -3,7 +3,9 @@
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN WX56 
  Profesor: Alex Humberto Sánchez Ponce
 # Informe de Trabajo Final
+
 "Startup"
+
 "MealMaster"
 ### Integrantes:
 - Cortés Casas, Joaquin Marcelo U202114545
@@ -12,18 +14,9 @@
 - Ruiz Blas, Luciano U20211F978
 - Becerra Llempen, Fabiola U20171A518
 
-04/26/2024
 ---
-# Registro de Versiones del Informe
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
 
-# Project Report Collaboration Insights
-[URL del repositorio](https://github.com/orgs/Aplicaciones-Web-WX56-Group-MealMaster/repositories)
-
-(Imagenes de los commits cada entrega)
-
+Abril, 2024-1
 
 # Contenido
 
@@ -154,39 +147,24 @@
 
 [Anexos](#anexos)  
 
----
 
-# UPC
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
- Profesor: Alex Humberto Sánchez Ponce
-# Informe de TB1
-"TechConnect Solutions"
-"OfficeTech"
-### Integrantes:
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-19/03/2024
 ---
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
+| --------| ----------- | ----------- | ----------- |
+| TB1     | 04/04/2024 |MealMaster |Documentación de los capítulos I-V. Implementación y despliegue de la primera versión del Landing Page.|
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/orgs/Aplicaciones-Web-WX56-Group-MealMaster/repositories)
 
 (Imagenes de los commits cada entrega)
-
 
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup

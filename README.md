@@ -3,19 +3,20 @@
 ---
 ---
 # UPC
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
+# INGENIERÍA DE SOFTWARE
+## CURSO: SI730 Aplicaciones Web | SECCIÓN WX56 
  Profesor: Alex Humberto Sánchez Ponce
-# Informe de TF
+# Informe de Trabajo Final
 "Startup"
-"Producto"
+"MealMaster"
 ### Integrantes:
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-19/03/2024
+- Cortés Casas, Joaquin Marcelo U202114545
+- Diaz Silva, Fernando Josué U202112722
+- Chávez Rojas, Carlos Raúl Guillermo U201910317
+- Ruiz Blas, Luciano U20211F978
+- Becerra Llempen, Fabiola U20171A518
+
+04/26/2024
 ---
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
@@ -23,7 +24,7 @@
 | 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/orgs/Aplicaciones-Web-WX56-Group-MealMaster/repositories)
 
 (Imagenes de los commits cada entrega)
 
@@ -158,10 +159,7 @@
 [Anexos](#anexos)  
 
 ---
----
 
----
----
 # UPC
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
@@ -200,6 +198,7 @@
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
 |Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática

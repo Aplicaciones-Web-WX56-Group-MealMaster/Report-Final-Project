@@ -1,7 +1,3 @@
----
-
----
----
 # UPC
 # INGENIERÍA DE SOFTWARE
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN WX56 

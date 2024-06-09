@@ -178,7 +178,7 @@ Visión: Convertirnos en la plataforma líder en organización y planificación 
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Cortés Casas, Joaquin Marcelo	![Imagen del compañero](image.jpg)|U202114545 |Ingenieria de software|Mi edad es de 20 años, soy un estudiante de la carrera de Ingeniería de Software en la UPC. Desde una edad temprana, he tenido un interés por el manejo de la tecnología y la interacción con los videojuegos. Tengo un fuerte sentido de liderazgo al asumir la responsabilidad de coordinar y motivar a los equipos de trabajo en momentos clave. Siempre estoy dispuesto a enfrentar nuevos desafíos y desarrollar mis conocimientos en el entorno del Software.|
+|Cortés Casas, Joaquin Marcelo |U202114545 |Ingenieria de software|Mi edad es de 20 años, soy un estudiante de la carrera de Ingeniería de Software en la UPC. Desde una edad temprana, he tenido un interés por el manejo de la tecnología y la interacción con los videojuegos. Tengo un fuerte sentido de liderazgo al asumir la responsabilidad de coordinar y motivar a los equipos de trabajo en momentos clave. Siempre estoy dispuesto a enfrentar nuevos desafíos y desarrollar mis conocimientos en el entorno del Software.|
 | Diaz Silva, Fernando Josué|U202112722|Ingenieria de software|Soy Fernando Diaz, tengo 20 años, me apasiona la tecnología, actualmente estudio la carrera de  ingeniería de software en la Universidad Peruana de Ciencias Aplicadas(UPC). A lo largo de la carrera he desarrollado distintas habilidades, mi principal enfoque en esta carrera parte del software como tal y el ámbito empresarial, para lo cual planeo realizar un MBA. Soy una persona proactiva, responsable y disciplinada. Estoy preparado para desarrollar un buen trabajo junto a mi equipo y aplicar todo el conocimiento adquirido a lo largo de mi carrera.|
 |Chávez Rojas, Carlos Raúl Guillermo |U201910317|Ingenieria de software|Tengo 22 años y estudió la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona el mundo digital y la capacidad de la tecnología para solucionar problemas y crear nuevas experiencias. Soy una persona proactiva, responsable y con gran capacidad de aprendizaje. Tengo un fuerte interés por la investigación y la innovación, y estoy siempre buscando nuevas formas de mejorar mis habilidades y conocimientos.|
 |Ruiz Blas, Luciano Stefano|U20211F978|Ingenieria de software|Soy Luciano Ruiz, tengo 20 años y estudió la carrera de Ingeniería de Software. Soy un apasionado de la tecnología y la creación de software. Además, cuento con conocimiento de diferentes lenguajes de programación como C++, C#, Java, Python, etc. Me gusta aprender intensamente temas de mi interés como la inteligencia artificial y el desarrollo de aplicaciones móviles. Finalmente, me considero una persona con cualidades aptas para trabajar en equipo y aprender rápidamente conocimientos.|
@@ -186,29 +186,122 @@ Visión: Convertirnos en la plataforma líder en organización y planificación 
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
+En la actualidad, el ritmo de vida acelerado y las múltiples responsabilidades han llevado a muchas personas a descuidar la planificación de sus comidas. Esto ha resultado en un aumento del consumo de alimentos preparados fuera de casa, como comidas rápidas o restaurantes. El no planificar las comidas y el consumir alimentos fuera de casa se encuentra relacionado a un mayor consumo de calorías, grasas, sodio y menor consumo de alimentos ricos en fibra y micronutrientes (Lindley, Benavides, 2022). Otro factor importante es la poca evidencia que existe sobre esta práctica a nivel nacional y la poca diversificación de esta.
+
+|What (Qué)|El problema que abordamos en Meal Master es la carencia de tiempo y conocimientos gastronómicos para poder realizar comidas nutritivas para mejorar su salud y alcanzar objetivos culinarios. Este limitante desanima a los interesados a adquirir artículos interesantes y de obtener una buena nutrición. Por ello, tenemos como objetivo proporcionar una solución que ofrezca una experiencia de conocimientos sin restricciones y cumpliendo con los estándares de calidad.|
+|When (Cuándo)|Cuando los amantes de la comida rápida o para las personas ocupadas que no cuentan con tiempo suficiente para realizar un plato de comida en el Perú se enfrentan a dificultades para encontrar aquellas recetas de interés, debido a la falta de opciones confiables en las escasas plataformas existentes dentro del mercado peruano.
+Todo eso genera que la comunidad de clientes no puedan satisfacer sus deseos de adquirir recetas de platos saludables, o deba gastar una cantidad exorbitante de dinero para lograr conseguirlo.|
+|Where (Dónde)|Al ser un servicio virtual, el usuario se encontrará en cualquier dispositivo móvil que le permita ingresar a la página web para poder obtener una receta o posibles recomendaciones. Este dispositivo debe contar con una conexión a internet y debe ser compatible con navegadores web como Chrome, Safari, Firefox o Microsoft Edge, respectivamente con sus versiones actualizadas.|
+|Who (Quién) |Tenemos como principales involucrados a los participantes de la startup Meal Master, los cuales se encargarán de las creaciones de las plataformas de las dietas y su correcta gestión, nuestros clientes, que nos apoyaran con las recomendaciones de dietas o platos gastronómicos, los cuales se encuentran interesados por la realización de estos desde la comodidad de sus hogares, en Perú.|
+|Why (Por qué)| La causa del problema es a  raíz de las preocupaciones por la falta de información nutritiva y falta de conocimientos de recetas saludables y beneficios para la salud, ya que en el mercado existen productos de calidad inferior, generando dudas o desconfío en los consumidores sobre su uso para una vida saludable.
+Por otro lado, este mercado aún no ha sido explotado a fondo, lo que significa que es una oportunidad para Meal Master de promocionar tipos de comidas en tendencia y auténticas de una manera segura y de interés para los usuarios.|
+|How (Cómo)|Nuestros clientes utilizan nuestra plataforma cuando deseen adquirir una dieta o un plato gastronómico para cocinar. En nuestro país, los lugares en donde se pueden adquirir este tipo de mercancía son muy limitados, siendo usualmente algunas páginas de redes sociales como Facebook o Instagram, librerías o por último, tiendas virtuales del extranjero. Ellos acceden a Meal Master cuando nos toman en cuenta como una opción confiable, segura y cómoda para realizar las recetas.|
+|How much (Cuánto)| Alrededor del mundo, la industria de las recetas gastronómicas virtuales ha experimentado un crecimiento significativo. Para ello nuestra app contará con las herramientas de acompañamiento, que les ayudarán a elegir una mejor manera de realizar sus comidas.|
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+
+
+Hemos detectado el gran limitante de recetas disponibles en línea que enfrentan los usuarios que les gusta la gastronomía o novatos que quieren aprender. En cuanto a la adquisición de recetas recomendadas dependiendo de los diferentes tipos de comidas. Esta falta de variedad y acceso a artículos en línea que no cuenten con dificultad al realizarlo es de satisfacción  por estos contenidos y limita su capacidad de obtener recetas exclusivas.
+
+Hemos notado que las opciones de pago de estas aplicaciones no se encuentran en rangos de precio asequibles para los compradores regulares, problemática que limita el acceso a la adquisición de dichos servicios y afecta negativamente a la experiencia de compra. Este alto costo se debe a la escasez de tiendas especializadas en el rubro de enseñanza online en el Perú, por lo que la falta de competencia y gran demanda genera un aumento en los precios. En consecuencia, los clientes se encuentran obligados a pagar precios excesivos o tienen que renunciar a los deseos de obtener esta aplicación.
+
+
+Hemos observado que en el mercado peruano actual existen carencias en cuanto a la diversidad de enseñanza en la cocina. Esta carencia de variedad se hace evidente a través de la repetición de platos gastronómicos que realizan en su día a día. Por ende, esta repetitividad de productos genera limitantes opciones a los consumidores y también esto desencadena un desinterés progresivo debido a la falta de novedades de las recetas de comida. 
+
+
+Hemos notado que las tiendas tienden a enfocarse en solo un segmento del mercado oriental, como por ejemplo, la venta de recetas gastronómicas por segmentos. Esta limitación en la variedad de productos es notoria tanto en las tiendas físicas como en las tiendas virtuales. Por lo que esta restricción puede llevar a los consumidores a explorar nuevas alternativas como las tiendas internacionales, y existe la posibilidad de que las tiendas locales pierdan clientes. 
+
+Al realizar compras en línea en tiendas virtuales enfocadas en el mercado oriental que no ofrecen una gran variedad de opciones de pago seguras y confiables, hemos observado que muchos usuarios se sienten inseguros. En la actualidad, las pocas tiendas presentes en el mercado peruano de este sector ofrecen una variedad limitada de métodos de pago, limitando los pagos con efectivo, Yape o Plin, y rechazando los pagos con tarjetas de crédito, débito o PayPal. La exclusión de métodos de pago populares y comunes limita la comodidad y la flexibilidad que esperan los usuarios al realizar compras en línea, e incluso llega a limitar su crecimiento, reduciendo oportunidades comerciales.
+
+
+Hemos observado que los clientes de este sector en Perú tienen dificultades para encontrar información detallada sobre las recetas gastronómicas en las tiendas ya existentes, como ingredientes, sugerencias de uso dependiendo el utensilio y calificaciones de ventas, lo que les dificulta tomar decisiones de compra informadas. Muchos de estos clientes buscan conocer detalles específicos de los productos, como el tamaño de la figura coleccionable, cuántas personas han comprado un plan específico en la plataforma, cuál es el rango de calificación de los compradores del sector, entre otras características, porque esta amplitud de información los hace sentir más seguros al hacer una compra. 
+
+Hemos detectado que el prolongado tiempo de espera asociado a la entrega de un libro adquirido virtualmente de librerías conocidas, genera incomodidad y un sentimiento de impaciencia en los consumidores. Además, afecta negativamente la experiencia de compra ya que desgasta la confianza que tiene el cliente. Por ende, una plataforma de recetas de comida es capaz de solventar este desafío y más, a través de la implementación de recetas actualizadas dentro del país es una opción innovadora.
+
+
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
+
+Business Assumptions
+1. Los usuarios valoran la personalización y precisión en las recomendaciones de recetas basadas en sus ingredientes disponibles y preferencias alimenticias.
+2. Proporcionar información nutricional precisa y detallada aumentará la confianza del usuario en nuestro servicio y mejorará su experiencia general.
+3. Una base de datos de recetas amplia y constantemente actualizada mantendrá a los usuarios comprometidos y fomentará el uso repetido del servicio.
+4. Un sistema de filtrado avanzado y una interfaz de usuario intuitiva e interactiva aumentarán la satisfacción del usuario y la adopción del servicio.
+5. Al satisfacer las necesidades de los usuarios de manera efectiva, podemos aumentar la retención de usuarios y expandir nuestra base de usuarios.
+6. Al mejorar continuamente nuestras características y servicios basados en los comentarios de los usuarios, podemos mantenernos competitivos en el mercado.
+
+User Assumptions
+¿Quién es el usuario? 
+Una persona con poca experiencia en la cocina que busca recomendaciones de recetas en base a los ingredientes disponibles y tener un mayor control de los alimentos que consume.
+ 
+¿Dónde encaja nuestro servicio en su trabajo o vida? 
+MealMaster se integra en la vida diaria, proporcionando diferentes opciones para los desayunos, almuerzos, cenas y/o comidas del usuario.
+
+¿Qué problema tiene nuestro servicio y cómo se resuelve?
+Resuelve la dificultad que conlleva encontrar recetas de comida que se ajusten a los ingredientes del usuario y tener un mayor control de los alimentos que consuman.
+
+¿Cuándo y cómo es usado nuestro servicio?
+Se utiliza principalmente durante la planificación de comidas, momento donde el usuario necesita ideas de platos de comida en base a los que dispone y las preferencias que tiene.
+
+Users outcomes
+Los usuarios pueden encontrar recetas que se ajusten a sus ingredientes disponibles y preferencias alimenticias de manera eficiente.
+Los usuarios tienen un mayor control sobre los alimentos que consumen gracias a la información nutricional precisa proporcionada. 
+Los usuarios pueden explorar una amplia variedad de recetas, lo que les permite diversificar sus comidas y experimentar con nuevos platos.
+
+Business outcomes
+Aumento de la satisfacción del usuario debido a las recomendaciones de recetas personalizadas y precisas, lo que puede llevar a un mayor uso del servicio.
+Mejora de la reputación del servicio debido a la precisión de la información nutricional proporcionada.
+Expansión de la base de usuarios a medida que el servicio se vuelve más útil y relevante para una variedad de preferencias dietéticas y disponibilidad de ingredientes.
+
+Features
+¿Qué características son importantes? 
+Sistema de filtrado avanzado, que se adapte en base a los ingredientes que dispone el usuario y a diferentes preferencias.
+Información nutritiva precisa y detallada para cada receta recomendada. Esta puede incluir calorías, proteínas, carbohidratos, grasas, vitaminas y minerales.
+Base de datos de recetas amplia que logre garantizar una alta variedad de opciones alimenticias, la cual se actualiza constantemente.
+¿Cómo debería verse y comportarse nuestro servicio?
+Debe tener un aspecto visualmente atractivo, contar con una facilidad de uso y utilizar una interfaz intuitiva e interactiva. El ingreso de preferencias e ingredientes de los usuarios debe realizarse de forma sencilla y las recomendaciones que surjan deben presentarse de manera atractiva, utilizando imágenes e información nutricional visibles de forma rápida y eficiente.
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+Hypothesis 1
+
+Creemos que si mejoramos el sistema de filtrado para que las recomendaciones de recetas se ajusten más precisamente a los ingredientes disponibles y preferencias alimenticias de los usuarios, entonces esperamos ver un aumento en la satisfacción del usuario y un mayor uso del servicio.
+
+Hypothesis 2
+
+Creemos que si proporcionamos información nutricional precisa y detallada para cada receta recomendada, entonces esperamos que los usuarios tengan un mayor control sobre los alimentos que consumen, lo que puede llevar a una mejora en la reputación del servicio y una expansión de la base de usuarios.
+
+Hypothesis 3
+
+Creemos que si mantenemos una base de datos de recetas amplia y constantemente actualizada, entonces esperamos que los usuarios se mantengan comprometidos y fomenten el uso repetido del servicio.
+
+Hypothesis 4
+
+Creemos que si implementamos un sistema de filtrado avanzado y una interfaz de usuario intuitiva e interactiva, entonces esperamos ver un aumento en la satisfacción del usuario y la adopción del servicio.
+
+Hypothesis 5
+
+Creemos que si satisfacemos las necesidades de los usuarios de manera efectiva, entonces podemos esperar un aumento en la retención de usuarios y una expansión de nuestra base de usuarios.
+Si mejoramos continuamente nuestras características y servicios basados en los comentarios de los usuarios, entonces podemos esperar mantenernos competitivos en el mercado.
+
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+Nuestro segmento objetivo está compuesto por 2 tipos de usuarios principalmente:
+Cocinero Inexperto:
+Para el desarrollo de MealMaster se consideró a cocineros inexpertos que buscan mejorar sus habilidades culinarias y disfrutar de una alimentación más saludable sin la necesidad de experiencia previa en la cocina. Nuestra plataforma brinda una interfaz amigable y muy fácil de usar, donde los cocineros inexpertos  pueden aprender a preparar comidas sencillas y nutritivas, utilizando recetas adaptadas a sus preferencias y disponibilidad de ingredientes. Con tutoriales paso a paso y consejos personalizados, ayudamos a estos cocineros novatos a ganar confianza en la cocina, fomentando un estilo de vida más saludable y autosuficiente.Además, nuestra plataforma presenta un apartado para organizar y diseñar planes alimenticios, los cuales un cocinero inexperto podría aprovechar para cocinar su propio plan.
 
----
+
+
+
+Entusiasta de la Nutrición:
+Para los entusiastas de la nutrición que están comprometidos con una alimentación saludable y buscan optimizar su dieta, MealMaster ofrece una solución perfecta. Nuestra plataforma permite a los entusiastas de la nutrición a acceder a recetas nutritivas personalizadas según sus objetivos de salud específicos, preferencias dietéticas y necesidades calóricas. Con información detallada sobre el contenido nutricional de cada plato. MealMaster se convierte en un aliado indispensable para aquellos que desean tomar decisiones informadas sobre su alimentación y mejorar continuamente su bienestar. De igual manera en el apartado de organizar y diseñar plan alimenticio, el entusiasta de la nutrición  puede visualizar el contenido nutricional y su progreso.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
+En el mercado de recetas en línea enfocadas en productos relacionados con la comida saludable, Meal Master se encuentra en un entorno competitivo. A continuación, se presentan los principales competidores directos: 
+
 ### 2.1.1. Análisis competitivo.
 
 | Competitive Analysis Landscape                          |  |

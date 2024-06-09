@@ -365,7 +365,7 @@ Preguntas para la Persona Interesada en el Seguimiento Nutricional:
 ### 2.2.2. Registro de entrevistas.
 **URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
 **Cocinero Inexperto**  
-![Imagen de entrevista](entrevista1.jpg)  
+![Imagen de entrevista](entrevista1.png)  
 
 **Timing: 10:35 min**
 **Resumen**
@@ -376,7 +376,7 @@ de la tecnología y resalta su gusto por la sazón peruana, por lo que quisiera 
 **Entrevista2**
 **URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
 
-![Imagen de entrevista](entrevista2.jpg)  
+![Imagen de entrevista](entrevista2.png)  
 **Timing: 10:46 min**
 **Resumen**
 El entrevistado de nombre Augusto, reside en Lima, nació en 2005, es estudiante de Ing. de Software.Por lo general no suele cocinar, sin embargo, cuando lo hace, suelen ser cosas muy sencillas. Menciona también la importancia para él, de llevar una buena alimentación. 
@@ -386,7 +386,7 @@ de las 2 características de la solución, hace que sea mucho mejor y de todas m
 **Entrevista3**
 **URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
 
-![Imagen de entrevista](entrevista3.jpg)  
+![Imagen de entrevista](entrevista3.png)  
 **Timing: 12:29 min**
 **Resumen**
 
@@ -397,7 +397,7 @@ puede llevar un control de su alimentación, le pareció un increíble plus. Ind
 **Entrevista4**
 **URL del video completo:**  https://youtu.be/5sxKK-3rASc 
 
-![Imagen de entrevista](entrevista4.jpg)  
+![Imagen de entrevista](entrevista4.png)  
 **Timing: 09:34 min**
 **Resumen**
 La entrevista fue realizada a Diego Servan. Es ingeniero Industrial, trabaja en el banco . Durante estos años ha logrado combatir con la falta de conocimiento al momento de llevar su comida al trabajo, ya que no conoce muchos platos por cocinar y no tiene muchas ideas de recetas diarias para lograr realizarlo. Sin embargo, Diego se ha ido apoyando de algunas recetas saludables que lograba encontrar en internet , pero no logra realizarlo bien. De hecho, nos comenta que no le gusta cocinar mucho porque no conoce un buen recetario que él pueda realizar.Por último, nos comenta que una aplicación que ayude a conocer distintas recetas le parece una idea excelente y muy interesante.
@@ -406,7 +406,7 @@ La entrevista fue realizada a Diego Servan. Es ingeniero Industrial, trabaja en 
 
 **Entrevista5**
 **URL del video completo:**  https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
-![Imagen de entrevista](entrevista5.jpg)  
+![Imagen de entrevista](entrevista5.png)  
 **Timing: 6:44 min**
 **Resumen**
 El entrevistado de nombre Cesar, reside en Lima, tiene 19 años y estudia Ing de Software. 
@@ -414,7 +414,7 @@ Es un amante de la cocina, suele cocinar en su hogar. Sin embargo, Cesar está m
 
 **Entrevista6**
 **URL del video completo:**  https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
-![Imagen de entrevista](entrevista6.jpg)  
+![Imagen de entrevista](entrevista6.png)  
 **Timing:  7:39 min**
 **Resumen**
 El entrevistado de nombre Bruno, reside en Lima , tiene 21 años. 
@@ -424,7 +424,7 @@ El cual pueda planear sus alimentos para complementarlo con la actividad física
 
 **Entrevista7**
 **URL del video completo:**  https://youtu.be/Lc20DusLN_c 
-![Imagen de entrevista](entrevista7.jpg)  
+![Imagen de entrevista](entrevista7.png)  
 **Timing:  11:34 min**
 **Resumen**
 La entrevista fue realizada a Andrea Estrada. Es administradora de empresas desde hace 2 años, trabaja en una empresa de venta de etiquetas evaluando los requerimientos de la empresa en la cual trabaja, brinda prioridad al crecimiento de la empresa.
@@ -463,15 +463,15 @@ Crear opciones de planificación de menús semanales con listas de compras autom
 Para garantizar una comprensión profunda de nuestros segmentos objetivo, hemos llevado a cabo un exhaustivo proceso de elaboración de User Personas. Hemos creado un User Persona para cada uno de los segmentos clave que hemos identificado
 
 **User Persona 1: Cocinero Inexperto**
-![Imagen User Persona 1](user1.jpg)
+![Imagen User Persona 1](user1.png)
 **User Persona 2: Entusiasta de la nutrición**
-![Imagen User Persona 1](user2.jpg)
+![Imagen User Persona 1](user2.png)
 
 
 ### 2.3.2. User Task Matrix.
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones: never, rarely, sometimes, often, always; y para la importancia tres opciones: low, medium, high.
 
-![UserTax](usertax.jpg)
+![UserTax](usertax.png)
 
 ### 2.3.3. User Journey Mapping.
 **Registration:**
@@ -496,30 +496,30 @@ Why would they invite others?
 En esta sección se presenta el Empathy Mapping, herramienta para crear un perfil detallado de los user persona y desarrollar una comprensión profunda de su perspectiva y experiencia.
 
 **Empathy Mapping 1: Cocinero Inexperto**
-![Empathy Map Segmento1](mapping1.jpg)
+![Empathy Map Segmento1](mapping1.png)
 
 **Empathy Mapping 2: Entusiasta de la nutrición**
-![Empathy Map Segmento1](mapping2.jpg)
+![Empathy Map Segmento1](mapping2.png)
 
 
 
 ### 2.3.5. As-is Scenario Mapping.
 
 **As-is Scenario Mapping 1: Cocinero Inexperto**  
-![As-is](asis1.jpg)
+![As-is](asis1.png)
 
 **To-Be Scenario Mapping 2: Entusiasta de la nutrición**  
-![As-is](asis2.jpg)
+![As-is](asis2.png)
 
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
 **To-Be Scenario Mapping 1: Cocinero Inexperto**  
-![To-Be](tobe1.jpg)
+![To-Be](tobe1.png)
 
 **To-Be Scenario Mapping 2: Clientes que buscan medir las calorías que consumen y llevar un control más detallado, de igual manera con el contacto de un profesional a su disposición.**  
-![To-Be](tobe2.jpg)
+![To-Be](tobe2.png)
 
 ## 3.2. User Stories.
 
@@ -528,7 +528,7 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 
 ## 3.3. Impact Mapping.
 **Link del miro:  https://miro.com/app/board/uXjVKNP7IR4=/?share_link_id=521254084234**
-![Impact Mapping](impactmapping.jpg)
+![Impact Mapping](impactmapping.png)
 
 ## 3.4. Product Backlog.
 
@@ -547,13 +547,13 @@ Con el propósito de dar estilo y reconocimiento a nuestra aplicación web que p
 El tipo de tipografía escogida es Raleway, resalta elegancia y modernidad. Ofreciendo así, una visión amigable y fácil de leer para nuestra plataforma.
 
 #### Logotipo
-![Imgur](https://imgur.com/01ZzG81.jpg)
+![Imgur](https://imgur.com/01ZzG81.png)
 
-![Imgur](https://imgur.com/pzpkb3P.jpg)
+![Imgur](https://imgur.com/pzpkb3P.png)
 
 #### Colors
 
-![Imgur](https://imgur.com/oLdpYAb.jpg)
+![Imgur](https://imgur.com/oLdpYAb.png)
 
 #### Spacing
 El spacing mantiene:
@@ -631,34 +631,34 @@ Para la aplicación web haremos uso de un sidebar para la navegación entre los 
 ### 4.3.2. Landing Page Wireframe
  Link Figma Landing Page Wireframe: https://www.figma.com/proto/nEypHPwCcG8EhmtVhJOvJr/MealMaster?page-id=0%3A1&type=design&node-id=167-834&viewport=4399%2C734%2C0.39&t=Ho8sRzWynTSVflcb-1&scaling=min-zoom&starting-point-node-id=167%3A834&show-proto-sidebar=1&mode=design 
 
-![Imgur](https://imgur.com/LqIUOY3.jpg)
+![Imgur](https://imgur.com/LqIUOY3.png)
 
 ### 4.3.2. Landing Page Mock-up
  Link Figma Landing Page Mock-Up: https://www.figma.com/proto/nEypHPwCcG8EhmtVhJOvJr/MealMaster?page-id=0%3A1&type=design&node-id=54-332&viewport=4399%2C734%2C0.39&t=otNJnnSFIW0hXd45-1&scaling=min-zoom&starting-point-node-id=54%3A332&show-proto-sidebar=1&mode=design 
 
-![Imgur](https://imgur.com/C3EdZp9.jpg)
-![Imgur](https://imgur.com/xlHjv7e.jpg)
-![Imgur](https://imgur.com/IACnVKM.jpg)
+![Imgur](https://imgur.com/C3EdZp9.png)
+![Imgur](https://imgur.com/xlHjv7e.png)
+![Imgur](https://imgur.com/IACnVKM.png)
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 En primer lugar, se presentarán los wireframes de la aplicación, que luego serán usados como plantilla.
-![Imgur](https://imgur.com/0DR3Qvn.jpg)
-![Imgur](https://imgur.com/YegBn2H.jpg)
-![Imgur](https://imgur.com/TRj2sp9.jpg)
-![Imgur](https://imgur.com/3xRzXAw.jpg)
-![Imgur](https://imgur.com/3F5UWrr.jpg)
+![Imgur](https://imgur.com/0DR3Qvn.png)
+![Imgur](https://imgur.com/YegBn2H.png)
+![Imgur](https://imgur.com/TRj2sp9.png)
+![Imgur](https://imgur.com/3xRzXAw.png)
+![Imgur](https://imgur.com/3F5UWrr.png)
 ![Imgur](https://imgur.com/ssa7pBB.jpg)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+![Web Aplication Wireflow](image.png)
 ### 4.4.2. Web Applications Mock-ups.
 En esta sección, se presentan los wireflows de la aplicación, guiándose de las historias de usuario respectivas.
 
 **User Goal: El usuario se registra, recupera su contraseña o inicia sesión**
 
-![Imgur](https://imgur.com/yoq8kua.jpg)
+![Imgur](https://imgur.com/yoq8kua.png)
 
 Descripción:
 Al ingresar a la aplicación el usuario se encuentra con un formulario para inicio de sesión. Además, tiene también la opción de registrarse en caso no posea una cuenta y la opción de cambiar su contraseña en caso de que la haya olvidado. Dentro del formulario de registro podrá llenar todos sus datos y el mismo formulario le confirmará que su registro fue exitoso. Cuando el usuario ingrese correctamente sus credenciales podrá ingresar a su página de inicio.
@@ -666,14 +666,14 @@ Al ingresar a la aplicación el usuario se encuentra con un formulario para inic
 
 **User Goal: Perfil de usuario**
 
-![Imgur](https://imgur.com/NxZ0Apj.jpg)
+![Imgur](https://imgur.com/NxZ0Apj.png)
 
 Descripción:
 Si el usuario desea acceder a su perfil. Desde la página de inicio puede hacer click en el menú “Hamburger” ubicado en la esquina superior izquierda, lo que desplegará un “Sidebar” donde se mostrarán todas las opciones disponibles, entre ellas el “Perfil”. Haciendo click en la opción “Perfil” el usuario podrá acceder a su perfil y visualizar toda su información.
 
 ### 4.4.3. Web Applications Mock-Ups
 
-![Imgur](https://imgur.com/j1HjiQX.jpg)
+![Imgur](https://imgur.com/j1HjiQX.png)
 
 link: https://www.figma.com/proto/nEypHPwCcG8EhmtVhJOvJr/MealMaster?page-id=0%3A1&type=design&node-id=52-1044&viewport=2279%2C660%2C0.24&t=d8bNesaa3lxnFw7a-1&scaling=min-zoom&starting-point-node-id=52%3A1044&show-proto-sidebar=1&mode=design 
 

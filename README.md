@@ -179,10 +179,10 @@ Visión: Convertirnos en la plataforma líder en organización y planificación 
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
 |Cortés Casas, Joaquin Marcelo ![Integrante](images/joaquin.png)|U202114545 |Ingenieria de software|Mi edad es de 20 años, soy un estudiante de la carrera de Ingeniería de Software en la UPC. Desde una edad temprana, he tenido un interés por el manejo de la tecnología y la interacción con los videojuegos. Tengo un fuerte sentido de liderazgo al asumir la responsabilidad de coordinar y motivar a los equipos de trabajo en momentos clave. Siempre estoy dispuesto a enfrentar nuevos desafíos y desarrollar mis conocimientos en el entorno del Software.|
-| Diaz Silva, Fernando Josué|U202112722|Ingenieria de software|Soy Fernando Diaz, tengo 20 años, me apasiona la tecnología, actualmente estudio la carrera de  ingeniería de software en la Universidad Peruana de Ciencias Aplicadas(UPC). A lo largo de la carrera he desarrollado distintas habilidades, mi principal enfoque en esta carrera parte del software como tal y el ámbito empresarial, para lo cual planeo realizar un MBA. Soy una persona proactiva, responsable y disciplinada. Estoy preparado para desarrollar un buen trabajo junto a mi equipo y aplicar todo el conocimiento adquirido a lo largo de mi carrera.|
-|Chávez Rojas, Carlos Raúl Guillermo |U201910317|Ingenieria de software|Tengo 22 años y estudió la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona el mundo digital y la capacidad de la tecnología para solucionar problemas y crear nuevas experiencias. Soy una persona proactiva, responsable y con gran capacidad de aprendizaje. Tengo un fuerte interés por la investigación y la innovación, y estoy siempre buscando nuevas formas de mejorar mis habilidades y conocimientos.|
-|Ruiz Blas, Luciano Stefano|U20211F978|Ingenieria de software|Soy Luciano Ruiz, tengo 20 años y estudió la carrera de Ingeniería de Software. Soy un apasionado de la tecnología y la creación de software. Además, cuento con conocimiento de diferentes lenguajes de programación como C++, C#, Java, Python, etc. Me gusta aprender intensamente temas de mi interés como la inteligencia artificial y el desarrollo de aplicaciones móviles. Finalmente, me considero una persona con cualidades aptas para trabajar en equipo y aprender rápidamente conocimientos.|
-|Becerra Llempen, Fabiola Dayane|U20171a518|Ingenieria de software|Soy Fabiola Becerra, actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una apasionada de la tecnología e innovación, utilizando todas las herramientas de software disponibles. Me considero una persona dinámica, responsable y con muchas ganas de enfrentar nuevos retos y experiencias. Mis temas de interés son la inteligencia artificial y la innovación en estos campos. Siempre estoy al tanto de los temas actuales para reforzar mis conocimientos y mejorar mis habilidades blandas. Por último, me siento capacitada para colaborar en equipo y asimilar con rapidez nuevos aprendizajes.|
+| Diaz Silva, Fernando Josué ![Integrante](images/fernando.png)|U202112722|Ingenieria de software|Soy Fernando Diaz, tengo 20 años, me apasiona la tecnología, actualmente estudio la carrera de  ingeniería de software en la Universidad Peruana de Ciencias Aplicadas(UPC). A lo largo de la carrera he desarrollado distintas habilidades, mi principal enfoque en esta carrera parte del software como tal y el ámbito empresarial, para lo cual planeo realizar un MBA. Soy una persona proactiva, responsable y disciplinada. Estoy preparado para desarrollar un buen trabajo junto a mi equipo y aplicar todo el conocimiento adquirido a lo largo de mi carrera.|
+|Chávez Rojas, Carlos Raúl Guillermo ![Integrante](images/carlos.png)|U201910317|Ingenieria de software|Tengo 22 años y estudió la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona el mundo digital y la capacidad de la tecnología para solucionar problemas y crear nuevas experiencias. Soy una persona proactiva, responsable y con gran capacidad de aprendizaje. Tengo un fuerte interés por la investigación y la innovación, y estoy siempre buscando nuevas formas de mejorar mis habilidades y conocimientos.|
+|Ruiz Blas, Luciano Stefano ![Integrante](images/luciano.png)|U20211F978|Ingenieria de software|Soy Luciano Ruiz, tengo 20 años y estudió la carrera de Ingeniería de Software. Soy un apasionado de la tecnología y la creación de software. Además, cuento con conocimiento de diferentes lenguajes de programación como C++, C#, Java, Python, etc. Me gusta aprender intensamente temas de mi interés como la inteligencia artificial y el desarrollo de aplicaciones móviles. Finalmente, me considero una persona con cualidades aptas para trabajar en equipo y aprender rápidamente conocimientos.|
+|Becerra Llempen, Fabiola Dayane ![Integrante](images/fabiola.png)|U20171a518|Ingenieria de software|Soy Fabiola Becerra, actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una apasionada de la tecnología e innovación, utilizando todas las herramientas de software disponibles. Me considero una persona dinámica, responsable y con muchas ganas de enfrentar nuevos retos y experiencias. Mis temas de interés son la inteligencia artificial y la innovación en estos campos. Siempre estoy al tanto de los temas actuales para reforzar mis conocimientos y mejorar mis habilidades blandas. Por último, me siento capacitada para colaborar en equipo y asimilar con rapidez nuevos aprendizajes.|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -286,101 +286,193 @@ Creemos que si satisfacemos las necesidades de los usuarios de manera efectiva, 
 Si mejoramos continuamente nuestras características y servicios basados en los comentarios de los usuarios, entonces podemos esperar mantenernos competitivos en el mercado.
 
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+![leanUx](images/leanUx1.png)
+![leanUx](images/leanUx2.png)
+
 ## 1.3. Segmentos objetivo.
 Nuestro segmento objetivo está compuesto por 2 tipos de usuarios principalmente:
 Cocinero Inexperto:
 Para el desarrollo de MealMaster se consideró a cocineros inexpertos que buscan mejorar sus habilidades culinarias y disfrutar de una alimentación más saludable sin la necesidad de experiencia previa en la cocina. Nuestra plataforma brinda una interfaz amigable y muy fácil de usar, donde los cocineros inexpertos  pueden aprender a preparar comidas sencillas y nutritivas, utilizando recetas adaptadas a sus preferencias y disponibilidad de ingredientes. Con tutoriales paso a paso y consejos personalizados, ayudamos a estos cocineros novatos a ganar confianza en la cocina, fomentando un estilo de vida más saludable y autosuficiente.Además, nuestra plataforma presenta un apartado para organizar y diseñar planes alimenticios, los cuales un cocinero inexperto podría aprovechar para cocinar su propio plan.
 
-
+![segmento](images/cocineroexperto.png)
 
 
 Entusiasta de la Nutrición:
 Para los entusiastas de la nutrición que están comprometidos con una alimentación saludable y buscan optimizar su dieta, MealMaster ofrece una solución perfecta. Nuestra plataforma permite a los entusiastas de la nutrición a acceder a recetas nutritivas personalizadas según sus objetivos de salud específicos, preferencias dietéticas y necesidades calóricas. Con información detallada sobre el contenido nutricional de cada plato. MealMaster se convierte en un aliado indispensable para aquellos que desean tomar decisiones informadas sobre su alimentación y mejorar continuamente su bienestar. De igual manera en el apartado de organizar y diseñar plan alimenticio, el entusiasta de la nutrición  puede visualizar el contenido nutricional y su progreso.
+
+![segmento](images/nutricion.png)
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 En el mercado de recetas en línea enfocadas en productos relacionados con la comida saludable, Meal Master se encuentra en un entorno competitivo. A continuación, se presentan los principales competidores directos: 
 
 ### 2.1.1. Análisis competitivo.
+![competitivo](images/competitivo1.png)
+![competitivo](images/competitivo2.png)
+![competitivo](images/competitivo3.png)
+![competitivo](images/competitivo4.png)
+2.1.2. Estrategias y tácticas frente a competidores: 
 
-| Competitive Analysis Landscape                          |  |
-| ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
-
-
-| |  | (Nosotros) | Competidor  | Comptdor |
-|-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
-### 2.1.2. Estrategias y tácticas frente a competidores.
+Liderazgo en costes:
+Tenemos la capacidad de producir y ofrecer nuestro producto de manera gratuita, sin agregar limitaciones a sus funciones principales. Asimismo, para las membresías de pago, podemos ofrecer un precio inferior al de nuestros competidores, con la intención de hacer de nuestra aplicación una opción más atractiva. Y también, orientándose a satisfacer las necesidades de nuestros clientes que enfocan su decisión de compra en el precio.
+Estrategia de diferenciación:
+Tenemos la capacidad de producir y ofrecer nuestro producto de manera gratuita, sin agregar limitaciones a sus funciones principales. Asimismo, para las membresías de pago, podemos ofrecer un precio inferior al de nuestros competidores, con la intención de hacer de nuestra aplicación una opción más atractiva. Y también, orientándose a satisfacer las necesidades de nuestros clientes que enfocan su decisión de compra en el precio.
 
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+Estrategia de enfoque:
+Somos conscientes que el crecimiento de la tecnología y el incremento en el uso de computadoras y smartphones, han generado una gran demanda en los servicios de gestión y guías gastronómicas. Por ello, nos enfocamos en toda aquella persona que se dedique o quiera dedicarse a la cocina y que requiera un software que le ayude con el correcto uso de sus productos para realizar recetas. 
+
+
+Táctica de expansión:
+A pesar de que la aplicación funciona de manera gratuita. No planeamos saturar de anuncios por cada operación que se realice con ella. Planeamos expandir su uso a través de buenas calificaciones y anuncios.
+
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 **Preguntas generales:**
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+Preguntas Generales
+¿Cuál es su nombre completo?
+¿Dónde vive actualmente?
+¿Cuál es su fecha de nacimiento?
+¿Cuál es su ocupación actual?
+¿Tiene experiencia en la cocina? ¿Suele prepararse sus propias comidas?
+¿Se encuentra interesado en realizar un seguimiento del valor nutricional de los alimentos que consume?
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+Preguntas para ambos segmentos
+¿Cuáles son los desafíos más comunes que encuentras al planificar tus comidas diarias?
+¿Cómo decides qué recetas preparar con los ingredientes que tienes a mano?
+¿Qué tipo de información nutricional consideras más importante al elegir una receta?
+¿Podrías contarme sobre una experiencia reciente en la que hayas cocinado algo nuevo?
+¿Cómo afecta tu rutina diaria la planificación y preparación de tus comidas?
+¿Qué te motiva a seguir un plan de alimentación o a cocinar por ti mismo?
+¿Qué características valorarías en una aplicación que te ayude a organizar tus comidas?
+¿Cómo te gustaría que una aplicación web te asistiera en el seguimiento de tus objetivos nutricionales?
+¿Qué te impulsa a buscar nuevas recetas o cambiar tu dieta actual?
+¿Cómo evalúas el éxito de tu plan de comidas y nutrición?
+Preguntas para el Cocinero Inexperto:
+¿Qué tipo de recetas te gustaría ver recomendadas cuando no estás seguro de qué cocinar?
+¿Cómo te sientes al probar técnicas de cocina nuevas y cómo te gustaría que una aplicación te guiará en ese proceso?
+¿Qué ingredientes sueles tener en tu despensa y cómo decides utilizarlos?
+¿Qué factores consideras más intimidantes o desafiantes al momento de cocinar?
+Preguntas para la Persona Interesada en el Seguimiento Nutricional:
+¿Qué metas específicas tienes en mente al buscar un seguimiento nutricional detallado?
+¿Qué herramientas o métodos has utilizado anteriormente para hacer seguimiento de tu dieta y qué te gustaría mejorar?
+¿Cómo te mantienes informado sobre nutrición y qué tipo de información buscas regularmente?
+¿Qué aspectos de tu salud o bienestar esperas mejorar al tener un mayor control sobre lo que consumes?
+
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+**URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
+**Cocinero Inexperto**  
+![Imagen de entrevista](entrevista1.jpg)  
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**Timing: 10:35 min**
+**Resumen**
+El entrevistado de nombre Daniel, comenta que reside en lima, nació en 2002 y estudia la carrera de Ing. de Sistemas. 
+No tiene ningún tipo de experiencia en la cocina. Está muy interesado en aprender y nuestra solución le parece bastante interesante, se considera un amante 
+de la tecnología y resalta su gusto por la sazón peruana, por lo que quisiera poder aprender a preparar platillos nacionales. En definitiva sería un usuario de Meal Master.
+
+**Entrevista2**
+**URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
+
+![Imagen de entrevista](entrevista2.jpg)  
+**Timing: 10:46 min**
+**Resumen**
+El entrevistado de nombre Augusto, reside en Lima, nació en 2005, es estudiante de Ing. de Software.Por lo general no suele cocinar, sin embargo, cuando lo hace, suelen ser cosas muy sencillas. Menciona también la importancia para él, de llevar una buena alimentación. 
+Le parece genial la idea de una herramienta digital que le permita no solo aprender a cocinar, sino también elaborar un plan nutricional. Resalta que la complementación 
+de las 2 características de la solución, hace que sea mucho mejor y de todas maneras sería un usuario.
+
+**Entrevista3**
+**URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
+
+![Imagen de entrevista](entrevista3.jpg)  
+**Timing: 12:29 min**
+**Resumen**
+
+El entrevistado de nombre Fritz, es un joven Piurano de 20 años, estudiante de Derecho. 
+La cocina no es su punto fuerte, pese a eso, es capaz de preparar recetas únicamente viendo tutoriales. Le parece muy importante seguir una buena alimentación y que mejor, que poder uno mismo cocinarse. Al mencionarle que en nuestra solución también 
+puede llevar un control de su alimentación, le pareció un increíble plus. Indica que si o si será un usuario.
+
+**Entrevista4**
+**URL del video completo:**  https://youtu.be/5sxKK-3rASc 
+
+![Imagen de entrevista](entrevista4.jpg)  
+**Timing: 09:34 min**
+**Resumen**
+La entrevista fue realizada a Diego Servan. Es ingeniero Industrial, trabaja en el banco . Durante estos años ha logrado combatir con la falta de conocimiento al momento de llevar su comida al trabajo, ya que no conoce muchos platos por cocinar y no tiene muchas ideas de recetas diarias para lograr realizarlo. Sin embargo, Diego se ha ido apoyando de algunas recetas saludables que lograba encontrar en internet , pero no logra realizarlo bien. De hecho, nos comenta que no le gusta cocinar mucho porque no conoce un buen recetario que él pueda realizar.Por último, nos comenta que una aplicación que ayude a conocer distintas recetas le parece una idea excelente y muy interesante.
+
+**Segmento objetivo 2: Entusiasta de la nutrición**
+
+**Entrevista5**
+**URL del video completo:**  https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
+![Imagen de entrevista](entrevista5.jpg)  
+**Timing: 6:44 min**
+**Resumen**
+El entrevistado de nombre Cesar, reside en Lima, tiene 19 años y estudia Ing de Software. 
+Es un amante de la cocina, suele cocinar en su hogar. Sin embargo, Cesar está muy interesado en controlar y llevar un correcto plan alimenticio. Con el cual, logre su objetivo. Lo ideal para él, es algo que sea práctico, sin muchas complicaciones, y con lo cual pueda cumplir su objetivo. Una vez explicado el funcionamiento y determinadas funcionalidades específicas de nuestra solución, Cesar menciona lo entusiasmado que se encuentra por  poder usar una herramienta de este tipo. 
+
+**Entrevista6**
+**URL del video completo:**  https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
+![Imagen de entrevista](entrevista6.jpg)  
+**Timing:  7:39 min**
+**Resumen**
+El entrevistado de nombre Bruno, reside en Lima , tiene 21 años. 
+Menciona que tiene experiencia en la cocina, pero se encuentra muy interesado en mejorar su alimentación en cuanto a calidad y organización de sus alimentos.
+Hace ejercicio y parte de su objetivo es hacer un plan nutricional detallado. 
+El cual pueda planear sus alimentos para complementarlo con la actividad física que realiza. Hace referencia a que prefiere cocinar en casa, por temas de ahorro, higiene y rapidez.Finalmente, luego de haber expuesto el plan de Meal Master, afirmó que utilizaría y recomendaría nuestra solución. 
+
+**Entrevista7**
+**URL del video completo:**  https://youtu.be/Lc20DusLN_c 
+![Imagen de entrevista](entrevista7.jpg)  
+**Timing:  11:34 min**
+**Resumen**
+La entrevista fue realizada a Andrea Estrada. Es administradora de empresas desde hace 2 años, trabaja en una empresa de venta de etiquetas evaluando los requerimientos de la empresa en la cual trabaja, brinda prioridad al crecimiento de la empresa.
+Durante estos años ha logrado combatir con la falta de conocimiento al momento de llevar su comida al trabajo, ya que no conoce muchos platos por cocinar y no tiene muchas ideas de recetas diarias para lograr realizarlo. Sin embargo, Andrea se ha ido apoyando de algunas recetas saludables que lograba encontrar en internet y le salen deliciosas, pero sin alguna indicación de cómo realizarlo no podría lograrlo. De hecho, nos comenta que no le gusta comer siempre lo mismo, ya que se aburre rápido y siempre le gusta probar cosas nuevas.
+Por último, nos comenta que una aplicación que ayude a conocer distintas recetas y que sean saludables le parece una idea excelente y muy interesante, ya que ella cuida mucho su salud y le gustaría saber la cantidad de calorías que consume para lograr su objetivo que es bajar de peso.
+
+
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+
+Segmento 1: Cocinero Inexperto 
+Interés Común: Todos desean aprender a cocinar.
+Necesidad Clave: Requieren videotutoriales sencillos.
+Solución Potencial: Implementar guías paso a paso y videos interactivos.
+
+Sugerencias Específicas:
+Introducir una función de tutoriales en video para platillos básicos.
+Incluir sugerencias de recetas basadas en ingredientes fáciles de encontrar.
+Añadir una función de planificador de comidas que genere listas de compras automáticamente.
+
+
+Segmento 2: Entusiasta de la Nutrición
+Interés Común: Mejorar la nutrición y el control alimenticio.
+Necesidad Clave: Herramientas para la gestión y el seguimiento nutricional.
+Solución Potencial: Integrar funciones de personalización y seguimiento de dietas.
+
+Sugerencias Concretas:
+Implementar un sistema de configuración de objetivos nutricionales con recomendaciones personalizadas.
+Desarrollar un contador de calorías y macros para cada receta.
+Crear opciones de planificación de menús semanales con listas de compras automatizadas.
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-**Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+2.3.1. User Personas
 
-**Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+Para garantizar una comprensión profunda de nuestros segmentos objetivo, hemos llevado a cabo un exhaustivo proceso de elaboración de User Personas. Hemos creado un User Persona para cada uno de los segmentos clave que hemos identificado
+
+**User Persona 1: Cocinero Inexperto**
+![Imagen User Persona 1](user1.jpg)
+**User Persona 2: Entusiasta de la nutrición**
+![Imagen User Persona 1](user2.jpg)
+
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones: never, rarely, sometimes, often, always; y para la importancia tres opciones: low, medium, high.
+
+![UserTax](usertax.jpg)
+
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
@@ -401,56 +493,33 @@ Why would they invite others?
 - s
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+En esta sección se presenta el Empathy Mapping, herramienta para crear un perfil detallado de los user persona y desarrollar una comprensión profunda de su perspectiva y experiencia.
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+**Empathy Mapping 1: Cocinero Inexperto**
+![Empathy Map Segmento1](mapping1.jpg)
+
+**Empathy Mapping 2: Entusiasta de la nutrición**
+![Empathy Map Segmento1](mapping2.jpg)
+
+
+
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**As-is Scenario Mapping 1: Cocinero Inexperto**  
+![As-is](asis1.jpg)
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+**To-Be Scenario Mapping 2: Entusiasta de la nutrición**  
+![As-is](asis2.jpg)
 
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
-## 2.4. Ubiquitous Language.
-```
-Texto ubiquo: Definicion de este
-```
-
----
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
+**To-Be Scenario Mapping 1: Cocinero Inexperto**  
+![To-Be](tobe1.jpg)
 
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+**To-Be Scenario Mapping 2: Clientes que buscan medir las calorías que consumen y llevar un control más detallado, de igual manera con el contacto de un profesional a su disposición.**  
+![To-Be](tobe2.jpg)
 
 ## 3.2. User Stories.
 
@@ -458,8 +527,8 @@ Segmento 2:
 |-|-|-|
 
 ## 3.3. Impact Mapping.
-
-![Impact Mapping](image.jpg)
+**Link del miro:  https://miro.com/app/board/uXjVKNP7IR4=/?share_link_id=521254084234**
+![Impact Mapping](impactmapping.jpg)
 
 ## 3.4. Product Backlog.
 

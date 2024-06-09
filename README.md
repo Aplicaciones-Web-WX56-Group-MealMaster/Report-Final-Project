@@ -365,7 +365,7 @@ Preguntas para la Persona Interesada en el Seguimiento Nutricional:
 ### 2.2.2. Registro de entrevistas.
 **URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
 **Cocinero Inexperto**  
-![Imagen de entrevista](entrevista1.png)  
+![Imagen de entrevista](images/entrevista1.png)  
 
 **Timing: 10:35 min**
 **Resumen**
@@ -376,7 +376,7 @@ de la tecnología y resalta su gusto por la sazón peruana, por lo que quisiera 
 **Entrevista2**
 **URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
 
-![Imagen de entrevista](entrevista2.png)  
+![Imagen de entrevista](images/entrevista2.png)  
 **Timing: 10:46 min**
 **Resumen**
 El entrevistado de nombre Augusto, reside en Lima, nació en 2005, es estudiante de Ing. de Software.Por lo general no suele cocinar, sin embargo, cuando lo hace, suelen ser cosas muy sencillas. Menciona también la importancia para él, de llevar una buena alimentación. 
@@ -386,7 +386,7 @@ de las 2 características de la solución, hace que sea mucho mejor y de todas m
 **Entrevista3**
 **URL del video completo:** https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
 
-![Imagen de entrevista](entrevista3.png)  
+![Imagen de entrevista](images/entrevista3.png)  
 **Timing: 12:29 min**
 **Resumen**
 
@@ -397,7 +397,7 @@ puede llevar un control de su alimentación, le pareció un increíble plus. Ind
 **Entrevista4**
 **URL del video completo:**  https://youtu.be/5sxKK-3rASc 
 
-![Imagen de entrevista](entrevista4.png)  
+![Imagen de entrevista](images/entrevista4.png)  
 **Timing: 09:34 min**
 **Resumen**
 La entrevista fue realizada a Diego Servan. Es ingeniero Industrial, trabaja en el banco . Durante estos años ha logrado combatir con la falta de conocimiento al momento de llevar su comida al trabajo, ya que no conoce muchos platos por cocinar y no tiene muchas ideas de recetas diarias para lograr realizarlo. Sin embargo, Diego se ha ido apoyando de algunas recetas saludables que lograba encontrar en internet , pero no logra realizarlo bien. De hecho, nos comenta que no le gusta cocinar mucho porque no conoce un buen recetario que él pueda realizar.Por último, nos comenta que una aplicación que ayude a conocer distintas recetas le parece una idea excelente y muy interesante.
@@ -406,7 +406,7 @@ La entrevista fue realizada a Diego Servan. Es ingeniero Industrial, trabaja en 
 
 **Entrevista5**
 **URL del video completo:**  https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
-![Imagen de entrevista](entrevista5.png)  
+![Imagen de entrevista](images/entrevista5.png)  
 **Timing: 6:44 min**
 **Resumen**
 El entrevistado de nombre Cesar, reside en Lima, tiene 19 años y estudia Ing de Software. 
@@ -414,7 +414,7 @@ Es un amante de la cocina, suele cocinar en su hogar. Sin embargo, Cesar está m
 
 **Entrevista6**
 **URL del video completo:**  https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing 
-![Imagen de entrevista](entrevista6.png)  
+![Imagen de entrevista](images/entrevista6.png)  
 **Timing:  7:39 min**
 **Resumen**
 El entrevistado de nombre Bruno, reside en Lima , tiene 21 años. 
@@ -424,7 +424,7 @@ El cual pueda planear sus alimentos para complementarlo con la actividad física
 
 **Entrevista7**
 **URL del video completo:**  https://youtu.be/Lc20DusLN_c 
-![Imagen de entrevista](entrevista7.png)  
+![Imagen de entrevista](images/entrevista7.png)  
 **Timing:  11:34 min**
 **Resumen**
 La entrevista fue realizada a Andrea Estrada. Es administradora de empresas desde hace 2 años, trabaja en una empresa de venta de etiquetas evaluando los requerimientos de la empresa en la cual trabaja, brinda prioridad al crecimiento de la empresa.
@@ -463,15 +463,15 @@ Crear opciones de planificación de menús semanales con listas de compras autom
 Para garantizar una comprensión profunda de nuestros segmentos objetivo, hemos llevado a cabo un exhaustivo proceso de elaboración de User Personas. Hemos creado un User Persona para cada uno de los segmentos clave que hemos identificado
 
 **User Persona 1: Cocinero Inexperto**
-![Imagen User Persona 1](user1.png)
+![Imagen User Persona 1](images/user1.png)
 **User Persona 2: Entusiasta de la nutrición**
-![Imagen User Persona 1](user2.png)
+![Imagen User Persona 1](images/user2.png)
 
 
 ### 2.3.2. User Task Matrix.
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones: never, rarely, sometimes, often, always; y para la importancia tres opciones: low, medium, high.
 
-![UserTax](usertax.png)
+![UserTax](images/usertax.png)
 
 ### 2.3.3. User Journey Mapping.
 **Registration:**
@@ -496,30 +496,30 @@ Why would they invite others?
 En esta sección se presenta el Empathy Mapping, herramienta para crear un perfil detallado de los user persona y desarrollar una comprensión profunda de su perspectiva y experiencia.
 
 **Empathy Mapping 1: Cocinero Inexperto**
-![Empathy Map Segmento1](mapping1.png)
+![Empathy Map Segmento1](images/mapping1.png)
 
 **Empathy Mapping 2: Entusiasta de la nutrición**
-![Empathy Map Segmento1](mapping2.png)
+![Empathy Map Segmento1](images/mapping2.png)
 
 
 
 ### 2.3.5. As-is Scenario Mapping.
 
 **As-is Scenario Mapping 1: Cocinero Inexperto**  
-![As-is](asis1.png)
+![As-is](images/asis1.png)
 
 **To-Be Scenario Mapping 2: Entusiasta de la nutrición**  
-![As-is](asis2.png)
+![As-is](images/asis2.png)
 
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
 **To-Be Scenario Mapping 1: Cocinero Inexperto**  
-![To-Be](tobe1.png)
+![To-Be](images/tobe1.png)
 
 **To-Be Scenario Mapping 2: Clientes que buscan medir las calorías que consumen y llevar un control más detallado, de igual manera con el contacto de un profesional a su disposición.**  
-![To-Be](tobe2.png)
+![To-Be](images/tobe2.png)
 
 ## 3.2. User Stories.
 
@@ -528,7 +528,7 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 
 ## 3.3. Impact Mapping.
 **Link del miro:  https://miro.com/app/board/uXjVKNP7IR4=/?share_link_id=521254084234**
-![Impact Mapping](impactmapping.png)
+![Impact Mapping](images/impactmapping.png)
 
 ## 3.4. Product Backlog.
 

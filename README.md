@@ -684,6 +684,7 @@ Para esta sección, se presentan los user flow diagrams, los cuales son diagrama
 ## 4.5. Web Applications Prototyping.
 
 En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos. 
+
 ![Imgur](images/prototyping.JPG)
 
 link: https://www.figma.com/proto/CdgFvnlG3KaH8i1DkzBdPS/Landing-Page-Mock-up?page-id=0%3A1&type=design&node-id=44-1166&viewport=-625%2C-929%2C0.16&t=eDwh3NJDNQ9cpKtd-1&scaling=contain&starting-point-node-id=44%3A1166&mode=design 

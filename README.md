@@ -656,12 +656,12 @@ En esta sección, se presentan los wireflows de la aplicación, guiándose de la
 User Goal: El usuario se registra, recupera su contraseña o inicia sesión
 
 
-![webapp](images/webapp.jpg)
+![webapp](images/webapp.JPG)
 
 Descripción:
 Al ingresar a la aplicación el usuario se encuentra con un formulario para inicio de sesión. Además, tiene también la opción de registrarse en caso no posea una cuenta y la opción de cambiar su contraseña en caso de que la haya olvidado. Dentro del formulario de registro podrá llenar todos sus datos y el mismo formulario le confirmará que su registro fue exitoso. Cuando el usuario ingrese correctamente sus credenciales podrá ingresar a su página de inicio.
 User Goal: Perfil de usuario
-![webapp](images/webapp2.jpg)
+![webapp](images/webapp2.JPG)
 
 Descripción:
 Si el usuario desea acceder a su perfil. Desde la página de inicio puede hacer click en el menú “Hamburger” ubicado en la esquina superior izquierda, lo que desplegará un “Sidebar” donde se mostrarán todas las opciones disponibles, entre ellas el “Perfil”. Haciendo click en la opción “Perfil” el usuario podrá acceder a su perfil y visualizar toda su información.
@@ -669,51 +669,51 @@ Si el usuario desea acceder a su perfil. Desde la página de inicio puede hacer 
 
 ### 4.4.3. Web Applications Mock-Ups
 
-![Imgur](images/mockups.jpg)
+![Imgur](images/mockups.JPG)
 
 link: https://www.figma.com/proto/nEypHPwCcG8EhmtVhJOvJr/MealMaster?page-id=0%3A1&type=design&node-id=52-1044&viewport=2279%2C660%2C0.24&t=d8bNesaa3lxnFw7a-1&scaling=min-zoom&starting-point-node-id=52%3A1044&show-proto-sidebar=1&mode=design 
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Para esta sección, se presentan los user flow diagrams, los cuales son diagramas que ayudan a presenciar de mejor manera el flujo por el cual pasará el usuario al momento de realizar cierta acción.
 
-![Imgur](images/usergol.jpg)
-![Imgur](images/usergol1.jpg)
-![Imgur](images/usergol2.jpg)
-![Imgur](images/usergo3.jpg)
+![Imgur](images/usergol.JPG)
+![Imgur](images/usergol1.JPG)
+![Imgur](images/usergol2.JPG)
+![Imgur](images/usergo3.JPG)
 
 ## 4.5. Web Applications Prototyping.
 
 En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos. 
-![Imgur](images/prototyping.jpg)
+![Imgur](images/prototyping.JPG)
 
 link: https://www.figma.com/proto/CdgFvnlG3KaH8i1DkzBdPS/Landing-Page-Mock-up?page-id=0%3A1&type=design&node-id=44-1166&viewport=-625%2C-929%2C0.16&t=eDwh3NJDNQ9cpKtd-1&scaling=contain&starting-point-node-id=44%3A1166&mode=design 
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-![Imgur](images/contextdiagram.jpg)
+![Imgur](images/contextdiagram.JPG)
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos.
    
 ### 4.6.2. Software Architecture Container Diagrams.
-![Imgur](images/conteinerdiagram.jpg)
+![Imgur](images/conteinerdiagram.JPG)
 
  Container Diagrams. Sirve para entender cómo funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la dirección y relación junto a que se está enviando/comunicando (TCP) 
  
 ### 4.6.3. Software Architecture Components Diagrams.
-![Imgur](images/componentsdiagram.jpg)
+![Imgur](images/componentsdiagram.JPG)
 
 Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Link:  https://lucid.app/lucidchart/16233ba4-2e87-4655-b479-e883196ddf2a/edit?viewport_loc=-3294%2C-1036%2C7700%2C3775%2C0_0&invitationId=inv_331dbcfa-612c-48d8-8356-f7308a4a82d6
-![Imgur](images/classdiagram.jpg)
+![Imgur](images/classdiagram.JPG)
 
 ### 4.7.2. Class Dictionary.
-![Imgur](images/.jpg)
+![Imgur](images/.JPG)
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Imgur](images/.jpg)
+![Imgur](images/.JPG)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.

@@ -736,7 +736,10 @@ Configuraciones de donde y como deployeamos el proyecto
 ![Imgur](images/sprint1.2.JPG)
 
 #### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
+![Imgur](images/backlog.JPG)
+![Imgur](images/backlog1.JPG)
+![Imgur](images/backlog1.1.JPG)
+
 #### 5.2.X.3. Development Evidence for Sprint Review.
 ![Sprint review development Evidence](image.jpg)
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.

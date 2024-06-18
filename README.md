@@ -669,7 +669,7 @@ Si el usuario desea acceder a su perfil. Desde la página de inicio puede hacer 
 
 ### 4.4.3. Web Applications Mock-Ups
 
-![Imgur](images/mockups.JPG)
+![Imgur](images/mocksups.JPG)
 
 link: https://www.figma.com/proto/nEypHPwCcG8EhmtVhJOvJr/MealMaster?page-id=0%3A1&type=design&node-id=52-1044&viewport=2279%2C660%2C0.24&t=d8bNesaa3lxnFw7a-1&scaling=min-zoom&starting-point-node-id=52%3A1044&show-proto-sidebar=1&mode=design 
 
@@ -695,7 +695,7 @@ link: https://www.figma.com/proto/CdgFvnlG3KaH8i1DkzBdPS/Landing-Page-Mock-up?pa
 se incluyen servicios externos.
    
 ### 4.6.2. Software Architecture Container Diagrams.
-![Imgur](images/conteinerdiagram.JPG)
+![Imgur](images/containerdiagram.JPG)
 
  Container Diagrams. Sirve para entender cómo funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la dirección y relación junto a que se está enviando/comunicando (TCP) 
  

@@ -729,9 +729,12 @@ supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para co
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
+### 5.2.X. Sprint 1
+#### 5.2.X.1. Sprint Planning 1.
+![Imgur](images/sprint1.JPG)
+![Imgur](images/sprint1.1.JPG)
+![Imgur](images/sprint1.2.JPG)
+
 #### 5.2.X.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
 #### 5.2.X.3. Development Evidence for Sprint Review.

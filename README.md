@@ -1,20 +1,54 @@
-# UPC
-# INGENIERÍA DE SOFTWARE
-## CURSO: SI730 Aplicaciones Web | SECCIÓN WX56 
- Profesor: Alex Humberto Sánchez Ponce
-# Informe de Trabajo Final
+<hr> 
 
-"MealMaster"
-### Integrantes:
-- Cortés Casas, Joaquin Marcelo U202114545
-- Diaz Silva, Fernando Josué U202112722
-- Chávez Rojas, Carlos Raúl Guillermo U201910317
-- Ruiz Blas, Luciano U20211F978
-- Becerra Llempen, Fabiola U20171A518
+# <center>COURSE PROJECT</center>
 
----
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software - 2024-1</strong><br>
+    <strong>Aplicaciones Web - WX56</strong><br>
+    <strong>Profesor: Alex Humberto Sánchez Ponce</strong><br>
+    <br>Informe de Trabajo Final - TF1
+</p>
 
-Abril, 2024-1
+<p align="center">
+    <strong>Startup: MealMaster</strong>
+</p>
+
+<div style="text-align:center;">
+    <h3>Team Members:</h3>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Cortés Casas, Joaquin Marcelo</td>
+            <td>U202114545</td>
+        </tr>
+        <tr>
+            <td>Diaz Silva, Fernando Josué</td>
+            <td>U202112722</td>
+        </tr>
+        <tr>
+            <td>Chávez Rojas, Carlos Raúl Guillermo</td>
+            <td>U201910317</td>
+        </tr>
+        <tr>
+            <td>Ruiz Blas, Luciano</td>
+            <td>U20211F978</td>
+        </tr>
+	<tr>
+            <td>Becerra Llempen, Fabiola</td>
+            <td>U20171A518</td>
+        </tr>
+    </table>
+</div>
+
+<p align="center">
+    <strong>Junio, 2024</strong>
+</p>
+<br>
 
 # Contenido
 
@@ -151,20 +185,15 @@ Abril, 2024-1
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | --------| ----------- | ----------- | ----------- |
 | TB1     | 04/04/2024 |MealMaster |Documentación de los capítulos I-V. Implementación y despliegue de la primera versión del Landing Page.|
-| TP     | 02/05/2024 |MealMaster |Documentación y código del Sprint N°2, desplegando la primera versión del aplicativo web.|
+| TP1     | 02/05/2024 |MealMaster |Documentación y código del Sprint N°2, desplegando la primera versión del aplicativo web.|
 | TB2     | 17/05/2024 |MealMaster |Documentación y código del Sprint N°3, desplegando la primera versión del aplicativo web.|
-| TF     | 27/06/24 |MealMaster |Documentación y código del Sprint N°4, desplegando las versiones del aplicativo web, conclusiones, bibliografías y anexos.|
-
-# Project Report Collaboration Insights
-[URL del repositorio](https://github.com/orgs/Aplicaciones-Web-WX56-Group-MealMaster/repositories)
-
-(Imagenes de los commits cada entrega)
+| TF1     | 27/06/24 |MealMaster |Documentación y código del Sprint N°4, desplegando las versiones del aplicativo web, conclusiones, bibliografías y anexos.|
 
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| **Joaquín Marcelo Cortés Casas **<br> **TB1: **<li>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>**TP: **<li>Durante el desarrollo de nuestro prototipo, he comprendido a fondo las necesidades de los usuarios y las características esenciales que debe tener la interfaz de nuestra aplicación. Este entendimiento ha sido enriquecido por las múltiples reuniones y discusiones con mi equipo, enfocadas en crear una solución innovadora y efectiva para nuestros usuarios.<br>**TB2:**<li> Durante el desarrollo de nuestro prototipo, he comprendido claramente los elementos que debe incluir nuestro backend y la importancia de las relaciones entre las tablas en nuestra base de datos. Este entendimiento ha sido profundizado a través de diversas reuniones y discusiones con mi equipo, enfocadas en asegurar que nuestra solución sea robusta y eficiente para satisfacer las necesidades de los usuarios. <br>**TF:**<li>Durante el desarrollo de nuestro prototipo, he comprendido cómo conectar eficazmente el frontend con el backend y la importancia de crear aplicaciones bien integradas. Este entendimiento se ha fortalecido mediante diversas reuniones y discusiones con mi equipo, enfocadas en desarrollar una solución cohesiva y funcional que satisfaga las necesidades de nuestros usuarios.<br><br>** Fabiola Becerra**<br> **TB1:** <li>Durante el desarrollo de nuestro prototipo he logrado comprender la importancia de las necesidades que requieren los usuarios. También, he obtenido un grado satisfactorio de comprensión al momento de reunirme con mis compañeros para poder realizar el trabajo con la finalidad de brindar una satisfacción a los usuarios.<br>**TP:** <li>En el transcurso del desarrollo de nuestro prototipo, he llegado a entender profundamente las necesidades de los usuarios y las características fundamentales que debe tener la interfaz de nuestra aplicación. Este entendimiento se ha enriquecido gracias a numerosas reuniones y debates con mi equipo, orientados a crear una solución innovadora y efectiva para nuestros usuarios.<br>**TB2:** <li>A lo largo del desarrollo de nuestro prototipo, he comprendido claramente los componentes que debe incluir nuestro backend y la importancia de las relaciones entre las tablas en nuestra base de datos. Este entendimiento se ha profundizado mediante diversas reuniones y discusiones con mi equipo, centradas en asegurar que nuestra solución sea robusta y eficiente para satisfacer las necesidades de los usuarios.<br>**TF:** <li>Durante el desarrollo de nuestro prototipo, he comprendido cómo conectar eficazmente el frontend con el backend y la importancia de crear aplicaciones bien integradas. Este conocimiento se ha fortalecido mediante numerosas reuniones y discusiones con mi equipo, enfocadas en desarrollar una solución cohesiva y funcional que cumpla con las expectativas de nuestros usuarios.<br><br>**FernandoJosue Diaz Silva**<br> **TB1:** <li>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo. <br>**TP: **<li>En el transcurso del desarrollo de nuestro prototipo, he llegado a entender profundamente las necesidades de los usuarios y las características fundamentales que debe tener la interfaz de nuestra aplicación.<br>**TB2:**<li>A lo largo del desarrollo de nuestro prototipo, he comprendido claramente los componentes que debe incluir nuestro backend y la importancia de las relaciones entre las tablas en nuestra base de datos.<br>**TF: **<li> He llegado a entender cómo conectar de manera efectiva el frontend con el backend y la importancia de construir aplicaciones bien integradas. Este conocimiento se ha consolidado a través de múltiples reuniones y discusiones con mi equipo, centradas en desarrollar una solución cohesiva y funcional que satisfaga las expectativas de nuestros usuarios.<br><br>**Carlos Raúl Guillermo Chávez Rojas**<br> **TB1:** <li>Durante el proceso de creación de nuestro prototipo para nuestros futuros clientes, me di cuenta de cuán importantes son sus necesidades y deseos.Además, las muchas charlas y reuniones que he tenido con mis compañeros de trabajo han mejorado esta comprensión.<br>**TP: **<li>Aprendí mucho sobre las necesidades de los usuarios y las características básicas que debe tener la interfaz de nuestra aplicación mientras desarrollaba nuestro prototipo.<br>**TB2:**<li>He adquirido una comprensión completa de lo que debe incluir nuestro backend durante el proceso de desarrollo de nuestro prototipo, así como de la importancia de las relaciones entre las tablas en nuestra base de datos. Mi equipo y yo nos hemos concentrado en garantizar que nuestra solución sea robusta y eficiente para satisfacer las necesidades de los usuarios, lo que ha profundizado este entendimiento.<br>**TF: **<li>He aprendido la importancia de construir aplicaciones bien integradas y cómo conectar de manera efectiva el frontend con el backend. Mi equipo y yo nos hemos centrado en crear una solución cohesiva y funcional que satisfaga las expectativas de nuestros usuarios, consolidando este conocimiento. <br>**Luciano Ruiz Blas** <br> **TB1:** <li>Durante el proceso de creación de nuestro prototipo para nuestros futuros clientes, me di cuenta de cuán importantes son sus necesidades y deseos.Además, gracias a las muchas charlas y reuniones que he tenido con mis compañeros de trabajo con el objetivo de presentar una solución innovadora para los clientes, esta comprensión ha mejorado..<br>**TP: **<li>He desarrollado una comprensión completa de las necesidades de los usuarios y las características críticas que debe tener la interfaz de nuestra aplicación mientras desarrollaba nuestro prototipo. Las numerosas reuniones y conversaciones con mi equipo que se centraron en desarrollar una solución ingeniosa y eficiente para nuestros usuarios han enriquecido esta comprensión.<br>**TB2:**<li>He desarrollado una comprensión completa de los componentes que debe incluir nuestro backend durante el proceso de desarrollo de nuestro prototipo, así como la importancia de las relaciones entre las tablas en nuestra base de datos. Mi equipo y yo nos hemos concentrado en garantizar que nuestra solución sea efectiva y robusta para satisfacer las necesidades de los usuarios, lo que ha ayudado a profundizar esta comprensión.<br>**TF: **<li>He aprendido cómo conectar el front-end con el back-end y la importancia de crear aplicaciones bien integradas durante el proceso de desarrollo de nuestro prototipo. Durante las reuniones y discusiones con mi equipo, que se centraron en crear una solución cohesiva y funcional que satisfaga las necesidades de nuestros usuarios, este entendimiento se ha fortalecido.|<br>**Conclusión número uno:** Durante el proceso de creación de nuestro prototipo para nuestros futuros clientes, me di cuenta de cuán importantes son sus necesidades y deseos.Además, las charlas y reuniones que he tenido con mis compañeros de trabajo con el objetivo de presentar una solución innovadora para los clientes han mejorado esta comprensión.<br><br>**Conclusión 2:** Comprendí las necesidades de los usuarios durante el desarrollo de nuestro prototipo. Además, al reunirme con mis compañeros para poder completar el trabajo con el objetivo de brindar satisfacción a los usuarios, he obtenido un grado satisfactorio de comprensión.<br><br>**Conclusión 3:**<br>La comunicación oral dentro del equipo ha sido efectiva, lo que ha permitido un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Para mantener la colaboración y el progreso del trabajo, se continuará fomentando esta comunicación.|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| **Joaquín Marcelo Cortés Casas **<br> **TB1: **<li>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>**TP: **<li>Mediante el trabajo en equipo, hemos logrado crear un prototipo asertivo en el desarrollo del frontend, superando las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficaz e innovadora para los usuarios, reflejando nuestro compromiso con la calidad y la funcionalidad.Ademas, realice el login, el register y ayude a realizar el menu principal.<br>**TB2:**<li> Mediante el trabajo en equipo, hemos logrado crear un prototipo asertivo en el desarrollo del backend, superando las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficaz e innovadora para los usuarios, asegurando un rendimiento robusto y confiable del sistema. Ademas, ayude a realizar algunas tablas y en el apartado del login del backend <br>**TF:**<li>Mediante el trabajo en equipo, hemos logrado crear un prototipo asertivo que integra perfectamente el frontend con el backend, superando las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficaz e innovadora para los usuarios, destacando la importancia de una aplicación bien conectada y funcional en todos sus aspectos.Ademas, termine el bounded context review<br><br>** Fabiola Becerra**<br> **TB1:** <li>Mediante la realización del trabajo en equipo hemos logrado crear un prototipo de manera asertiva en el aspecto de superar las expectativas de nuestros clientes, ya que nuestro prototipo ofrece soluciones de una manera eficaz e innovadora para los usuarios.<br>**TP:** <li>Gracias al trabajo colaborativo, hemos desarrollado un prototipo sólido en el ámbito del frontend, superando las expectativas de nuestros clientes. Nuestro prototipo proporciona soluciones de manera eficiente e innovadora para los usuarios, demostrando nuestro compromiso con la excelencia y la funcionalidad.<br>**TB2:** <li>A través del esfuerzo conjunto, hemos creado un prototipo robusto en el desarrollo del backend, excediendo las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficiente e innovadora para los usuarios, garantizando un rendimiento sólido y fiable del sistema.<br>**TF:** <li>Mediante la colaboración efectiva, hemos desarrollado un prototipo cohesivo que integra de manera óptima el frontend con el backend, superando las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficiente e innovadora para los usuarios, subrayando la importancia de una aplicación bien conectada y operativa en todos sus aspectos.<br><br>**FernandoJosue Diaz Silva**<br> **TB1:** <li>Nos ha permitido desarrollar un prototipo que supera las expectativas de nuestros clientes porque ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad gracias al trabajo en equipo correcto que hemos realizado.<br>**TP: **<li>Hemos logrado trabajar juntos para crear un prototipo de desarrollo front-end asertivo que superó las expectativas de nuestros clientes. Nuestros prototipos muestran nuestro compromiso con la calidad y la funcionalidad ofreciendo soluciones efectivas e innovadoras para los usuarios.Además, ingrese, regístrese y ayude con el menu principal.<br>**TB2:** <li>Hemos trabajado juntos para crear un prototipo de desarrollo de backend asertivo que superó las expectativas de nuestros clientes. Nuestro prototipo brinda soluciones efectivas e innovadoras para los usuarios, lo que garantiza un rendimiento sólido y confiable del sistema. Además, ayude con la creación de tablas y en el apartado de registro del backend.<br>**TF: **<li>Hemos trabajado juntos para desarrollar un prototipo convincente que integra el frontend y el backend de manera excelente, superando las expectativas de nuestros clientes. Nuestro prototipo destaca la importancia de una aplicación bien conectada y funcional en todos sus aspectos, ofreciendo soluciones efectivas e innovadoras para los usuarios.Además, complete la revisión de contexto limitado.<br><br>**Carlos Raúl Guillermo Chávez Rojas**<br> **TB1:** <li>Hemos logrado desarrollar un prototipo de manera asertiva en el aspecto de superar las expectativas de nuestros clientes porque ofrece soluciones efectivas e innovadoras para los usuarios.<br>**TP: **<li>Hemos superado las expectativas de nuestros clientes con un prototipo sólido en frontend gracias a la colaboración. Nuestro prototipo demuestra nuestro compromiso con la excelencia y la funcionalidad ofreciendo soluciones eficientes e innovadoras para los usuarios.<br>**TB2:**<li>Hemos creado un prototipo de desarrollo de backend sólido que superó las expectativas de nuestros clientes. Nuestro prototipo brinda a los usuarios soluciones eficientes e innovadoras que garantizan un rendimiento sólido y fiable del sistema.<br>**TF: **<li>Hemos trabajado juntos para desarrollar un prototipo cohesivo que supera las expectativas de nuestros clientes e integra de manera óptima el frontend con el backend. Nuestro prototipo destaca la importancia de una aplicación bien conectada y operativa en todos sus aspectos, ofreciendo soluciones eficientes e innovadoras para los usuarios. <br>**Luciano Ruiz Blas **<br> **TB1:** <br><li>Hemos logrado desarrollar un prototipo de manera asertiva en el aspecto de superar las expectativas de nuestros clientes porque ofrece soluciones efectivas e innovadoras para los usuarios.<br>**TP: **<br><li>Gracias al trabajo colaborativo, hemos desarrollado un prototipo sólido en el ámbito del frontend, superando las expectativas de nuestros clientes. Nuestro prototipo proporciona soluciones de manera eficiente e innovadora para los usuarios, demostrando nuestro compromiso con la excelencia y la funcionalidad.<br>**TB2:**<br><li>A través del esfuerzo conjunto, hemos creado un prototipo robusto en el desarrollo del backend, excediendo las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficiente e innovadora para los usuarios, garantizando un rendimiento sólido y fiable del sistema.<br>**TF: **<li>Mediante la colaboración efectiva, hemos desarrollado un prototipo cohesivo que integra de manera óptima el frontend con el backend, superando las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficiente e innovadora para los usuarios, subrayando la importancia de una aplicación bien conectada y operativa en todos sus aspectos.|<br><br>**Conclusión 1:**<br> Podemos crear un prototipo que supera las expectativas de nuestros clientes gracias al trabajo en equipo correcto que hemos realizado; ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br><br>**Conclusión 2:** Hemos logrado crear un prototipo que supera las expectativas de nuestros clientes porque ofrece soluciones efectivas e innovadoras para los usuarios mediante el trabajo en equipo.<br><br>**Conclusión 3:**La comunicación escrita ha sido fundamental para registrar el progreso del proyecto y garantizar que los miembros del equipo comprendan los entregables. Para garantizar la eficacia y la calidad del trabajo, se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita.|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Joaquín Marcelo Cortés Casas <br> TB1: <li>He contribuido con la codificación de la primera versión del landing page y a la documentación de distintos capítulos del informe<br>TP: <li>He contribuido con la codificación de la primera versión del aplicativo web, además de realizar correcciones de la landing page<br>TB2: <li>He realizado la primera versión del backend, definiendo los distintos endpoints<br>TF:<li>Me he encargado de realizar la segunga versión del backend, actualizando las entidades utilizadas en base a bounded contexts específicos.<br><br>** Fabiola Becerra**<br> **TB1:** <li>Durante el desarrollo de nuestro prototipo he logrado comprender la importancia de las necesidades que requieren los usuarios. También, he obtenido un grado satisfactorio de comprensión al momento de reunirme con mis compañeros para poder realizar el trabajo con la finalidad de brindar una satisfacción a los usuarios.<br>**TP:** <li>En el transcurso del desarrollo de nuestro prototipo, he llegado a entender profundamente las necesidades de los usuarios y las características fundamentales que debe tener la interfaz de nuestra aplicación. Este entendimiento se ha enriquecido gracias a numerosas reuniones y debates con mi equipo, orientados a crear una solución innovadora y efectiva para nuestros usuarios.<br>**TB2:** <li>A lo largo del desarrollo de nuestro prototipo, he comprendido claramente los componentes que debe incluir nuestro backend y la importancia de las relaciones entre las tablas en nuestra base de datos. Este entendimiento se ha profundizado mediante diversas reuniones y discusiones con mi equipo, centradas en asegurar que nuestra solución sea robusta y eficiente para satisfacer las necesidades de los usuarios.<br>**TF:** <li>Durante el desarrollo de nuestro prototipo, he comprendido cómo conectar eficazmente el frontend con el backend y la importancia de crear aplicaciones bien integradas. Este conocimiento se ha fortalecido mediante numerosas reuniones y discusiones con mi equipo, enfocadas en desarrollar una solución cohesiva y funcional que cumpla con las expectativas de nuestros usuarios.<br><br>FernandoJosue Diaz Silva<br> TB1: <li>Participé en la programación de la versión inicial de la página de aterrizaje y en la redacción de varios capítulos del informe.<br>TP: <li>Colaboré en la programación de la versión inicial de la aplicación web, además de corregir la página de aterrizaje.<br>TB2: <li>Desarrollé la primera versión del backend, definiendo los distintos endpoints.<br>TF: <li>Me encargué de la segunda versión del backend, actualizando las entidades basadas en contextos delimitados específicos. <br><br>Carlos Raúl Guillermo Chávez Rojas<br> TB1: <li>Contribuí en la codificación de la primera versión del landing page y en la elaboración de diversos capítulos del informe.<br>TP: <li>Colaboré en la codificación de la primera versión de la aplicación web y realicé correcciones en el landing page.<br>TB2: <li>Implementé la primera versión del backend, definiendo los endpoints necesarios.<br>TF: <li>Me encargué de la segunda versión del backend, actualizando las entidades de acuerdo a contextos específicos delimitados.<br>Luciano Ruiz Blas <br> TB1: <li>Aporté en la codificación de la primera versión de la página de inicio y en la redacción de distintos capítulos del informe.<br>TP: <li>Contribuí en la codificación de la primera versión de la aplicación web, además de hacer correcciones en la página de inicio.<br>TB2: <li>Realicé la primera versión del backend, definiendo los endpoints.<br>TF: <li>Desarrollé la segunda versión del backend, actualizando las entidades utilizadas basadas en contextos delimitados específicos.|<br>**Conclusión número uno:** Durante el proceso de creación de nuestro prototipo para nuestros futuros clientes, me di cuenta de cuán importantes son sus necesidades y deseos.Además, las charlas y reuniones que he tenido con mis compañeros de trabajo con el objetivo de presentar una solución innovadora para los clientes han mejorado esta comprensión.<br><br>**Conclusión 2:** Comprendí las necesidades de los usuarios durante el desarrollo de nuestro prototipo. Además, al reunirme con mis compañeros para poder completar el trabajo con el objetivo de brindar satisfacción a los usuarios, he obtenido un grado satisfactorio de comprensión.<br><br>**Conclusión 3:**<br>La comunicación oral dentro del equipo ha sido efectiva, lo que ha permitido un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Para mantener la colaboración y el progreso del trabajo, se continuará fomentando esta comunicación.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| **Joaquín Marcelo Cortés Casas **<br> TB1: <li>He contribuido con la codificación de la primera versión del landing page y a la documentación de distintos capítulos del informe<br>TP: <li>He contribuido con la codificación de la primera versión del aplicativo web, además de realizar correcciones de la landing page<br>TB2: <li>He realizado la primera versión del backend, definiendo los distintos endpoints<br>TF:<li>Me he encargado de realizar la segunga versión del backend, actualizando las entidades utilizadas en base a bounded contexts específicos.<br>** Fabiola Becerra**<br> **TB1:** <li>Mediante la realización del trabajo en equipo hemos logrado crear un prototipo de manera asertiva en el aspecto de superar las expectativas de nuestros clientes, ya que nuestro prototipo ofrece soluciones de una manera eficaz e innovadora para los usuarios.<br>**TP:** <li>Gracias al trabajo colaborativo, hemos desarrollado un prototipo sólido en el ámbito del frontend, superando las expectativas de nuestros clientes. Nuestro prototipo proporciona soluciones de manera eficiente e innovadora para los usuarios, demostrando nuestro compromiso con la excelencia y la funcionalidad.<br>**TB2:** <li>A través del esfuerzo conjunto, hemos creado un prototipo robusto en el desarrollo del backend, excediendo las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficiente e innovadora para los usuarios, garantizando un rendimiento sólido y fiable del sistema.<br>**TF:** <li>Mediante la colaboración efectiva, hemos desarrollado un prototipo cohesivo que integra de manera óptima el frontend con el backend, superando las expectativas de nuestros clientes. Nuestro prototipo ofrece soluciones de manera eficiente e innovadora para los usuarios, subrayando la importancia de una aplicación bien conectada y operativa en todos sus aspectos.<br><br>FernandoJosue Diaz Silva<br> TB1: <li>Participé en la programación de la versión inicial de la página de aterrizaje y en la redacción de varios capítulos del informe.<br>TP: <li>Colaboré en la programación de la versión inicial de la aplicación web, además de corregir la página de aterrizaje.<br>TB2: <li>Desarrollé la primera versión del backend, definiendo los distintos endpoints.<br>TF: <li>Me encargué de la segunda versión del backend, actualizando las entidades basadas en contextos delimitados específicos.<br><br>Carlos Raúl Guillermo Chávez Rojas<br> TB1: <li>Contribuí en la codificación de la primera versión del landing page y en la elaboración de diversos capítulos del informe.<br>TP: <li>Colaboré en la codificación de la primera versión de la aplicación web y realicé correcciones en el landing page.<br>TB2: <li>Implementé la primera versión del backend, definiendo los endpoints necesarios.<br>TF: <li>Me encargué de la segunda versión del backend, actualizando las entidades de acuerdo a contextos específicos delimitados.<br>**Luciano Ruiz Blas **<br> TB1: <li>Aporté en la codificación de la primera versión de la página de inicio y en la redacción de distintos capítulos del informe.<br>TP: <li>Contribuí en la codificación de la primera versión de la aplicación web, además de hacer correcciones en la página de inicio.<br>TB2: <li>Realicé la primera versión del backend, definiendo los endpoints.<br>TF: <li>Desarrollé la segunda versión del backend, actualizando las entidades utilizadas basadas en contextos delimitados específicos.|<br><br>**Conclusión 1:**<br> Podemos crear un prototipo que supera las expectativas de nuestros clientes gracias al trabajo en equipo correcto que hemos realizado; ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br><br>**Conclusión 2:** Hemos logrado crear un prototipo que supera las expectativas de nuestros clientes porque ofrece soluciones efectivas e innovadoras para los usuarios mediante el trabajo en equipo.<br><br>**Conclusión 3:**La comunicación escrita ha sido fundamental para registrar el progreso del proyecto y garantizar que los miembros del equipo comprendan los entregables. Para garantizar la eficacia y la calidad del trabajo, se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita.|
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -474,25 +503,6 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 
 ![UserTax](images/usertax.png)
 
-### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
-
 ### 2.3.4. Empathy Mapping.
 En esta sección se presenta el Empathy Mapping, herramienta para crear un perfil detallado de los user persona y desarrollar una comprensión profunda de su perspectiva y experiencia.
 
@@ -501,7 +511,6 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 
 **Empathy Mapping 2: Entusiasta de la nutrición**
 ![Empathy Map Segmento1](images/mapping2.png)
-
 
 
 ### 2.3.5. As-is Scenario Mapping.
@@ -765,7 +774,7 @@ Link:  https://lucid.app/lucidchart/16233ba4-2e87-4655-b479-e883196ddf2a/edit?vi
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Imgur](images/databasedesign.png)
+![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-WX56-Group-MealMaster/ingredients-images/main/ingredients-images/Database%20diagram.jpg)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
@@ -839,310 +848,306 @@ MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles.
 MINOR: versión menor cuando se añaden features y funcionalidades nuevas.
 PATCH versión de parche de bug fixes y hotfixes.
 
-### 5.1.3. Source Code Style Guide & Conventions.
-HTML Style Guide and Coding Conventions
-Es necesario seguir convenciones estandarizadas de HTML como estructura de la web. Entre las principales de W3 Schools (https://www.w3schools.com/html/html5_syntax.asp) podemos mencionar:
-Siempre declarar el tipo de documento con <!DOCTYPE html>
-Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
-Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
-Siempre poner entre comillas los atributos dentro de un elemento html ( <p class=”name”></p>)
-Especificar alt, width, and height para imágenes.
-Espaciado y signo igual estandarizados.
-Evitar líneas de código extensas.
-No olvidar el “<title></title>” al principio.
-Es posible evitar el “<head></head>”.
-Utilizar meta tags al inicio.
-Google HTML/CSS Style Guide
-Algunas de las convenciones de Google en cuanto a HTML y CSS (https://google.github.io/styleguide/htmlcssguide.html) podemos mencionar:
-Usar la sintaxis y semántica de HTML5.
-Usar minúsculas para los nombres de elementos y atributos.
-Usar comillas dobles para los valores de atributos.
-Usar una nueva línea para cada elemento.
-Usar un espacio después de los dos puntos del nombre de cada propiedad.
-Usar códigos de color hexadecimal (#000000) en vez de nombres propios.
-Usar códigos de color hexadecimales abreviados siempre que sea posible.
-Evitar especificar unidades para valores 0. Por ejemplo, margin: 0px se incluye la unidad de pixeles.
+### 5.1.3. Source Code Style Guide & Conventions
 
-Gherkin Conventions for Readable Specifications
-Entre las convenciones para Gherkin sobre las pruebas de aceptación se deben considerar convenciones, entre algunas de Specflow (https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/) están:
-Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
-Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
-Usar verbos finitos y en tiempo presente para las acciones del escenario.
-Evitar redundancias en la descripción de los pasos en el escenario.
-Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
+#### HTML Style Guide and Coding Conventions
 
-Angular Coding Style Guide
-Algunas convenciones de código en Angular se encuentran en su guía oficial  (https://angular.io/guide/styleguide). Podemos rescatar algunas:
-Respetar el principio de single responsibility de componentes en cada componente de Angular.
-Utilizar la nomenclatura recomendada de componentes “feature.type.ts”. Por ejemplo “feature.component.ts”. Además, los nombres de archivos deben estar con minúsculas.
-Declarar variables con const o let según el valor sea mutable o inmutable.
-Utilizar los decoradoras correctamente como @Injectable()
-Nunca importar lazy load components directamente porque estaría cargando el componente que debería cargarse según necesidad.
-Toda la aplicación va en la carpeta src, donde cada feature tiene su propia carpeta denominada como dominio.
-Utilizar el módulo compartido (shared domain) entre dominios de manera correcta.
+Es necesario seguir convenciones estandarizadas de HTML como estructura de la web. Entre las principales de W3 Schools [aquí](https://www.w3schools.com/html/html5_syntax.asp) podemos mencionar:
 
-Google Java Style Guide
-A continuación se presentan algunas guías de estilo de Java de la guía de Google (https://google.github.io/styleguide/javaguide.html):
-Las variables y los métodos deben tener nombres descriptivos y seguir la convención de nombres de Java. Los nombres de variables deben comenzar con minúsculas y usar camelcase (por ejemplo prepareOneOrTwo()).
-Las variables constantes deben definirse en mayúsculas y separarse con guiones bajos.
-Los corchetes deben comenzar en la misma línea que la declaración del bloque de código y terminar en una línea separada.
-Los nombres de los paquetes deben ser en minúsculas y seguir la convención de nombres de dominio invertido.
-Usar interfaces para definir tipos, en lugar de clases abstractas.
-Los métodos deben hacer una sola función y respetar el principio de single responsibility.
+- Siempre declarar el tipo de documento con `<!DOCTYPE html>`.
+- Usar siempre letras en minúsculas para los nombres de los elementos (como `<p>`, `<h1>`, `<section>`, entre otros).
+- Cerrar siempre con los elementos de HTML (por ejemplo `<p></p>`).
+- Siempre poner entre comillas los atributos dentro de un elemento HTML (`<p class="name"></p>`).
+- Especificar `alt`, `width`, y `height` para imágenes.
+- Espaciado y signo igual estandarizados.
+- Evitar líneas de código extensas.
+- No olvidar el `<title></title>` al principio.
+- Es posible evitar el `<head></head>`.
+- Utilizar meta tags al inicio.
 
-Google TypeScript Style Guide
-Se presentarán algunas convenciones de TypScript según Google (https://google.github.io/styleguide/tsguide.html):
-Parecido a Java, las variables y los métodos deben tener nombres descriptivos y seguir la convención de nombres de TypeScript. Los nombres de variables deben comenzar con minúsculas y usar camel case.
-Los corchetes deben comenzar en la misma línea que la declaración del bloque de código y terminar en una línea separada “{ }”.
-Como recomendación, las variables deben declararse lo más cerca posible de donde se utilizan y tener el ámbito más pequeño posible.
-Las constantes deben definirse en mayúsculas y separarse con guiones bajos.
-Los nombres de las interfaces deben seguir la convención de camelcase.
-Usar el modificador readonly para indicar que una variable no va a cambiar después de ejecutarlo.
-Al igual que Java, los métodos deben hacer una sola función y respetar el principio de single responsibility.
+#### Google HTML/CSS Style Guide
 
-Spring Boot Features
-Se mencionarán los core features de Sprint Boot según la documentación oficial de Sprint (https://docs.spring.io/spring-boot/docs/current/reference/html/features.html):
-Clase de aplicación Sprint: empieza con el método main() y inicializa la aplicación con el método SpringApplication.run
-Configuración externalizada: permite realizar cambios en configuración para trabajar en distintos entornos de desarrollo
-Perfiles: segrega funciones según ambiente con @Profile
-Logging: tiene funciones predeterminadas de logging, pero se pueden configurar según necesidad
-Testing: Sprint ofrece varios módulos que facilitan el testing de las funcionalidades
-Soporte con Kotlin
+Algunas de las convenciones de Google en cuanto a HTML y CSS [aquí](https://google.github.io/styleguide/htmlcssguide.html) podemos mencionar:
 
-### 5.1.4. Software Deployment Configuration.
-**En este caso usaremos Git y github**
+- Usar la sintaxis y semántica de HTML5.
+- Usar minúsculas para los nombres de elementos y atributos.
+- Usar comillas dobles para los valores de atributos.
+- Usar una nueva línea para cada elemento.
+- Usar un espacio después de los dos puntos del nombre de cada propiedad.
+- Usar códigos de color hexadecimal (`#000000`) en vez de nombres propios.
+- Usar códigos de color hexadecimales abreviados siempre que sea posible.
+- Evitar especificar unidades para valores 0. Por ejemplo, `margin: 0px` se incluye la unidad de píxeles.
 
-Git: En el desarrollo de software, Git es un sistema de control de versiones distribuido. Fue desarrollado por Linus Torvalds en 2005 y se ha convertido en una herramienta vital para trabajar juntos y monitorear los cambios en proyectos de código abierto y privados. La capacidad de realizar un seguimiento de los cambios en los archivos de un proyecto a lo largo del tiempo es una de las principales ventajas de Git. Los desarrolladores pueden crear ramas, hacer cambios y fusionarlas con Git. Esto permite que varios desarrolladores trabajen simultáneamente en varios aspectos del proyecto sin interferir entre sí.
+#### Gherkin Conventions for Readable Specifications
 
-Como Git usa un modelo de sistema distribuido, cada desarrollador tiene una copia del repositorio completa, que incluye todo el historial de cambios. Esto aumenta la flexibilidad y la seguridad porque cada desarrollador puede trabajar de manera independiente y modificar su propia copia local sin afectar el trabajo de los demás. Los repositorios remotos, como GitHub, facilitan la colaboración en equipo y permiten el intercambio y la sincronización de cambios. Además, Git proporciona una amplia gama de características y comandos que facilitan la gestión de versiones. Se pueden crear ramas para trabajar en nuevas funcionalidades o corregir errores sin afectar el proyecto principal. Las fusiones también se pueden realizar para combinar los cambios de varias ramas y mantener un flujo de trabajo coherente. La capacidad de revertir cambios y realizar seguimiento de versiones anteriores es otra característica importante de Git. Esto permite a los desarrolladores retroceder en el tiempo y recuperar versiones de código anteriores, lo que es útil en caso de errores o necesidad de cambios retrospectivos. 
-A través de su usabilidad, podremos controlar las herramientas de nuestro software y guardar varios archivos o versiones a lo largo de las diferentes etapas de un proyecto. Esto nos permite a nosotros, como desarrolladores, monitorear lo que ya hemos hecho y resolver problemas o cambios que se decidan a lo largo del proyecto.
+Entre las convenciones para Gherkin sobre las pruebas de aceptación se deben considerar convenciones, entre algunas de Specflow [aquí](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/) están:
+
+- Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
+- Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
+- Usar verbos finitos y en tiempo presente para las acciones del escenario.
+- Evitar redundancias en la descripción de los pasos en el escenario.
+- Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
+
+#### Angular Coding Style Guide
+
+Algunas convenciones de código en Angular se encuentran en su guía oficial [aquí](https://angular.io/guide/styleguide). Podemos rescatar algunas:
+
+- Respetar el principio de single responsibility de componentes en cada componente de Angular.
+- Utilizar la nomenclatura recomendada de componentes “feature.type.ts”. Por ejemplo “feature.component.ts”. Además, los nombres de archivos deben estar con minúsculas.
+- Declarar variables con `const` o `let` según el valor sea mutable o inmutable.
+- Utilizar los decoradoras correctamente como `@Injectable()`.
+- Nunca importar lazy load components directamente porque estaría cargando el componente que debería cargarse según necesidad.
+- Toda la aplicación va en la carpeta `src`, donde cada feature tiene su propia carpeta denominada como dominio.
+- Utilizar el módulo compartido (shared domain) entre dominios de manera correcta.
+
+#### Google Java Style Guide
+
+A continuación se presentan algunas guías de estilo de Java de la guía de Google [aquí](https://google.github.io/styleguide/javaguide.html):
+
+- Las variables y los métodos deben tener nombres descriptivos y seguir la convención de nombres de Java. Los nombres de variables deben comenzar con minúsculas y usar camelcase (por ejemplo `prepareOneOrTwo()`).
+- Las variables constantes deben definirse en mayúsculas y separarse con guiones bajos.
+- Los corchetes deben comenzar en la misma línea que la declaración del bloque de código y terminar en una línea separada.
+- Los nombres de los paquetes deben ser en minúsculas y seguir la convención de nombres de dominio invertido.
+- Usar interfaces para definir tipos, en lugar de clases abstractas.
+- Los métodos deben hacer una sola función y respetar el principio de single responsibility.
+
+#### Google TypeScript Style Guide
+
+Se presentarán algunas convenciones de TypeScript según Google [aquí](https://google.github.io/styleguide/tsguide.html):
+
+- Parecido a Java, las variables y los métodos deben tener nombres descriptivos y seguir la convención de nombres de TypeScript. Los nombres de variables deben comenzar con minúsculas y usar camel case.
+- Los corchetes deben comenzar en la misma línea que la declaración del bloque de código y terminar en una línea separada `{ }`.
+- Como recomendación, las variables deben declararse lo más cerca posible de donde se utilizan y tener el ámbito más pequeño posible.
+- Las constantes deben definirse en mayúsculas y separarse con guiones bajos.
+- Los nombres de las interfaces deben seguir la convención de camelcase.
+- Usar el modificador `readonly` para indicar que una variable no va a cambiar después de ejecutarlo.
+- Al igual que Java, los métodos deben hacer una sola función y respetar el principio de single responsibility.
+
+#### Spring Boot Features
+
+Se mencionarán los core features de Sprint Boot según la documentación oficial de Sprint [aquí](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html):
+
+- **Clase de aplicación Sprint**: empieza con el método `main()` y inicializa la aplicación con el método `SpringApplication.run`.
+- **Configuración externalizada**: permite realizar cambios en configuración para trabajar en distintos entornos de desarrollo.
+- **Perfiles**: segrega funciones según ambiente con `@Profile`.
+- **Logging**: tiene funciones predeterminadas de logging, pero se pueden configurar según necesidad.
+- **Testing**: Sprint ofrece varios módulos que facilitan el testing de las funcionalidades.
+- **Soporte con Kotlin**.
+
+### 5.1.4. Software Deployment Configuration
+
+**En este caso usaremos Git y GitHub**
+
+**Git**: En el desarrollo de software, Git es un sistema de control de versiones distribuido. Fue desarrollado por Linus Torvalds en 2005 y se ha convertido en una herramienta vital para trabajar juntos y monitorear los cambios en proyectos de código abierto y privados. La capacidad de realizar un seguimiento de los cambios en los archivos de un proyecto a lo largo del tiempo es una de las principales ventajas de Git. Los desarrolladores pueden crear ramas, hacer cambios y fusionarlas con Git. Esto permite que varios desarrolladores trabajen simultáneamente en varios aspectos del proyecto sin interferir entre sí.
+
+Como Git usa un modelo de sistema distribuido, cada desarrollador tiene una copia del repositorio completa, que incluye todo el historial de cambios. Esto aumenta la flexibilidad y la seguridad porque cada desarrollador puede trabajar de manera independiente y modificar su propia copia local sin afectar el trabajo de los demás. Los repositorios remotos, como GitHub, facilitan la colaboración en equipo y permiten el intercambio y la sincronización de cambios. Además, Git proporciona una amplia gama de características y comandos que facilitan la gestión de versiones. Se pueden crear ramas para trabajar en nuevas funcionalidades o corregir errores sin afectar el proyecto principal. Las fusiones también se pueden realizar para combinar los cambios de varias ramas y mantener un flujo de trabajo coherente. La capacidad de revertir cambios y realizar seguimiento de versiones anteriores es otra característica importante de Git. Esto permite a los desarrolladores retroceder en el tiempo y recuperar versiones de código anteriores, lo que es útil en caso de errores o necesidad de cambios retrospectivos. A través de su usabilidad, podremos controlar las herramientas de nuestro software y guardar varios archivos o versiones a lo largo de las diferentes etapas de un proyecto. Esto nos permite a nosotros, como desarrolladores, monitorear lo que ya hemos hecho y resolver problemas o cambios que se decidan a lo largo del proyecto.
+
 ![Imgur](images/github.png)
 
-Github: Es una plataforma basada en Git que permite el alojamiento y la colaboración de código fuente. Fue lanzado en 2008 y se ha convertido en uno de los servicios más populares para desarrolladores de todo el mundo.  Los desarrolladores pueden crear repositorios en GitHub para almacenar y administrar su código fuente. Estos repositorios pueden ser públicos, lo que significa que cualquiera puede ver y contribuir al código, o privados, que son más apropiados para proyectos comerciales o privados.
-La capacidad de permitir la colaboración en equipo es uno de los aspectos más destacados de GitHub. Varios desarrolladores pueden trabajar en el mismo repositorio al mismo tiempo, realizar modificaciones en varias ramas y fusionarlos fácilmente.
-Esto facilita que los equipos trabajen juntos y gestionan las diversas contribuciones. GitHub ofrece una variedad de herramientas adicionales además de la gestión de código fuente. Los "problemas" permiten un seguimiento de las tareas, errores o mejoras del proyecto. Se pueden solicitar revisiones y fusionar los cambios realizados por colaboradores externos antes de incorporarlos al repositorio principal mediante "requerimientos de salida".
-Las "acciones" de GitHub son una característica importante que permite automatizar tareas y flujos de trabajo dentro del proyecto. La ejecución de pruebas, la creación de documentación o la implementación continua son ejemplos de esto. GitHub es conocido por su enfoque en el código abierto y su comunidad activa. GitHub aloja una gran cantidad de proyectos de código abierto, lo que facilita la colaboración y promueve la transparencia en el desarrollo de software. Esta herramienta nos ayudará a colaborar con git, es una plataforma que puede mantener un repositorio de código en la nube y permite que varios trabajadores trabajen en un solo proyecto, viendo las ediciones propias de cada integrante, mejorando el trabajo en equipo para los trabajos por hacer.
+**GitHub**: Es una plataforma basada en Git que permite el alojamiento y la colaboración de código fuente. Fue lanzado en 2008 y se ha convertido en uno de los servicios más populares para desarrolladores de todo el mundo. Los desarrolladores pueden crear repositorios en GitHub para almacenar y administrar su código fuente. Estos repositorios pueden ser públicos, lo que significa que cualquiera puede ver y contribuir al código, o privados, que son más apropiados para proyectos comerciales o privados.
+
+La capacidad de permitir la colaboración en equipo es uno de los aspectos más destacados de GitHub. Varios desarrolladores pueden trabajar en el mismo repositorio al mismo tiempo, realizar modificaciones en varias ramas y fusionarlos fácilmente. Esto facilita que los equipos trabajen juntos y gestionan las diversas contribuciones. GitHub ofrece una variedad de herramientas adicionales además de la gestión de código fuente. Los "problemas" permiten un seguimiento de las tareas, errores o mejoras del proyecto. Se pueden solicitar revisiones y fusionar los cambios realizados por colaboradores externos antes de incorporarlos al repositorio principal mediante "requerimientos de salida". Las "acciones" de GitHub son una característica importante que permite automatizar tareas y flujos de trabajo dentro del proyecto. La ejecución de pruebas, la creación de documentación o la implementación continua son ejemplos de esto. GitHub es conocido por su enfoque en el código abierto y su comunidad activa. GitHub aloja una gran cantidad de proyectos de código abierto, lo que facilita la colaboración y promueve la transparencia en el desarrollo de software. Esta herramienta nos ayudará a colaborar con Git, es una plataforma que puede mantener un repositorio de código en la nube y permite que varios trabajadores trabajen en
+
+ un solo proyecto, viendo las ediciones propias de cada integrante, mejorando el trabajo en equipo para los trabajos por hacer.
 
 ![Imgur](images/git.png)
 
-## 5.2. Landing Page, Services & Applications Implementation.
+Aquí tienes el texto corregido y formateado en Markdown:
+
+## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1.
+
+#### 5.2.1.1. Sprint Planning 1
 ![Imgur](images/sprint1.JPG)
 ![Imgur](images/sprint1.1.JPG)
 ![Imgur](images/sprint1.2.JPG)
 
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1
 ![Imgur](images/backlog.JPG)
 ![Imgur](images/backlog1.JPG)
 ![Imgur](images/backlog1.1.JPG)
 
-#### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review
 ![Sprint review development Evidence](images/execution.png)
 ![Sprint review development Evidence](images/execution1.png)
 ![Sprint review development Evidence](images/execution1.png)
 
 ### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 2.
+
+#### 5.2.2.1. Sprint Planning 2
 ![Imgur](images/sprint2.png)
 
-#### 5.2.2.2. Sprint Backlog 2.
+#### 5.2.2.2. Sprint Backlog 2
 ![Imgur](images/backlog2.png)
 
-
-#### 5.2.2.3. Development Evidence for Sprint Review.
+#### 5.2.2.3. Development Evidence for Sprint Review
 ![Sprint review development Evidence](images/evidence2.png)
 ![Sprint review development Evidence](images/evidence2.2.png)
 ![Sprint review development Evidence](images/evidence2.3.png)
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 ![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
 ![Sprint review Execution Evidence](image.jpg)
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 ![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 ![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
-Cada integrante del grupo ha subido su commit en su respectivo brach, enfocándose en completar su funcionalidad asignada.
-![Sprint review Team Collaboration Insights](team2.png) 
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+Cada integrante del grupo ha subido su commit en su respectivo branch, enfocándose en completar su funcionalidad asignada.
+![Sprint review Team Collaboration Insights](team2.png)
 
 ### 5.2.3. Sprint 3
-#### 5.2.3.1. Sprint Planning 3.
+
+#### 5.2.3.1. Sprint Planning 3
 ![Imgur](images/sprint3.png)
 
-#### 5.2.3.2. Sprint Backlog 3.
+#### 5.2.3.2. Sprint Backlog 3
 ![Imgur](images/backlog3.png)
 
-
-#### 5.2.3.3. Development Evidence for Sprint Review.
+#### 5.2.3.3. Development Evidence for Sprint Review
 ![Sprint review development Evidence](images/evidence2.png)
 ![Sprint review development Evidence](images/evidence2.2.png)
 ![Sprint review development Evidence](images/evidence2.3.png)
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
 **Preguntas generales:**
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+1. ¿Cuál es su nombre?
+2. ¿Qué edad tiene?
+3. ¿A qué se dedica?
+4. ¿[Opinión de idea de propuesta]?
 
 **Entrevistas usuario segmento 2**
+
 1. ¿Lorem?
 2. ¿Lorem?
 3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
+4. ¿Lorem?
+
+**Entrevistas usuario segmento 3**
+
+1. ¿Lorem?
 2. ¿Lorem?
 3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
+4. ¿Lorem?
+
+### 5.3.2. Registro de Entrevistas
+
 **Segmento 1**  
-Nombre: _____
-Edad: _ años 
+Nombre: _____  
+Edad: _ años  
 Ocupación: _____  
 ![Imagen de entrevista](image.jpg)  
 {texto mucho}
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años 
+Nombre: _____  
+Edad: _ años  
 Ocupación: _____  
-![Imagen de entrevista](image.jpg)
+![Imagen de entrevista](image.jpg)  
 {texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema|     ✅       |Funcionalidades referentes a la visibilidad del estado del sistema aún se encuentran en proceso de desarollado, por lo que no hubieron observaciones en este caso.|
-| Coincidencia entre el sistema y el mundo real |    ✅     | El idioma que utiliza la aplicación se acerca al lenguaje común de los segmentos objetivos, brindando un entorno familiar y sencillo de utilizar.  |
-|Relación entre el sistema y el mundo real|
-| Libertad y control por parte del usuario:  |   ✅   | El usuario es libre de navegar por la aplicación sin problemas o restricciones, por lo que se cumple la libertad y control del usuario al utilizar la aplicación.|
-| Consistencia y estándares  |    ✅   |Los entrevistados mencionan la facilidad de utilizar la aplicación, por lo que no se presentan errores de consistencia o estándares de diseño.  |
-| Prevención de errores   |   ✅  | Funciones relacionadas a la prevención de errores se siguen trabajando en el desarrollo de la aplicación. |
-| Reconocimiento antes que recuerdo |      ✅  | El usuario no debe recordar funciones de la aplicación para realizar funciones comunes al navegar por la aplicación. |
-| Flexibilidad y eficiencia de uso  |    ✅    | Se cumple la flexibilidad del usuario al otorgar las funciones más relevantes al ingresar a la aplicación en el caso de las próximas citas médicas por atender y la opción de reservar citas médicas.|
-| Estética y diseño minimalista  |      ✅  | Se prioriza el contenido relevante al mostrar información y sus características antes que los elementos adicionales. Además, se utilizan colores de fondo simples y fuentes de color  de letras más oscuras para resltar el contenido.|
-| Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores |    ✅  | Los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. |
-| Ayuda y documentación|    ✅   | De igual manera, los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. Sin embargo, se proyecta tener un apartado de preguntas frecuentes y sistema de tickets para resolver consultas en un futuro.|
 
-## 5.4. Video About-the-Product.
+### 5.3.3. Evaluaciones según heurísticas
+
+| HEURÍSTICA                                        | EVALUACIÓN ✅❌ | NOTA                                                                                                                                                 |
+|---------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Visibilidad del estado del sistema                | ✅              | Funcionalidades referentes a la visibilidad del estado del sistema aún se encuentran en proceso de desarrollo, por lo que no hubieron observaciones.   |
+| Coincidencia entre el sistema y el mundo real     | ✅              | El idioma que utiliza la aplicación se acerca al lenguaje común de los segmentos objetivos, brindando un entorno familiar y sencillo de utilizar.     |
+| Libertad y control por parte del usuario          | ✅              | El usuario es libre de navegar por la aplicación sin problemas o restricciones, por lo que se cumple la libertad y control del usuario al usarla.     |
+| Consistencia y estándares                         | ✅              | Los entrevistados mencionan la facilidad de utilizar la aplicación, por lo que no se presentan errores de consistencia o estándares de diseño.        |
+| Prevención de errores                             | ✅              | Funciones relacionadas a la prevención de errores se siguen trabajando en el desarrollo de la aplicación.                                             |
+| Reconocimiento antes que recuerdo                 | ✅              | El usuario no debe recordar funciones de la aplicación para realizar funciones comunes al navegar por la aplicación.                                   |
+| Flexibilidad y eficiencia de uso                  | ✅              | Se cumple la flexibilidad del usuario al otorgar las funciones más relevantes al ingresar a la aplicación.                                            |
+| Estética y diseño minimalista                     | ✅              | Se prioriza el contenido relevante al mostrar información y sus características antes que los elementos adicionales.                                   |
+| Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores | ✅ | Los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación.                                  |
+| Ayuda y documentación                             | ✅              | De igual manera, los mensajes de ayuda aún están en proceso de desarrollo. Sin embargo, se proyecta tener un apartado de preguntas frecuentes.         |
+
+## 5.4. Video About-the-Product
+
 [URL del video about the product](https://www.example.com)
-# Conclusiones
-{texto}
-# Conclusiones y recomendaciones.
-Conclusiones (TB1)
+
+Aquí tienes el texto corregido y formateado en Markdown:
+
+# Conclusiones y recomendaciones
+
+## Conclusiones (TB1)
 
 Como principal conclusión de esta etapa del proyecto Meal Master, logramos alcanzar los siguientes hitos:
 
-Nos permitió desarrollar una solución enfocada y relevante después de realizar una investigación previa exhaustiva para comprender a fondo la problemática a abordar, identificando los segmentos objetivos involucrados y sus necesidades específicas.
+- Nos permitió desarrollar una solución enfocada y relevante después de realizar una investigación previa exhaustiva para comprender a fondo la problemática a abordar, identificando los segmentos objetivos involucrados y sus necesidades específicas.
+- Al aplicar el proceso Lean UX, que incluye ciclos de construcción, medición y aprendizaje, pudimos refinar y mejorar nuestras ideas del proyecto para optimizar la experiencia del usuario y garantizar que nuestras soluciones fueran efectivas y satisfactorias.
+- La realización de entrevistas con los segmentos objetivo nos permitió obtener una comprensión profunda y empática de sus necesidades, deseos y preferencias, algo fundamental para el desarrollo de una solución adecuada.
+- La elección de las herramientas, lenguajes de programación, marcos y marcadores hipertextuales más apropiados para nuestro proyecto garantizó la eficiencia y efectividad de la implementación de la solución.
+- Utilizar las herramientas Git y GitHub para organizar las bases del repositorio nos permitió tener un control preciso de las versiones del proyecto, facilitar el trabajo colaborativo y garantizar la integridad del código fuente.
+- El uso de Git Flow como flujo de trabajo ha demostrado ser útil para la gestión del desarrollo del proyecto, ya que nos permite trabajar en equipo, integrar nuevas funciones y realizar cambios de manera segura.
+- El diseño del ciclo de vida del producto basado en el marco de trabajo SCRUM nos dio una estructura clara para la planificación, el desarrollo, la revisión y la entrega del producto, lo que permitió una gestión ágil y eficiente del proyecto.
+- La realización de entrevistas con ambos grupos objetivo nos permitió obtener una visión más amplia y sólida de los usuarios interesados en dietas nutritivas, especialmente en lo que respecta al consumo de calorías, así como a la compra de productos relacionados.
+- El servicio enfrenta desafíos significativos en términos de eficiencia del filtrado de recetas y precisión acerca de la información nutricional. La atención personalizada a través de suscripciones premium y la consulta con profesionales en nutrición logran mostrar un enfoque alto a la plataforma, ofreciendo un valor agregado a los usuarios que buscan una ayuda personalizada para sus necesidades dietéticas.
+- La segmentación de usuarios en cocineros inexpertos y entusiastas de la nutrición proporciona una buena base para la estrategia de marketing y desarrollo de los productos. Meal Master se enfoca en proporcionar una experiencia al usuario adaptada a las necesidades y habilidades específicas en cada segmento, ofreciendo tutoriales con sus respectivos pasos para usuarios sin experiencia y herramientas de planificación de dietas para los que prefieren la nutrición.
 
-Al aplicar el proceso Lean UX, que incluye ciclos de construcción, medición y aprendizaje, pudimos refinar y mejorar nuestras ideas del proyecto para optimizar la experiencia del usuario y garantizar que nuestras soluciones fueran efectivas y satisfactorias.
+## Conclusiones (TP1)
 
-La realización de entrevistas con los segmentos objetivo nos permitió obtener una comprensión profunda y empática de sus necesidades, deseos y preferencias, algo fundamental para el desarrollo de una solución adecuada.
+Se desarrollaron las siguientes conclusiones relacionadas a esta segunda entrega:
 
-La elección de las herramientas, lenguajes de programación, marcos y marcadores hipertextuales más apropiados para nuestro proyecto garantizó la eficiencia y efectividad de la implementación de la solución.
+- La adopción de Pivotal Tracker como herramienta de gestión de sprints demuestra una buena práctica en la metodología ágil, ya que el uso de esta herramienta ayudó mucho a organizar y priorizar las User Stories, facilitando la planificación y seguimiento del progreso del proyecto.
+- La asignación de puntos de historia y la correcta estructuración de las historias de los usuarios demuestran un enfoque sólido hacia la estimación del esfuerzo requerido para completar cada tarea, lo que permite una mejor planificación y asignación de recursos en sprints posteriores.
+- El desarrollo y despliegue exitoso de una aplicación web frontend con vueJS es un logro significativo porque demuestra las habilidades técnicas del equipo de desarrollo y su capacidad para implementar soluciones funcionales utilizando tecnologías modernas.
+- La evidencia de la implementación de todas las historias de los usuarios indica un cumplimiento exitoso de los requisitos planteados en el inventario de productos, ya que el equipo ha logrado abordar y completar todas las tareas planificadas para la ronda.
+- La utilización de una nomenclatura clara y consistente para los commits en el repositorio de GitHub es una buena práctica de desarrollo colaborativo que facilita bastante la comprensión y el seguimiento de los cambios realizados en el código fuente y mejora la colaboración entre los miembros del equipo.
+- El uso de vueJS como tecnología principal en la aplicación web frontend muestra la capacidad del equipo para utilizar tecnologías modernas, lo que puede mejorar la experiencia del usuario final.
+- En comparación con entregas anteriores, el cumplimiento exitoso de las tareas planificadas y la implementación de todas las historias de usuario muestran un aumento en la productividad del equipo.
+- La competencia en el mercado de aplicaciones de recetas y planificación de comidas es de un nivel elevado, por eso es importante tener estrategias de diferenciación claras y tácticas de expansión efectivas. Meal Master logra realizarlo enfocándose en la calidad y la precisión de sus servicios, manteniendo una interfaz de usuario atractiva y fácil de usar, y evitando la cantidad masiva de anuncios que podría afectar de una manera negativa la experiencia del usuario.
+- Finalmente, Meal Master tendrá que innovar continuamente y adaptarse a las necesidades cambiantes de los usuarios para que logre el éxito a largo plazo en un mercado competitivo y en evolución.
 
-Utilizar las herramientas Git y GitHub para organizar las bases del repositorio nos permitió tener un control preciso de las versiones del proyecto, facilitar el trabajo colaborativo y garantizar la integridad del código fuente.
+## Conclusiones (TB2)
 
-El uso de Git Flow como flujo de trabajo ha demostrado ser útil para la gestión del desarrollo del proyecto, ya que nos permite trabajar en equipo, integrar nuevas funciones y realizar cambios de manera segura.
-El diseño del ciclo de vida del producto basado en el marco de trabajo SCRUM nos dio una estructura clara para la planificación, el desarrollo, la revisión y la entrega del producto, lo que permitió una gestión ágil y eficiente del proyecto.
+- Validación de Prototipos: Realizamos pruebas de usuario con prototipos de alta fidelidad, lo que nos permitió identificar áreas de mejora y validar nuestras suposiciones iniciales.
+- Integración de comentarios de los usuarios: recopilamos y analizamos los comentarios de los usuarios para realizar las modificaciones necesarias y mejorar la usabilidad y funcionalidad de nuestra solución.
+- Optimización del Sistema de Recomendación: Adaptamos el algoritmo de recomendación de recetas a las preferencias y necesidades dietéticas de los usuarios para ofrecer opciones más precisas y personalizadas.
+- Construir funcionalidades Clave: aumentamos el valor para los usuarios agregando funcionalidades importantes como el seguimiento de la ingesta calórica, planes de comidas personalizados y listas de compras automáticas.
+- Mejoras en la interfaz de usuario: Basándonos en las mejores prácticas de diseño UX/UI, actualizamos y optimizamos la interfaz de usuario para garantizar una experiencia más intuitiva y agradable.
+- Gestión Eficiente del Proyecto: Organizamos y priorizamos tareas utilizando herramientas ágiles de gestión de proyectos, lo que resultó en una ejecución eficiente y resultados de alta calidad.
 
-La realización de entrevistas con ambos grupos objetivo nos permitió obtener una visión más amplia y sólida de los usuarios interesados en dietas nutritivas, especialmente en lo que respecta al consumo de calorías, así como a la compra de productos relacionados. 
+## Conclusiones (TF)
 
-El servicio enfrenta desafíos significativos en el término de la eficiencia del filtrado de recetas y precisión acerca de la información nutricional. La atención personalizada a través de suscripciones premium y la consulta con profesionales en nutrición logran mostrar un enfoque alto a la plataforma, ofreciendo un valor agregado a los usuarios que buscan una ayuda personalizada para sus necesidades dietéticas.
+- Producto Finalizado y Funcional: Terminamos el desarrollo del producto, creando una aplicación que cumple con los objetivos iniciales. La plataforma ofrece una amplia gama de servicios para el seguimiento nutricional y la planificación de comidas.
+- Antes del lanzamiento oficial, realizamos pruebas exhaustivas con usuarios reales, lo que nos permitió identificar y corregir problemas y mejorar funcionalidades importantes.
+- Optimización del algoritmo de recomendación de recetas: refinamos y mejoramos el algoritmo para garantizar que las recomendaciones sean precisas y personalizadas, mejorando significativamente la experiencia del usuario.
+- Interfaz de usuario mejorada: Basándonos en los comentarios y las pruebas de usuarios, implementamos mejoras significativas en la interfaz de usuario para garantizar que sea fácil de entender, atractiva y fácil de usar.
+- Implementación de Características Avanzadas: Añadimos características avanzadas como la integración con dispositivos de seguimiento de actividad física, opciones de dieta específicas y sugerencias de compra basadas en recetas seleccionadas.
+- Estrategia de Mercado y Lanzamiento: Creamos una estrategia de marketing sólida y un plan de lanzamiento. Esto incluye colaboraciones con influencers en nutrición y salud, campañas en redes sociales y ofertas promocionales para los primeros usuarios.
 
-La segmentación de usuarios en cocineros inexpertos y entusiastas de la nutrición proporciona una buena base para la estrategia de marketing y desarrollo de los productos. Meal Master se enfoca en proporcionar una experiencia al usuario adaptada a las necesidades y habilidades específicas en cada segmento, ofreciendo tutoriales con sus respectivos pasos para usuarios sin experiencia y herramienta de planificación de dietas para los que prefieren la nutrición.
+## Video About-the-Team
 
-
-
-Conclusiones (TP1)
-Se desarrollaron las siguientes conclusiones relacionadas a esta segunda entrega: 
-
-La adopción de Pivotal Tracker como herramienta de gestión de sprints demuestra una buena práctica en la metodología ágil, ya que el uso de esta herramienta ayudó mucho a organizar y priorizar las User Stories, facilitando la planificación y seguimiento del progreso del proyecto.
-
-La asignación de puntos de historia y la correcta estructuración de las historias de los usuarios demuestran un enfoque sólido hacia la estimación del esfuerzo requerido para completar cada tarea, lo que permite una mejor planificación y asignación de recursos en sprints posteriores. 
-
-El desarrollo y despliegue exitoso de una aplicación web frontend con vueJS es un logro significativo porque demuestra las habilidades técnicas del equipo de desarrollo y su capacidad para implementar soluciones funcionales utilizando tecnologías modernas. 
-
-La evidencia de la implementación de todas las historias de los usuarios indica un cumplimiento exitoso de los requisitos planteados en el inventario de productos, ya que el equipo ha logrado abordar y completar todas las tareas planificadas para la ronda. 
-
-La utilización de una nomenclatura clara y consistente para los commits en el repositorio de GitHub es una buena práctica de desarrollo colaborativo que facilita bastante la comprensión y el seguimiento de los cambios realizados en el código fuente y mejora la colaboración entre los miembros del equipo. 
-
-El uso de vueJS como tecnología principal en la aplicación web frontend muestra la capacidad del equipo para utilizar tecnologías modernas, lo que puede mejorar la experiencia del usuario final.
-
-
-En comparación con entregas anteriores, el cumplimiento exitoso de las tareas planificadas y la implementación de todas las historias de usuario muestran un aumento en la productividad del equipo.
-
-La competencia en el mercado de aplicaciones de recetas y planificación de comidas es de un nivel elevado, por eso es importante las estrategias de diferenciación claras y tácticas de expansión efectivas. Meal Master logra realizarlo enfocándose en la calidad y la precisión de sus servicios, manteniendo una interfaz de usuario atractiva y fácil de usar, y evitando la cantidad masiva de anuncios que podría afectar de una manera negativa la experiencia del usuario. Finalmente, Meal Master tendrá que innovar continuamente y adaptarse a las necesidades cambiantes de los usuarios para que logre el éxito a largo plazo en un mercado competitivo y en evolución.
-
-Conclusiones (TB2)
-
-Validación de Prototipos: Realizamos pruebas de usuario con prototipos de alta fidelidad, lo que nos permitió identificar áreas de mejora y validar nuestras suposiciones iniciales.
-
-Integración de comentarios de los usuarios: recopilamos y analizamos los comentarios de los usuarios para realizar las modificaciones necesarias y mejorar la usabilidad y funcionalidad de nuestra solución.
-
-Optimización del Sistema de Recomendación: Adaptamos el algoritmo de recomendación de recetas a las preferencias y necesidades dietéticas de los usuarios para ofrecer opciones más precisas y personalizadas.
-
-Construir funcionalidades Clave: aumentamos el valor para los usuarios agregando funcionalidades importantes como el seguimiento de la ingesta calórica, planes de comidas personalizados y listas de compras automáticas.
-
-Mejoras en la interfaz de usuario: Basándonos en las mejores prácticas de diseño UX/UI, actualizamos y optimizamos la interfaz de usuario para garantizar una experiencia más intuitiva y agradable.
-
-Gestión Eficiente del Proyecto: Organizamos y priorizamos tareas utilizando herramientas ágiles de gestión de proyectos, lo que resultó en una ejecución eficiente y resultados de alta calidad.
-
-
-Conclusiones (TF)
-Producto Finalizado y Funcional: Terminamos el desarrollo del producto, creando una aplicación que cumple con los objetivos iniciales. La plataforma ofrece una amplia gama de servicios para el seguimiento nutricional y la planificación de comidas.
-
-Antes del lanzamiento oficial, realizamos pruebas exhaustivas con usuarios reales, lo que nos permitió identificar y corregir problemas y mejorar funcionalidades importantes.
-
-Optimización del algoritmo de recomendación de recetas: refinamos y mejoramos el algoritmo para garantizar que las recomendaciones sean precisas y personalizadas, mejorando significativamente la experiencia del usuario.
-
-Interfaz de usuario mejorada: Basándonos en los comentarios y las pruebas de usuarios, implementamos mejoras significativas en la interfaz de usuario para garantizar que sea fácil de entender, atractiva y fácil de usar.
-
-Implementación de Características Avanzadas: Añadimos características avanzadas como la integración con dispositivos de seguimiento de actividad física, opciones de dieta específicas y sugerencias de compra basadas en recetas seleccionadas.
-
-Estrategia de Mercado y Lanzamiento: Creamos una estrategia de marketing sólida y un plan de lanzamiento. Esto incluye colaboraciones con influencers en nutrición y salud, campañas en redes sociales y ofertas promocionales para los primeros usuarios.
-
-# Video About-the-Team.
 [URL del video about the team](https://www.example.com)
 
-# Bibliografía
-Vue.js. (s.f.). Recuperado de 
-https://vuejs.org/
-W3Schools. (s.f.). HTML5 Syntax. Recuperado de
-https://www.w3schools.com/html/html5_syntax.asp
-Google. (s.f.). HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html
-SpecFlow. (s.f.). Gherkin - Conventions for Readable Specifications. Recuperado de https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
-Angular. (s.f.). Angular Style Guide. Recuperado de 
-https://angular.io/guide/styleguide
-Google. (s.f.). Google Java Style Guide. Recuperado de https://google.github.io/styleguide/javaguide.html
-Google. (s.f.). TypeScript Style Guide. Recuperado de https://google.github.io/styleguide/tsguide.html
-Spring Boot. (s.f.). Spring Boot Features. Recuperado de https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
+## Bibliografía
 
-# Anexos
+- Vue.js. (s.f.). Recuperado de https://vuejs.org/
+- W3Schools. (s.f.). HTML5 Syntax. Recuperado de https://www.w3schools.com/html/html5_syntax.asp
+- Google. (s.f.). HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html
+- SpecFlow. (s.f.). Gherkin - Conventions for Readable Specifications. Recuperado de https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+- Angular. (s.f.). Angular Style Guide. Recuperado de https://angular.io/guide/styleguide
+- Google. (s.f.). Google Java Style Guide. Recuperado de https://google.github.io/styleguide/javaguide.html
+- Google. (s.f.). TypeScript Style Guide. Recuperado de https://google.github.io/styleguide/tsguide.html
+- Spring Boot. (s.f.). Spring Boot Features. Recuperado de https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 
-|Sección|Descripción del video|URL del video|
-|-|-|-|
-|Needfinding Interviews|Video de Entrevistas a segmentos objetivos (Sprint 1)| https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing|
-|Needfinding Interviews|Video de Entrevistas a segmentos objetivos (Sprint 3)| https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing |
-|About the Product|Promoción del Meal Master (Sprint 4)| https://upcedupe my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/ESh7geU66DZInkBY_Ry5dp4B2wtxCDu1eJW8dgBy4cDEUA?e=0lulFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
-|About the Team|Video del equipo y trabajo realizado (Sprint 3) |https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EVqG6kPDjURKhwIRSbYjDuMBvwZlgWxIOyZ34_O9rjPl8A?e=882AG3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
-|Exposición|Video Exposición TB2 (Sprint 3)|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EaDbIHfP62hHv28spthCJK8B8_KdpiD8_kgVFjpmblPH1A?e=D9VJg7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+## Anexos
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Sección                | Descripción del video                                           | URL del video                                                                                                                                   |
+|------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Needfinding Interviews | Video de Entrevistas a segmentos objetivos (Sprint 1)           | [Link](https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing)                                                    |
+| Needfinding Interviews | Video de Entrevistas a segmentos objetivos (Sprint 3)           | [Link](https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing)                                                    |
+| About the Product      | Promoción del Meal Master (Sprint 4)                            | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/ESh7geU66DZInkBY_Ry5dp4B2wtxCDu1eJW8dgBy4cDEUA?e=0lulFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| About the Team         | Video del equipo y trabajo realizado (Sprint 3)                 | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EVqG6kPDjURKhwIRSbYjDuMBvwZlgWxIOyZ34_O9rjPl8A?e=882AG3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Exposición             | Video Exposición TB2 (Sprint 3)                                 | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_peEaDbIHfP62hHv28spthCJK8B8_KdpiD8_kgVFjpmblPH1Ae=D9VJg7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 

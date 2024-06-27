@@ -762,7 +762,7 @@ Link:  https://lucid.app/lucidchart/16233ba4-2e87-4655-b479-e883196ddf2a/edit?vi
 ![Imgur](images/classdiagram.JPG)
 
 ### 4.7.2. Class Dictionary.
-![Imgur](images/classdictionary.png)
+![Imgur](images/classdictionary.jpg)
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.

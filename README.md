@@ -1521,8 +1521,6 @@ EP-01 | US-08 | #185942721 | Accesibilidad de la página | Sección de redes soc
 ![Sprint review development Evidence](images/execution1.png)
 ![Sprint review development Evidence](images/execution1.png)
 
-## 5.2. Landing Page, Services & Applications Implementation
-
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
@@ -1630,9 +1628,6 @@ US-26 | Instrucciones de Cocina | #185942721 | Interfaz del detallado de un plat
 #### 5.2.2.5. Execution Evidence for Sprint Review
 ![Sprint review Execution Evidence](image.jpg)
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
-![Sprint review Services Documentation Evidence](image.jpg)
-
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 ![Sprint review Software Deployment Evidence](image.jpg)
 
@@ -1641,17 +1636,232 @@ Cada integrante del grupo ha subido su commit en su respectivo branch, enfocánd
 ![Sprint review Team Collaboration Insights](team2.png)
 
 ### 5.2.3. Sprint 3
-
 #### 5.2.3.1. Sprint Planning 3
-![Imgur](images/sprint3.png)
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Background</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-04-24</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>7 días</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>(Presencial) en la propia universidad</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>
+      <ul>
+        <li>Cortés Casas, Joaquín Marcelo</li>
+        <li>Díaz Silva, Fernando Josué</li>
+        <li>Chávez Rojas, Carlos Raúl Guillermo</li>
+        <li>Ruiz Blas, Luciano</li>
+        <li>Becerra Llempen, Fabiola</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n – 0 Review Summary</th>
+    <td>
+      <ul>
+
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n – 1 Retrospective Summary</th>
+    <td>
+      <ul>
+        <li>Meta principal: X</li>
+        <li>Metas específicas: X</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <td>
+      <ul>
+        <li>Desplegar una versión mejorada del landing page.</li>
+        <li>Integrar nuevas funcionalidades según el feedback del sprint anterior.</li>
+        <li>Preparar la base para la implementación del backend en futuros sprints.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>X Puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>X Puntos</td>
+  </tr>
+</table>
 
 #### 5.2.3.2. Sprint Backlog 3
-![Imgur](images/backlog3.png)
+
+Link de board en Trello: [Enlace](#)
+
+*User Story* | *Work Item / Task* | *Id* | *Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status*
+--- | --- | --- | --- | --- | --- | --- | ---
+US-14 | Filtrado de preferencias alimenticias | #185942721 | Filtrar los platos de comida recuperados de un API. | 5 hours | x | Done
+US-15 | Visualización de planes de alimentación personalizados | #185942721 | En base a platos previamente filtrados y operaciones CRUD, mostrar en un apartado los platos de comida. | 5 hours | x | Done
+US-24 | Registro de Ingredientes | #185942721 | Listar los ingredientes de comida para generar un plan de comida en base a estos. | 5 hours | x | Done
+US-25 | Filtro de Platillos | #185942721 | Filtrar los platos de comida recuperados de un API. | 5 hours | x | Done
+US-26 | Instrucciones de Cocina | #185942721 | Interfaz del detallado de un plato de cocina seleccionado, con el tutorial de cómo prepararlo. | 5 hours | x | Done
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 ![Sprint review development Evidence](images/evidence2.png)
 ![Sprint review development Evidence](images/evidence2.2.png)
 ![Sprint review development Evidence](images/evidence2.3.png)
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+![Sprint review Execution Evidence](image.jpg)
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+![Sprint review Software Deployment Evidence](image.jpg)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+Cada integrante del grupo ha subido su commit en su respectivo branch, enfocándose en completar su funcionalidad asignada.
+![Sprint review Team Collaboration Insights](team2.png)
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Background</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-04-24</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>7 días</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>(Presencial) en la propia universidad</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>
+      <ul>
+        <li>Cortés Casas, Joaquín Marcelo</li>
+        <li>Díaz Silva, Fernando Josué</li>
+        <li>Chávez Rojas, Carlos Raúl Guillermo</li>
+        <li>Ruiz Blas, Luciano</li>
+        <li>Becerra Llempen, Fabiola</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n – 0 Review Summary</th>
+    <td>
+      <ul>
+
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n – 1 Retrospective Summary</th>
+    <td>
+      <ul>
+        <li>Meta principal: X</li>
+        <li>Metas específicas: X</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <td>
+      <ul>
+        <li>La última versión del Landing Page, la tercera versión del aplicativo web y segunda versión del backend.</li>
+        <li>Integrar nuevas funcionalidades según el feedback del sprint anterior.</li>
+        <li>Preparar la base para la implementación del backend en futuros sprints.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>X Puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>X Puntos</td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+Link de board en Trello: [Enlace](#)
+
+
+*User Story* | *Work Item / Task* | *Id* | *Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status*
+--- | --- | --- | --- | --- | --- | --- | ---
+US-14 | Filtrado de preferencias alimenticias | #185942721 | Filtrar los platos de comida recuperados de un API. | 5 hours | x | Done
+US-15 | Visualización de planes de alimentación personalizados | #185942721 | En base a platos previamente filtrados y operaciones CRUD, mostrar en un apartado los platos de comida. | 5 hours | x | Done
+US-24 | Registro de Ingredientes | #185942721 | Listar los ingredientes de comida para generar un plan de comida en base a estos. | 5 hours | x | Done
+US-25 | Filtro de Platillos | #185942721 | Filtrar los platos de comida recuperados de un API. | 5 hours | x | Done
+US-26 | Instrucciones de Cocina | #185942721 | Interfaz del detallado de un plato de cocina seleccionado, con el tutorial de cómo prepararlo. | 5 hours | x | Done
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+![Sprint review development Evidence](images/evidence2.png)
+![Sprint review development Evidence](images/evidence2.2.png)
+![Sprint review development Evidence](images/evidence2.3.png)
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+![Sprint review Execution Evidence](image.jpg)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Se ha realizado la documentación completa de los Endpoints para `MealPlan` y `User`, implementado acciones HTTP: GET, POST, PUT, DELETE.
+
+| Endpoint              | Acción HTTP | Sintaxis de Llamada          | Parámetros              | Ejemplo de Llamada                          | Ejemplo de Response                                                                                                      |
+|-----------------------|-------------|------------------------------|-------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| `/api/meal-plan`      | GET         | `/api/meal-plan`             | Ninguno                 | `GET /api/meal-plan`                        | `[{"id":1,"name":"Plan A"},{"id":2,"name":"Plan B"}]`                                                                     |
+| `/api/meal-plan`      | POST        | `/api/meal-plan`             | `name: string`          | `POST /api/meal-plan {"name": "Plan A"}`    | `{"id":1,"name":"Plan A"}`                                                                                               |
+| `/api/meal-plan/{id}` | GET         | `/api/meal-plan/{id}`        | `id: int`               | `GET /api/meal-plan/1`                      | `{"id":1,"name":"Plan A"}`                                                                                               |
+| `/api/meal-plan/{id}` | PUT         | `/api/meal-plan/{id}`        | `id: int, name: string` | `PUT /api/meal-plan/1 {"name": "Plan B"}`   | `{"id":1,"name":"Plan B"}`                                                                                               |
+| `/api/meal-plan/{id}` | DELETE      | `/api/meal-plan/{id}`        | `id: int`               | `DELETE /api/meal-plan/1`                   | `{"message": "Meal plan deleted"}`                                                                                       |
+| `/api/user`           | GET         | `/api/user`                  | Ninguno                 | `GET /api/user`                             | `[{"id":1,"name":"User A"},{"id":2,"name":"User B"}]`                                                                     |
+| `/api/user`           | POST        | `/api/user`                  | `name: string`          | `POST /api/user {"name": "User A"}`         | `{"id":1,"name":"User A"}`                                                                                               |
+| `/api/user/{id}`      | GET         | `/api/user/{id}`             | `id: int`               | `GET /api/user/1`                           | `{"id":1,"name":"User A"}`                                                                                               |
+| `/api/user/{id}`      | PUT         | `/api/user/{id}`             | `id: int, name: string` | `PUT /api/user/1 {"name": "User B"}`        | `{"id":1,"name":"User B"}`                                                                                               |
+| `/api/user/{id}`      | DELETE      | `/api/user/{id}`             | `id: int`               | `DELETE /api/user/1`                        | `{"message": "User deleted"}`                                                                                           |
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+![Sprint review Software Deployment Evidence](image.jpg)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+Cada integrante del grupo ha subido su commit en su respectivo branch, enfocándose en completar su funcionalidad asignada.
+![Sprint review Team Collaboration Insights](team2.png)
+
 
 ## 5.3. Validation Interviews
 

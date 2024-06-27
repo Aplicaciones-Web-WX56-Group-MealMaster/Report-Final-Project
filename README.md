@@ -1126,7 +1126,7 @@ Spring Boot. (s.f.). Spring Boot Features. Recuperado de https://docs.spring.io/
 
 |Sección|Descripción del video|URL del video en Steam|
 |-|-|-|
-|Needfinding Interviews|Video de Entrevistas a segmentos objetivos (Sprint 1)|https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing |
+|Needfinding Interviews|Video de Entrevistas a segmentos objetivos (Sprint 1)| https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing|
 |Needfinding Interviews|Video de Entrevistas a segmentos objetivos (Sprint 3)|https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing |
 |About the Product|Promoción del Meal Master (Sprint 4) |https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/ESh7geU66DZInkBY_Ry5dp4B2wtxCDu1eJW8dgBy4cDEUA?e=0lulFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
 |About the Team|Video del equipo y trabajo realizado (Sprint 3) |https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EVqG6kPDjURKhwIRSbYjDuMBvwZlgWxIOyZ34_O9rjPl8A?e=882AG3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|

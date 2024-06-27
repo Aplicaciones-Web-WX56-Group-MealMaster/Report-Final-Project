@@ -512,17 +512,30 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 |Feeling|Tengo dudas al momento de investigar y conocer cuál es la opción más conveniente.|Miedo por escoger un plan con información desactualizada.|Siento dudas sobre la seguridad de la página web, pudiendo no ser confiable.|Siento dudas al momento de pensar en los detalles del plan alimenticio por generar, pudiendo ser impráctico.|Me siento aliviado, sabiendo que mis necesidades van a ser saciadas en base a mi correcta elección.|
 
 **To-Be Scenario Mapping 2: Entusiasta de la nutrición**  
-![As-is](images/asis2.png)
+|Fases|Investigar páginas web que puedan medir lo que consumo (kcl)|Analizar los planes de cada una de las páginas encontradas.|Escoger la página web más confiable|Ponerme en contacto con un especialista |Filtrar mis preferencias alimenticias |
+|-|-|-|-|-|-|
+|Doing|Investigo en internet páginas web de confianza para medir los alimentos que consumo|Analizar los planes que veo recomendable para lo que busco.|En base a mi previo análisis, escojo la página web más prometedora.|Dentro de la página web, busco contactarme con un especialista ideal|Busco aplicar ciertos filtros para disfrutar del plan alimentario organizado.|
+|Thinking|Espero que existan múltiples plataformas web que ayuden al proceso de cocina.|Ojalá los planes ofrecidos tengan un valor adicional.|Espero haber elegido la página web más confiable de las disponibles.|Espero dialogar con el especialista para organizar de forma rápida y efectiva un plan de alimentos.|Espero que el plan alimenticio sea suficientemente efectivo.|
+|Feeling|Tengo dudas al momento de investigar y conocer cuál es la opción más conveniente.|Miedo por escoger un plan con información desactualizada.|Siento dudas sobre la seguridad de la página web, pudiendo no ser confiable.|Siento dudas al momento de esperar contactarme con el especialista.|Me siento aliviado, sabiendo que mis necesidades van a ser saciadas en base a mi correcta elección.|
 
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
 **To-Be Scenario Mapping 1: Cocinero Inexperto**  
-![To-Be](images/tobe1.png)
+
+|Fases|Investigar páginas web de nutrición y para aprender a cocinar|Analizar los planes de cada una de las páginas encontradas.|Escoger la página web más confiable|Empezar a estructurar un plan alimenticio en la web|Filtrar mis preferencias alimenticias |
+|-|-|-|-|-|-|
+|Doing|Investigó páginas web con la finalidad de mejorar mi alimentación y aprender a cocinar con los ingredientes que tengo|Analizar los planes de cada uno de las posibles opciones, teniendo en cuenta la calidad y el precio del servicio|Inclinarse por la nueva app innovadora “Meal Master” que he visto que es muy buena entre el público|Busco organizar adecuadamente un plan para mi alimentación sana, con una dieta equilibrada.|Poder agregar tus preferencias alimenticias para no tener inconvenientes con mi plan.|
+|Thinking|Ojalá pueda encontrar de preferencia una app que sea eficiente para  organizar mi alimentación y aprender a cocinar |Espero que el plan de la aplicación valga la pena y cubra todas mis necesidades, para aprender a cocinar con lo que tengo. |Espero que no sea demasiado tedioso tener que usar la aplicación web y no tener problemas.|Espero que la app pueda organizar un buen plan y enseñarme cómo cocinar el plan organizado.|Espero que la app pueda buscar buenos resultados según mis filtros.|
+|Feeling|Curiosidad por las nuevas apps para aprender a cocinar con lo que tengo y que organice mi alimentación.|Siento que los planes valen la pena, porque me ayudarán en mi objetivo y espero no sea muy costoso.|Siento confianza de que mis datos personales no sean utilizados de mala manera|Curiosidad por ver como organiza y estructura un plan , y me ayuda a aprender a cocinar con lo que dispongo.|Felicidad porque puedo filtrar mis gustos, y así, no tener problemas para cumplir mi meta.|
 
 **To-Be Scenario Mapping 2: Clientes que buscan medir las calorías que consumen y llevar un control más detallado, de igual manera con el contacto de un profesional a su disposición.**  
-![To-Be](images/tobe2.png)
+|Fases|Investigar páginas web que puedan medir lo que consumo (kcl)|Analizar los planes de cada una de las páginas encontradas.|Escoger la página web más confiable|Ponerme en contacto con un especialista |Filtrar mis preferencias alimenticias |
+|-|-|-|-|-|-|
+|Doing|Investigó páginas web con la finalidad de medir las calorías que consumo y llevar un control. |Analizar los planes de cada uno de las posibles opciones, teniendo en cuenta la calidad y el precio del servicio|Inclinarse por la nueva app innovadora “Meal Master” que he visto que es muy buena entre el público, y dispone de profesionales para consultas.|Busco en la app web, el apartado para ponerme en contacto con un especialista.|Poder agregar tus preferencias alimenticias para no tener inconvenientes con mi plan.|
+|Thinking|Ojalá pueda encontrar de preferencia una app que sea eficiente para  llevar el control de mi alimentación, y así llegar a mi objetivo más rápido.|Espero que el plan de la aplicación valga la pena y cubra todas mis necesidades.|Espero que no sea demasiado tedioso tener que usar la aplicación web y no tener problemas.|Espero que el especialista pueda brindarme tips o recomendaciones en base a mi progreso, de igual manera responder mis dudas.|Espero que la app pueda buscar buenos resultados según mis filtros.|
+|Feeling|Curiosidad por las nuevas apps que te permiten medir y controlar las calorías que consumes.|Siento que los planes valen la pena, porque me ayudarán en mi objetivo y espero no sea muy costoso.|Siento confianza de que mis datos personales no sean utilizados de mala manera|Siento tranquilidad al saber que un especialista me puede asesorar y responder dudas..|Felicidad porque puedo filtrar mis gustos, y así, no tener problemas para cumplir mi meta.|
 
 ## 3.2. User Stories.
 

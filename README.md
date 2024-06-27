@@ -550,7 +550,103 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
+| 01
+|US-LP-01|Implementación de Landing Page Responsive|Como usuario interesado en alimentación saludable, quiero interactuar con una landing page responsive que se adapte a mi pantalla.|5|
+|02|US-LP-02|Visualización de Redes Sociales de MealMaster|Como usuario interesado en alimentación saludable, quiero visualizar las redes sociales de MealMaster.|3|
+|03|US-LP-03|Visualización de Planes de Alimentación Destacados|Como usuario interesado en alimentación saludable, quiero ver ejemplos de planes de alimentación en la página de inicio para tener una idea de lo que puedo lograr con la aplicación.|3|
+|04|US-01|Página de Inicio Atractiva|Como visitante, quiero ver una página de inicio atractiva que me muestre rápidamente los beneficios clave de MealMaster para poder decidir si quiero registrarme.|5|
+|05|US-05|Testimonios y Reseñas en la Página de Inicio|Como visitante, quiero ver testimonios y reseñas de otros usuarios satisfechos en la página de inicio para ganar confianza en la aplicación.|3|
+|06|US-06|Navegación por Características Clave|Como visitante, quiero poder navegar fácilmente por las características clave de MealMaster, como la creación de platillos y planes alimenticios, para comprender rápidamente cómo la aplicación puede ayudarme.|5|
+|07|US-07|Información sobre Precios y Planes Disponibles|Como visitante, quiero encontrar fácilmente información sobre precios y planes disponibles en la página de inicio, para evaluar si el producto se ajusta a mis necesidades y presupuesto.|5|
+|09|US-09|Información sobre Servicio Premium de MealMaster|Como visitante, quiero ver información sobre el servicio premium de MealMaster y sus beneficios extras en la landing page, para decidir si quiero suscribirme.|3|
+|02|US-LP-02|Ejemplos Visuales de Platillos|Como visitante, deseo ver ejemplos visuales de platillos variados y atractivos en la landing page, para sentirme motivado en probar la aplicación web.|5|
+|01|US-AW-01|Cambio de Contraseña|Como usuario interesado en alimentación saludable, quiero poder cambiar mi contraseña por si deseas añadirle mayor seguridad a mi cuenta.|3|
+|02|US-AW-02|Filtrado de Preferencias Alimenticias|Como usuario interesado en alimentación saludable, quiero poder filtrar mis preferencias para evitar que dentro de mi dieta haya algún alimento al que soy alérgico o no me gusta.|5|
+|03|US-AW-03|Modificar Método de Pago|Como usuario interesado en alimentación saludable, quiero tener la opción de modificar mi método de pago por si deseo realizar compras con otra tarjeta.|3|
+|04|US-AW-04|Eliminar Cuenta Permanentemente|Como usuario interesado en alimentación saludable, quiero tener la opción de eliminar permanentemente mi cuenta de MealMaster.|5|
+|05|US-AW-05|Observar Reseñas de Recetas|Como usuario interesado en alimentación saludable, quiero poder observar las reseñas de los platos para tener mayor confianza en lo que prepararé.|3|
+|06|US-AW-06|Visualización de Platos Destacados|Como usuario interesado en alimentación saludable, quiero ver ejemplos de platos más destacados en la página de inicio para tener una idea de lo que puedo cocinar con la aplicación.|5|
+|07|US-AW-07|Acceso a la Calculadora de Calorías|Como usuario interesado en alimentación saludable, quiero tener acceso a una calculadora de calorías en la página de inicio para poder estimar rápidamente mis necesidades calóricas diarias.|3|
+|08|US-AW-08|Acceso a la Sección de Soporte al Cliente|Como usuario interesado en alimentación saludable, quiero encontrar fácilmente la sección de soporte al cliente en la página de inicio para poder hacer preguntas o reportar problemas.|3|
+|09|US-AW-09|Acceso a la Sección de Precios y Planes|Como usuario interesado en alimentación saludable, quiero encontrar fácilmente la sección de precios y planes en la página de inicio para entender los costos asociados con el uso de la aplicación.|3|
+|11|US-AW-11|Registro de Ingredientes|Como usuario interesado en alimentación saludable, quiero poder registrar los ingredientes que tengo a la mano, para que la aplicación pueda sugerirme platillos que pueda preparar con ellos.|3|
+|12|US-AW-12|Filtros de Platillos|Como usuario interesado en alimentación saludable, quiero poder aplicar filtros a las sugerencias de platillos, para que pueda elegir si quiero que sean saludables o no.|3|
+|13|US-AW-13|Instrucciones de Cocina|Como usuario interesado en alimentación saludable con habilidades de cocina baja, quiero que la aplicación me proporciona instrucciones paso a paso para preparar los platillos sugeridos, para que pueda aprender y mejorar mis habilidades de cocina.|5|
+|14|US-AW-14|Creación de Planes Alimenticios (Premium)|Como usuario premium, quiero poder crear planes alimenticios semanales basados en mis objetivos (perder grasa, ganar masa muscular, mantener un peso saludable), para que pueda seguir una dieta personalizada y alcanzar mis metas de salud.|8|
+|15|US-AW-15|Detalles de la Dieta (Premium)
+|Como usuario premium, quiero que la aplicación me proporcione todos los detalles específicos (calorías, grasas, etc.) de la dieta que voy a consumir en mi día a día, para que pueda monitorear mi ingesta nutricional.|5|
+|16|US-AW-16|Personalización de Planes Alimenticios (Premium)|Como usuario premium, quiero poder personalizar mi plan alimentario semanal con diferentes filtros (dinero, preferencia de alimentos), para que se ajuste a mis necesidades y preferencias.|8|
+|17|US-AW-17|Sugerencias de Reemplazo (Premium)|Como usuario premium, quiero que la aplicación me sugiera platos o comidas equivalentes para reemplazar en mi plan alimentario semanal, para que pueda mantener la variedad en mi dieta.|5|
+|01|US-WS-01|Desarrollo de una API RESTful|Como desarrollador, quiero desarrollar una API RESTful para la aplicación, para permitir la integración con otras aplicaciones y servicios.|8|
+|02|US-WS-02|Integración de APIs de información nutricional|Como desarrollador, quiero integrar APIs de información nutricional de fuentes confiables, para proporcionar a los usuarios datos precisos y actualizados sobre los alimentos que consumen.|5|
+|03|US-WS-03|Implementación de pruebas automatizadas|Como desarrollador, quiero implementar pruebas automatizadas para todas las funcionalidades de la aplicación, para detectar y corregir errores de manera eficiente y garantizar la calidad del software.|8|
+|04|US-WS-04|Desarrollo de un sistema de notificaciones en tiempo real|Como desarrollador, quiero desarrollar un sistema de notificaciones en tiempo real, para enviar recordatorios y actualizaciones a los usuarios de manera oportuna.|5|
+|05|US-WS-05|Integración de API de información nutricional|Como desarrollador, quiero integrar una API de información nutricional confiable, para proporcionar a los usuarios datos precisos y actualizados sobre los alimentos que consumen.|5|
+|06|US-WS-06|Documentación de la API|Como desarrollador, quiero documentar la API de manera completa y precisa, para facilitar su uso por parte de otros desarrolladores.|3|
+|07|US-WS-07|Seguridad de la API|Como desarrollador, quiero implementar medidas de seguridad en la API, como la encriptación de las comunicaciones y la protección contra ataques de inyección SQL, para proteger los datos de los usuarios.|8|
+|08|US-WS-08|Implementación de autenticación en la API|Como desarrollador, quiero implementar la autenticación en la API utilizando tokens JWT, para proteger los endpoints y asegurar que solo los usuarios autorizados puedan acceder a ellos.|5|
+|09|US-WS-09
+|Manejo de errores en la API|Como desarrollador, quiero implementar un manejo de errores robusto en la API, para proporcionar respuestas útiles cuando ocurran errores y facilitar la depuración.|5|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.

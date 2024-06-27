@@ -911,17 +911,21 @@ Testing: Sprint ofrece varios módulos que facilitan el testing de las funcional
 Soporte con Kotlin
 
 ### 5.1.4. Software Deployment Configuration.
-En este caso usaremos Git y github
+**En este caso usaremos Git y github**
+
 Git: En el desarrollo de software, Git es un sistema de control de versiones distribuido. Fue desarrollado por Linus Torvalds en 2005 y se ha convertido en una herramienta vital para trabajar juntos y monitorear los cambios en proyectos de código abierto y privados. La capacidad de realizar un seguimiento de los cambios en los archivos de un proyecto a lo largo del tiempo es una de las principales ventajas de Git. Los desarrolladores pueden crear ramas, hacer cambios y fusionarlas con Git. Esto permite que varios desarrolladores trabajen simultáneamente en varios aspectos del proyecto sin interferir entre sí.
 
 Como Git usa un modelo de sistema distribuido, cada desarrollador tiene una copia del repositorio completa, que incluye todo el historial de cambios. Esto aumenta la flexibilidad y la seguridad porque cada desarrollador puede trabajar de manera independiente y modificar su propia copia local sin afectar el trabajo de los demás. Los repositorios remotos, como GitHub, facilitan la colaboración en equipo y permiten el intercambio y la sincronización de cambios. Además, Git proporciona una amplia gama de características y comandos que facilitan la gestión de versiones. Se pueden crear ramas para trabajar en nuevas funcionalidades o corregir errores sin afectar el proyecto principal. Las fusiones también se pueden realizar para combinar los cambios de varias ramas y mantener un flujo de trabajo coherente. La capacidad de revertir cambios y realizar seguimiento de versiones anteriores es otra característica importante de Git. Esto permite a los desarrolladores retroceder en el tiempo y recuperar versiones de código anteriores, lo que es útil en caso de errores o necesidad de cambios retrospectivos. 
 A través de su usabilidad, podremos controlar las herramientas de nuestro software y guardar varios archivos o versiones a lo largo de las diferentes etapas de un proyecto. Esto nos permite a nosotros, como desarrolladores, monitorear lo que ya hemos hecho y resolver problemas o cambios que se decidan a lo largo del proyecto.
 ![Imgur](images/github.png)
+
 Github: Es una plataforma basada en Git que permite el alojamiento y la colaboración de código fuente. Fue lanzado en 2008 y se ha convertido en uno de los servicios más populares para desarrolladores de todo el mundo.  Los desarrolladores pueden crear repositorios en GitHub para almacenar y administrar su código fuente. Estos repositorios pueden ser públicos, lo que significa que cualquiera puede ver y contribuir al código, o privados, que son más apropiados para proyectos comerciales o privados.
 La capacidad de permitir la colaboración en equipo es uno de los aspectos más destacados de GitHub. Varios desarrolladores pueden trabajar en el mismo repositorio al mismo tiempo, realizar modificaciones en varias ramas y fusionarlos fácilmente.
 Esto facilita que los equipos trabajen juntos y gestionan las diversas contribuciones. GitHub ofrece una variedad de herramientas adicionales además de la gestión de código fuente. Los "problemas" permiten un seguimiento de las tareas, errores o mejoras del proyecto. Se pueden solicitar revisiones y fusionar los cambios realizados por colaboradores externos antes de incorporarlos al repositorio principal mediante "requerimientos de salida".
 Las "acciones" de GitHub son una característica importante que permite automatizar tareas y flujos de trabajo dentro del proyecto. La ejecución de pruebas, la creación de documentación o la implementación continua son ejemplos de esto. GitHub es conocido por su enfoque en el código abierto y su comunidad activa. GitHub aloja una gran cantidad de proyectos de código abierto, lo que facilita la colaboración y promueve la transparencia en el desarrollo de software. Esta herramienta nos ayudará a colaborar con git, es una plataforma que puede mantener un repositorio de código en la nube y permite que varios trabajadores trabajen en un solo proyecto, viendo las ediciones propias de cada integrante, mejorando el trabajo en equipo para los trabajos por hacer.
+
 ![Imgur](images/git.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint 1
 #### 5.2.X.1. Sprint Planning 1.
@@ -935,7 +939,10 @@ Las "acciones" de GitHub son una característica importante que permite automati
 ![Imgur](images/backlog1.1.JPG)
 
 #### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+![Sprint review development Evidence](images/execution.jpg)
+![Sprint review development Evidence](images/execution1.jpg)
+![Sprint review development Evidence](images/execution1.1jpg)
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
 #### 5.2.X.5. Execution Evidence for Sprint Review.

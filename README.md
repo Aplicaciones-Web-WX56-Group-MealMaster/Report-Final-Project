@@ -1112,7 +1112,15 @@ Estrategia de Mercado y Lanzamiento: Creamos una estrategia de marketing sólida
 # Bibliografía
 Vue.js. (s.f.). Recuperado de 
 https://vuejs.org/
-
+W3Schools. (s.f.). HTML5 Syntax. Recuperado de
+https://www.w3schools.com/html/html5_syntax.asp
+Google. (s.f.). HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html
+SpecFlow. (s.f.). Gherkin - Conventions for Readable Specifications. Recuperado de https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+Angular. (s.f.). Angular Style Guide. Recuperado de 
+https://angular.io/guide/styleguide
+Google. (s.f.). Google Java Style Guide. Recuperado de https://google.github.io/styleguide/javaguide.html
+Google. (s.f.). TypeScript Style Guide. Recuperado de https://google.github.io/styleguide/tsguide.html
+Spring Boot. (s.f.). Spring Boot Features. Recuperado de https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 
 # Anexos
 

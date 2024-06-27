@@ -573,8 +573,7 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 |12|US-AW-12|Filtros de Platillos|Como usuario interesado en alimentación saludable, quiero poder aplicar filtros a las sugerencias de platillos, para que pueda elegir si quiero que sean saludables o no.|3|
 |13|US-AW-13|Instrucciones de Cocina|Como usuario interesado en alimentación saludable con habilidades de cocina baja, quiero que la aplicación me proporciona instrucciones paso a paso para preparar los platillos sugeridos, para que pueda aprender y mejorar mis habilidades de cocina.|5|
 |14|US-AW-14|Creación de Planes Alimenticios (Premium)|Como usuario premium, quiero poder crear planes alimenticios semanales basados en mis objetivos (perder grasa, ganar masa muscular, mantener un peso saludable), para que pueda seguir una dieta personalizada y alcanzar mis metas de salud.|8|
-|15|US-AW-15|Detalles de la Dieta (Premium)
-|Como usuario premium, quiero que la aplicación me proporcione todos los detalles específicos (calorías, grasas, etc.) de la dieta que voy a consumir en mi día a día, para que pueda monitorear mi ingesta nutricional.|5|
+|15|US-AW-15|Detalles de la Dieta (Premium)|Como usuario premium, quiero que la aplicación me proporcione todos los detalles específicos (calorías, grasas, etc.) de la dieta que voy a consumir en mi día a día, para que pueda monitorear mi ingesta nutricional.|5|
 |16|US-AW-16|Personalización de Planes Alimenticios (Premium)|Como usuario premium, quiero poder personalizar mi plan alimentario semanal con diferentes filtros (dinero, preferencia de alimentos), para que se ajuste a mis necesidades y preferencias.|8|
 |17|US-AW-17|Sugerencias de Reemplazo (Premium)|Como usuario premium, quiero que la aplicación me sugiera platos o comidas equivalentes para reemplazar en mi plan alimentario semanal, para que pueda mantener la variedad en mi dieta.|5|
 |01|US-WS-01|Desarrollo de una API RESTful|Como desarrollador, quiero desarrollar una API RESTful para la aplicación, para permitir la integración con otras aplicaciones y servicios.|8|
@@ -585,68 +584,7 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 |06|US-WS-06|Documentación de la API|Como desarrollador, quiero documentar la API de manera completa y precisa, para facilitar su uso por parte de otros desarrolladores.|3|
 |07|US-WS-07|Seguridad de la API|Como desarrollador, quiero implementar medidas de seguridad en la API, como la encriptación de las comunicaciones y la protección contra ataques de inyección SQL, para proteger los datos de los usuarios.|8|
 |08|US-WS-08|Implementación de autenticación en la API|Como desarrollador, quiero implementar la autenticación en la API utilizando tokens JWT, para proteger los endpoints y asegurar que solo los usuarios autorizados puedan acceder a ellos.|5|
-|09|US-WS-09
-|Manejo de errores en la API|Como desarrollador, quiero implementar un manejo de errores robusto en la API, para proporcionar respuestas útiles cuando ocurran errores y facilitar la depuración.|5|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|09|US-WS-09|Manejo de errores en la API|Como desarrollador, quiero implementar un manejo de errores robusto en la API, para proporcionar respuestas útiles cuando ocurran errores y facilitar la depuración.|5|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
@@ -822,24 +760,166 @@ Link:  https://lucid.app/lucidchart/16233ba4-2e87-4655-b479-e883196ddf2a/edit?vi
 ![Imgur](images/classdiagram.JPG)
 
 ### 4.7.2. Class Dictionary.
-![Imgur](images/.JPG)
+![Imgur](images/classdictionary.png)
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Imgur](images/.JPG)
+![Imgur](images/databasedesign.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+A continuación se listará los productos software externos que se han utilizado para el desarrollo del proyecto:
+Project Management
+Discord y WhatsApp (https://discord.com/) (https://www.whatsapp.com/?lang=es)
+Discord y WhatsApp han sido los medios principales de comunicación entre los miembros del grupo, donde Discord ha destacado ya que contiene funcionalidades adicionales para organizar grupos de estudio y de trabajo.
+
+Requirements Management
+Trello (https://trello.com/es)
+Trello ha permitido la organización de tareas a realizar en el proyecto, además del desarrollo del product backlog.
+
+Product UX/UI Design
+UXPressia (https://uxpressia.com/)
+Se utilizó UXPressia para el desarrollo de los diagramas user personas, user journey mapping, empathy mapping e impact map.
+Color Space (https://mycolor.space/)
+Color Space ha apoyado en la selección de la paleta de colores para el desarrollo del diseño de la web.
+Figma (https://www.figma.com/)
+Se ha utilizado Figma para el desarrollo de los wireframes y prototipos del landing page y aplicación web, tanto en dispositivos de escritorio como de móvil.
+Miro (https://miro.com/es/)
+Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+
+Software Development
+Visual Studio Code, Visual Studio Code Community, IntelliJ IDEA (https://code.visualstudio.com/) (https://visualstudio.microsoft.com/es/vs/community/) (https://www.jetbrains.com/idea/)
+Visual Studio Code, Visual Studio Code Community e IntelliJ IDEA fueron las IDEs que emplearemos para el desarrollo del código del proyecto. Hemos desarrollado el landing page con Visual Studio Code, luego Visual Studio Code Community para el diagrama C4 y emplearemos IntelliJ IDEA para la aplicación web.
+Github y Git bash (https://github.com/) (https://git-scm.com/downloads)
+Github y Git bash nos permitirán el control de versiones del código y el desarrollo colaborativo del proyecto.
+
+Software Testing
+Google Chrome Developer (https://www.google.com/intl/es-419/chrome/dev/)
+Se utilizó Google Chrome en la versión developer para visualizar la interfaz que desarrollamos del landing page.
+
+Software Deployment
+Github Pages (https://github.com/)
+Se utilizó Github Pages para el deploy del landing page.
+
+Software Documentation
+Google Drive (https://www.google.com/intl/es-419_pe/drive/)
+Se ha utilizado Google Drive para subir archivos de documentos y presentación. Además se han utilizado herramientas como Google Docs y Google Slides que permiten el desarrollo colaborativo de los informes a entregar.
+Google Meets y Zoom (https://meet.google.com/) (https://zoom.us/)
+Se ha utilizado software para videoconferencias para realizar las entrevistas de segmentos objetivos. Las plataformas tienen herramientas de grabación, por lo que simplifica el procesamiento de los videos.
+Microsoft Stream (https://www.microsoft.com/es-ww/microsoft-365/microsoft-stream) (https://zoom.us/)
+Se ha utilizado el servicio de Microsoft Stream para subir el video completo de las entrevistas. La cuenta que ha subido el video está vinculada a la organización de la universidad, por lo que se tuvo suficiente espacio de memoria para mantenerlo en la nube.
+LucidChart (https://www.lucidchart.com/pages/es)
+LucidChart ha sido empleado en el desarrollo de diagramas de flujo para asegurar los user goals y guiar en el diseño de los prototipos de la aplicación web. Además, se ha utilizado para el diagrama de clases.
+Structurizr (https://structurizr.com/)
+Para el desarrollo del diagrama C4 en los tres niveles: diagrama de contexto, contenedores y componentes se empleó Structurizr junto a Visual Studio Code Community.
+Vertabelo (https://vertabelo.com/)
+Para el desarrollo del diagrama del diseño de base de datos se ha empleado Vertabelo, software que se especializa en diagramas de base de datos.
+
+Link de repositorio de GitHub del proyecto: https://github.com/Aplicaciones-Web-WX56-Group-MealMaster/Report-Final-Project
+Link de repositorio de Github del Landing Page: https://github.com/Aplicaciones-Web-WX56-Group-MealMaster/landing-page
+Link de repositorio de GitHub del aplicativo web: https://github.com/Aplicaciones-Web-WX56-Group-MealMaster/frontend-app
+
 ### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
+Se ha creado una organización en Github con los miembros del grupo y un repositorio para el landing page.
+Organización:Aplicaciones-Web-WX56-Group-MealMaster/Report-Final-Project (github.com)
+Las ramas principales en el Gitflow serán las ramas developer y master, donde developer será la principal rama de trabajo, mientras que la rama master tendrá la versión final de la web desplegada en Github pages. Por otro lado, se utilizarán ramas secundarias con el nombre de los features que se estén trabajando (hero, navbar branches por ejemplo). Asimismo, se incluyen el branches para release (branch release) y hotfix (branch hotfix).
+
+Commit Conventions
+Para los commits en Github se han utilizado los estándares convencionales versión 1.1.0 (https://www.conventionalcommits.org/en/v1.0.0/) según la estructura:
+<type>[optional scope]: <description>
+Type: representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
+Optional scope: es opcional y representa el alcance del commit.
+Description: descripción detallada del commit y acciones realizadas.
+
+Semantic Versioning
+Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH.
+MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles.
+MINOR: versión menor cuando se añaden features y funcionalidades nuevas.
+PATCH versión de parche de bug fixes y hotfixes.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+HTML Style Guide and Coding Conventions
+Es necesario seguir convenciones estandarizadas de HTML como estructura de la web. Entre las principales de W3 Schools (https://www.w3schools.com/html/html5_syntax.asp) podemos mencionar:
+Siempre declarar el tipo de documento con <!DOCTYPE html>
+Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
+Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
+Siempre poner entre comillas los atributos dentro de un elemento html ( <p class=”name”></p>)
+Especificar alt, width, and height para imágenes.
+Espaciado y signo igual estandarizados.
+Evitar líneas de código extensas.
+No olvidar el “<title></title>” al principio.
+Es posible evitar el “<head></head>”.
+Utilizar meta tags al inicio.
+Google HTML/CSS Style Guide
+Algunas de las convenciones de Google en cuanto a HTML y CSS (https://google.github.io/styleguide/htmlcssguide.html) podemos mencionar:
+Usar la sintaxis y semántica de HTML5.
+Usar minúsculas para los nombres de elementos y atributos.
+Usar comillas dobles para los valores de atributos.
+Usar una nueva línea para cada elemento.
+Usar un espacio después de los dos puntos del nombre de cada propiedad.
+Usar códigos de color hexadecimal (#000000) en vez de nombres propios.
+Usar códigos de color hexadecimales abreviados siempre que sea posible.
+Evitar especificar unidades para valores 0. Por ejemplo, margin: 0px se incluye la unidad de pixeles.
+
+Gherkin Conventions for Readable Specifications
+Entre las convenciones para Gherkin sobre las pruebas de aceptación se deben considerar convenciones, entre algunas de Specflow (https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/) están:
+Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
+Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
+Usar verbos finitos y en tiempo presente para las acciones del escenario.
+Evitar redundancias en la descripción de los pasos en el escenario.
+Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
+
+Angular Coding Style Guide
+Algunas convenciones de código en Angular se encuentran en su guía oficial  (https://angular.io/guide/styleguide). Podemos rescatar algunas:
+Respetar el principio de single responsibility de componentes en cada componente de Angular.
+Utilizar la nomenclatura recomendada de componentes “feature.type.ts”. Por ejemplo “feature.component.ts”. Además, los nombres de archivos deben estar con minúsculas.
+Declarar variables con const o let según el valor sea mutable o inmutable.
+Utilizar los decoradoras correctamente como @Injectable()
+Nunca importar lazy load components directamente porque estaría cargando el componente que debería cargarse según necesidad.
+Toda la aplicación va en la carpeta src, donde cada feature tiene su propia carpeta denominada como dominio.
+Utilizar el módulo compartido (shared domain) entre dominios de manera correcta.
+
+Google Java Style Guide
+A continuación se presentan algunas guías de estilo de Java de la guía de Google (https://google.github.io/styleguide/javaguide.html):
+Las variables y los métodos deben tener nombres descriptivos y seguir la convención de nombres de Java. Los nombres de variables deben comenzar con minúsculas y usar camelcase (por ejemplo prepareOneOrTwo()).
+Las variables constantes deben definirse en mayúsculas y separarse con guiones bajos.
+Los corchetes deben comenzar en la misma línea que la declaración del bloque de código y terminar en una línea separada.
+Los nombres de los paquetes deben ser en minúsculas y seguir la convención de nombres de dominio invertido.
+Usar interfaces para definir tipos, en lugar de clases abstractas.
+Los métodos deben hacer una sola función y respetar el principio de single responsibility.
+
+Google TypeScript Style Guide
+Se presentarán algunas convenciones de TypScript según Google (https://google.github.io/styleguide/tsguide.html):
+Parecido a Java, las variables y los métodos deben tener nombres descriptivos y seguir la convención de nombres de TypeScript. Los nombres de variables deben comenzar con minúsculas y usar camel case.
+Los corchetes deben comenzar en la misma línea que la declaración del bloque de código y terminar en una línea separada “{ }”.
+Como recomendación, las variables deben declararse lo más cerca posible de donde se utilizan y tener el ámbito más pequeño posible.
+Las constantes deben definirse en mayúsculas y separarse con guiones bajos.
+Los nombres de las interfaces deben seguir la convención de camelcase.
+Usar el modificador readonly para indicar que una variable no va a cambiar después de ejecutarlo.
+Al igual que Java, los métodos deben hacer una sola función y respetar el principio de single responsibility.
+
+Spring Boot Features
+Se mencionarán los core features de Sprint Boot según la documentación oficial de Sprint (https://docs.spring.io/spring-boot/docs/current/reference/html/features.html):
+Clase de aplicación Sprint: empieza con el método main() y inicializa la aplicación con el método SpringApplication.run
+Configuración externalizada: permite realizar cambios en configuración para trabajar en distintos entornos de desarrollo
+Perfiles: segrega funciones según ambiente con @Profile
+Logging: tiene funciones predeterminadas de logging, pero se pueden configurar según necesidad
+Testing: Sprint ofrece varios módulos que facilitan el testing de las funcionalidades
+Soporte con Kotlin
+
 ### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
+En este caso usaremos Git y github
+Git: En el desarrollo de software, Git es un sistema de control de versiones distribuido. Fue desarrollado por Linus Torvalds en 2005 y se ha convertido en una herramienta vital para trabajar juntos y monitorear los cambios en proyectos de código abierto y privados. La capacidad de realizar un seguimiento de los cambios en los archivos de un proyecto a lo largo del tiempo es una de las principales ventajas de Git. Los desarrolladores pueden crear ramas, hacer cambios y fusionarlas con Git. Esto permite que varios desarrolladores trabajen simultáneamente en varios aspectos del proyecto sin interferir entre sí.
+
+Como Git usa un modelo de sistema distribuido, cada desarrollador tiene una copia del repositorio completa, que incluye todo el historial de cambios. Esto aumenta la flexibilidad y la seguridad porque cada desarrollador puede trabajar de manera independiente y modificar su propia copia local sin afectar el trabajo de los demás. Los repositorios remotos, como GitHub, facilitan la colaboración en equipo y permiten el intercambio y la sincronización de cambios. Además, Git proporciona una amplia gama de características y comandos que facilitan la gestión de versiones. Se pueden crear ramas para trabajar en nuevas funcionalidades o corregir errores sin afectar el proyecto principal. Las fusiones también se pueden realizar para combinar los cambios de varias ramas y mantener un flujo de trabajo coherente. La capacidad de revertir cambios y realizar seguimiento de versiones anteriores es otra característica importante de Git. Esto permite a los desarrolladores retroceder en el tiempo y recuperar versiones de código anteriores, lo que es útil en caso de errores o necesidad de cambios retrospectivos. 
+A través de su usabilidad, podremos controlar las herramientas de nuestro software y guardar varios archivos o versiones a lo largo de las diferentes etapas de un proyecto. Esto nos permite a nosotros, como desarrolladores, monitorear lo que ya hemos hecho y resolver problemas o cambios que se decidan a lo largo del proyecto.
+![Imgur](images/github.png)
+Github: Es una plataforma basada en Git que permite el alojamiento y la colaboración de código fuente. Fue lanzado en 2008 y se ha convertido en uno de los servicios más populares para desarrolladores de todo el mundo.  Los desarrolladores pueden crear repositorios en GitHub para almacenar y administrar su código fuente. Estos repositorios pueden ser públicos, lo que significa que cualquiera puede ver y contribuir al código, o privados, que son más apropiados para proyectos comerciales o privados.
+La capacidad de permitir la colaboración en equipo es uno de los aspectos más destacados de GitHub. Varios desarrolladores pueden trabajar en el mismo repositorio al mismo tiempo, realizar modificaciones en varias ramas y fusionarlos fácilmente.
+Esto facilita que los equipos trabajen juntos y gestionan las diversas contribuciones. GitHub ofrece una variedad de herramientas adicionales además de la gestión de código fuente. Los "problemas" permiten un seguimiento de las tareas, errores o mejoras del proyecto. Se pueden solicitar revisiones y fusionar los cambios realizados por colaboradores externos antes de incorporarlos al repositorio principal mediante "requerimientos de salida".
+Las "acciones" de GitHub son una característica importante que permite automatizar tareas y flujos de trabajo dentro del proyecto. La ejecución de pruebas, la creación de documentación o la implementación continua son ejemplos de esto. GitHub es conocido por su enfoque en el código abierto y su comunidad activa. GitHub aloja una gran cantidad de proyectos de código abierto, lo que facilita la colaboración y promueve la transparencia en el desarrollo de software. Esta herramienta nos ayudará a colaborar con git, es una plataforma que puede mantener un repositorio de código en la nube y permite que varios trabajadores trabajen en un solo proyecto, viendo las ediciones propias de cada integrante, mejorando el trabajo en equipo para los trabajos por hacer.
+![Imgur](images/git.png)
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint 1
 #### 5.2.X.1. Sprint Planning 1.

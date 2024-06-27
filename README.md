@@ -927,33 +927,59 @@ Las "acciones" de GitHub son una característica importante que permite automati
 ![Imgur](images/git.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint 1
-#### 5.2.X.1. Sprint Planning 1.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
 ![Imgur](images/sprint1.JPG)
 ![Imgur](images/sprint1.1.JPG)
 ![Imgur](images/sprint1.2.JPG)
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog n.
 ![Imgur](images/backlog.JPG)
 ![Imgur](images/backlog1.JPG)
 ![Imgur](images/backlog1.1.JPG)
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](images/execution.jpg)
-![Sprint review development Evidence](images/execution1.jpg)
-![Sprint review development Evidence](images/execution1.1jpg)
+#### 5.2.1.3. Development Evidence for Sprint Review.
+![Sprint review development Evidence](images/execution.png)
+![Sprint review development Evidence](images/execution1.png)
+![Sprint review development Evidence](images/execution1.png)
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+![Imgur](images/sprint2.png)
+
+#### 5.2.2.2. Sprint Backlog 2.
+![Imgur](images/backlog2.png)
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+![Sprint review development Evidence](images/evidence2.png)
+![Sprint review development Evidence](images/evidence2.2.png)
+![Sprint review development Evidence](images/evidence2.3.png)
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
 ![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 ![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+Cada integrante del grupo ha subido su commit en su respectivo brach, enfocándose en completar su funcionalidad asignada.
+![Sprint review Team Collaboration Insights](team2.png) 
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3.
+![Imgur](images/sprint3.png)
+
+#### 5.2.3.2. Sprint Backlog 3.
+![Imgur](images/backlog3.png)
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+![Sprint review development Evidence](images/evidence2.png)
+![Sprint review development Evidence](images/evidence2.2.png)
+![Sprint review development Evidence](images/evidence2.3.png)
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 **Preguntas generales:**
@@ -991,44 +1017,126 @@ Ocupación: _____
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
 | --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
+| Visibilidad del estado del sistema            |     ✅       |Funcionalidades referentes a la visibilidad del estado del sistema aún se encuentran en proceso de desarollado, por lo que no hubieron observaciones en este caso.
+  |
+| Coincidencia entre el sistema y el mundo real |    ✅        | El idioma que utiliza la aplicación se acerca al lenguaje común de los segmentos objetivos, brindando un entorno familiar y sencillo de utilizar.  |
+|Relación entre el sistema y el mundo real|
+| Libertad y control por parte del usuario:     |      ✅      | El usuario es libre de navegar por la aplicación sin problemas o restricciones, por lo que se cumple la libertad y control del usuario al utilizar la aplicación.
+   |
+| Consistencia y estándares                         |    ✅        |Los entrevistados mencionan la facilidad de utilizar la aplicación, por lo que no se presentan errores de consistencia o estándares de diseño.  |
+| Prevención de errores                    |      ✅      | Funciones relacionadas a la prevención de errores se siguen trabajando en el desarrollo de la aplicación.   |
+| Reconocimiento antes que recuerdo
+             |      ✅      | El usuario no debe recordar funciones de la aplicación para realizar funciones comunes al navegar por la aplicación.   |
+| Flexibilidad y eficiencia de uso                |    ✅        | Se cumple la flexibilidad del usuario al otorgar las funciones más relevantes al ingresar a la aplicación en el caso de las próximas citas médicas por atender y la opción de reservar citas médicas.   |
+| Estética y diseño minimalista             |      ✅      | Se prioriza el contenido relevante al mostrar información y sus características antes que los elementos adicionales. Además, se utilizan colores de fondo simples y fuentes de color  de letras más oscuras para resltar el contenido.   |
+| Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores
+                     |    ✅        | Los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación.  |
+| Ayuda y documentación|    ✅        | De igual manera, los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. Sin embargo, se proyecta tener un apartado de preguntas frecuentes y sistema de tickets para resolver consultas en un futuro.  |
+
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
 # Conclusiones
 {texto}
 # Conclusiones y recomendaciones.
-{texto}
+Conclusiones (TB1)
+
+Como principal conclusión de esta etapa del proyecto Meal Master, logramos alcanzar los siguientes hitos:
+
+Nos permitió desarrollar una solución enfocada y relevante después de realizar una investigación previa exhaustiva para comprender a fondo la problemática a abordar, identificando los segmentos objetivos involucrados y sus necesidades específicas.
+
+Al aplicar el proceso Lean UX, que incluye ciclos de construcción, medición y aprendizaje, pudimos refinar y mejorar nuestras ideas del proyecto para optimizar la experiencia del usuario y garantizar que nuestras soluciones fueran efectivas y satisfactorias.
+
+La realización de entrevistas con los segmentos objetivo nos permitió obtener una comprensión profunda y empática de sus necesidades, deseos y preferencias, algo fundamental para el desarrollo de una solución adecuada.
+
+La elección de las herramientas, lenguajes de programación, marcos y marcadores hipertextuales más apropiados para nuestro proyecto garantizó la eficiencia y efectividad de la implementación de la solución.
+
+Utilizar las herramientas Git y GitHub para organizar las bases del repositorio nos permitió tener un control preciso de las versiones del proyecto, facilitar el trabajo colaborativo y garantizar la integridad del código fuente.
+
+El uso de Git Flow como flujo de trabajo ha demostrado ser útil para la gestión del desarrollo del proyecto, ya que nos permite trabajar en equipo, integrar nuevas funciones y realizar cambios de manera segura.
+El diseño del ciclo de vida del producto basado en el marco de trabajo SCRUM nos dio una estructura clara para la planificación, el desarrollo, la revisión y la entrega del producto, lo que permitió una gestión ágil y eficiente del proyecto.
+
+La realización de entrevistas con ambos grupos objetivo nos permitió obtener una visión más amplia y sólida de los usuarios interesados en dietas nutritivas, especialmente en lo que respecta al consumo de calorías, así como a la compra de productos relacionados. 
+
+El servicio enfrenta desafíos significativos en el término de la eficiencia del filtrado de recetas y precisión acerca de la información nutricional. La atención personalizada a través de suscripciones premium y la consulta con profesionales en nutrición logran mostrar un enfoque alto a la plataforma, ofreciendo un valor agregado a los usuarios que buscan una ayuda personalizada para sus necesidades dietéticas.
+
+La segmentación de usuarios en cocineros inexpertos y entusiastas de la nutrición proporciona una buena base para la estrategia de marketing y desarrollo de los productos. Meal Master se enfoca en proporcionar una experiencia al usuario adaptada a las necesidades y habilidades específicas en cada segmento, ofreciendo tutoriales con sus respectivos pasos para usuarios sin experiencia y herramienta de planificación de dietas para los que prefieren la nutrición.
+
+
+
+Conclusiones (TP1)
+Se desarrollaron las siguientes conclusiones relacionadas a esta segunda entrega: 
+
+La adopción de Pivotal Tracker como herramienta de gestión de sprints demuestra una buena práctica en la metodología ágil, ya que el uso de esta herramienta ayudó mucho a organizar y priorizar las User Stories, facilitando la planificación y seguimiento del progreso del proyecto.
+
+La asignación de puntos de historia y la correcta estructuración de las historias de los usuarios demuestran un enfoque sólido hacia la estimación del esfuerzo requerido para completar cada tarea, lo que permite una mejor planificación y asignación de recursos en sprints posteriores. 
+
+El desarrollo y despliegue exitoso de una aplicación web frontend con vueJS es un logro significativo porque demuestra las habilidades técnicas del equipo de desarrollo y su capacidad para implementar soluciones funcionales utilizando tecnologías modernas. 
+
+La evidencia de la implementación de todas las historias de los usuarios indica un cumplimiento exitoso de los requisitos planteados en el inventario de productos, ya que el equipo ha logrado abordar y completar todas las tareas planificadas para la ronda. 
+
+La utilización de una nomenclatura clara y consistente para los commits en el repositorio de GitHub es una buena práctica de desarrollo colaborativo que facilita bastante la comprensión y el seguimiento de los cambios realizados en el código fuente y mejora la colaboración entre los miembros del equipo. 
+
+El uso de vueJS como tecnología principal en la aplicación web frontend muestra la capacidad del equipo para utilizar tecnologías modernas, lo que puede mejorar la experiencia del usuario final.
+
+
+En comparación con entregas anteriores, el cumplimiento exitoso de las tareas planificadas y la implementación de todas las historias de usuario muestran un aumento en la productividad del equipo.
+
+La competencia en el mercado de aplicaciones de recetas y planificación de comidas es de un nivel elevado, por eso es importante las estrategias de diferenciación claras y tácticas de expansión efectivas. Meal Master logra realizarlo enfocándose en la calidad y la precisión de sus servicios, manteniendo una interfaz de usuario atractiva y fácil de usar, y evitando la cantidad masiva de anuncios que podría afectar de una manera negativa la experiencia del usuario. Finalmente, Meal Master tendrá que innovar continuamente y adaptarse a las necesidades cambiantes de los usuarios para que logre el éxito a largo plazo en un mercado competitivo y en evolución.
+
+Conclusiones (TB2)
+
+Validación de Prototipos: Realizamos pruebas de usuario con prototipos de alta fidelidad, lo que nos permitió identificar áreas de mejora y validar nuestras suposiciones iniciales.
+
+Integración de comentarios de los usuarios: recopilamos y analizamos los comentarios de los usuarios para realizar las modificaciones necesarias y mejorar la usabilidad y funcionalidad de nuestra solución.
+
+Optimización del Sistema de Recomendación: Adaptamos el algoritmo de recomendación de recetas a las preferencias y necesidades dietéticas de los usuarios para ofrecer opciones más precisas y personalizadas.
+
+Construir funcionalidades Clave: aumentamos el valor para los usuarios agregando funcionalidades importantes como el seguimiento de la ingesta calórica, planes de comidas personalizados y listas de compras automáticas.
+
+Mejoras en la interfaz de usuario: Basándonos en las mejores prácticas de diseño UX/UI, actualizamos y optimizamos la interfaz de usuario para garantizar una experiencia más intuitiva y agradable.
+
+Gestión Eficiente del Proyecto: Organizamos y priorizamos tareas utilizando herramientas ágiles de gestión de proyectos, lo que resultó en una ejecución eficiente y resultados de alta calidad.
+
+
+Conclusiones (TF)
+Producto Finalizado y Funcional: Terminamos el desarrollo del producto, creando una aplicación que cumple con los objetivos iniciales. La plataforma ofrece una amplia gama de servicios para el seguimiento nutricional y la planificación de comidas.
+
+Antes del lanzamiento oficial, realizamos pruebas exhaustivas con usuarios reales, lo que nos permitió identificar y corregir problemas y mejorar funcionalidades importantes.
+
+Optimización del algoritmo de recomendación de recetas: refinamos y mejoramos el algoritmo para garantizar que las recomendaciones sean precisas y personalizadas, mejorando significativamente la experiencia del usuario.
+
+Interfaz de usuario mejorada: Basándonos en los comentarios y las pruebas de usuarios, implementamos mejoras significativas en la interfaz de usuario para garantizar que sea fácil de entender, atractiva y fácil de usar.
+
+Implementación de Características Avanzadas: Añadimos características avanzadas como la integración con dispositivos de seguimiento de actividad física, opciones de dieta específicas y sugerencias de compra basadas en recetas seleccionadas.
+
+Estrategia de Mercado y Lanzamiento: Creamos una estrategia de marketing sólida y un plan de lanzamiento. Esto incluye colaboraciones con influencers en nutrición y salud, campañas en redes sociales y ofertas promocionales para los primeros usuarios.
+
 # Video About-the-Team.
 [URL del video about the team](https://www.example.com)
 
 # Bibliografía
-qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+Vue.js. (s.f.). Recuperado de 
+https://vuejs.org/
 
-LeaseIN. (2018). Importancia de contar con un equipo de soporte
-técnico. [Entrada en blog]. Recuperado de:
-[LINK](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
-``` 
-formato
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
-
-```
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
+|Sección|Descripción del video|URL del video en Steam|
+|-|-|-|
+|Needfinding Interviews|Video de Entrevistas a segmentos objetivos (Sprint 1)|https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing |
+|Needfinding Interviews|Video de Entrevistas a segmentos objetivos (Sprint 3)|https://drive.google.com/drive/folders/146cf9m54FSZ_IvdMyef8TgF4WLe-uAjj?usp=sharing |
+|About the Product|Promoción del Meal Master (Sprint 4) |https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/ESh7geU66DZInkBY_Ry5dp4B2wtxCDu1eJW8dgBy4cDEUA?e=0lulFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+|About the Team|Video del equipo y trabajo realizado (Sprint 3) |https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EVqG6kPDjURKhwIRSbYjDuMBvwZlgWxIOyZ34_O9rjPl8A?e=882AG3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+|Exposición|Video Exposición TB2 (Sprint 3)|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EaDbIHfP62hHv28spthCJK8B8_KdpiD8_kgVFjpmblPH1A?e=D9VJg7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
 
-![Imagen de algo no nuestro lol](image.jpg)
+
+
+
+
+
+
+
+
 
 
 

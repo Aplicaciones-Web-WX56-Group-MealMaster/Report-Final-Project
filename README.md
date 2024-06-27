@@ -550,8 +550,488 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion"  |
-|-|-|-|
+# User Stories
+
+## 01 Implementación de landing page responsive
+
+**Título:** Implementación de landing page responsive  
+**Descripción:** Como visitante, quiero interactuar con un landing page responsive, que se adapte a mi pantalla.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso exitoso a la landing page responsive**  
+Dado que un visitante accede a la landing page desde cualquier dispositivo con conexión a internet  
+Cuando carga la landing page en su dispositivo  
+Entonces la landing page se adapta de manera fluida y eficiente a la pantalla del dispositivo del visitante, garantizando una experiencia de usuario óptima y fácil navegación.  
+
+**Scenario 02: Problemas de adaptación en la landing page responsive**  
+Dado que un visitante accede a la landing page desde cualquier dispositivo con conexión a internet  
+Cuando carga la landing page en su dispositivo  
+Entonces la landing page presenta problemas de visualización o funcionalidad en ciertos dispositivos, lo que dificulta la experiencia del visitante y puede llevar a una percepción negativa de la marca.  
+
+## 02 Visualizar redes sociales de MealMaster
+
+**Título:** Visualizar redes sociales de MealMaster  
+**Descripción:** Como visitante, quiero visualizar las redes sociales de MealMaster.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a las redes sociales de MealMaster**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca las redes sociales de la marca  
+Entonces encuentra fácilmente enlaces visibles y accesibles a las redes sociales de MealMaster, como Facebook, Twitter, Instagram, etc., lo que le permite seguir la marca y estar al tanto de sus novedades y actividades.  
+
+**Scenario 02: Dificultad para encontrar las redes sociales de MealMaster**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca las redes sociales de la marca  
+Entonces tiene problemas para encontrar enlaces a las redes sociales de MealMaster, lo que le dificulta seguir la marca en sus plataformas sociales y puede afectar su percepción de la presencia en línea de la empresa.  
+
+## 03 Ver ejemplos de planes de alimentación en la página de inicio
+
+**Título:** Ver ejemplos de planes de alimentación en la página de inicio  
+**Descripción:** Como visitante, quiero ver ejemplos de planes de alimentación en la página de inicio para tener una idea de lo que puedo lograr con la aplicación.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a ejemplos de planes de alimentación en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca ejemplos de planes de alimentación  
+Entonces encuentra fácilmente una sección dedicada que presenta ejemplos de planes de alimentación elaborados con la aplicación, mostrando variedad de opciones y ejemplos de comidas para inspirar y ayudar al visitante a comprender el potencial de la aplicación.  
+
+**Scenario 02: Dificultad para encontrar ejemplos de planes de alimentación en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca ejemplos de planes de alimentación  
+Entonces tiene problemas para encontrar ejemplos de planes de alimentación, lo que dificulta su comprensión del potencial de la aplicación y puede afectar su interés en explorar más a fondo.  
+
+## 04 Ver una página de inicio atractiva con beneficios clave de MealMaster
+
+**Título:** Ver una página de inicio atractiva con beneficios clave de MealMaster  
+**Descripción:** Como visitante, quiero ver una página de inicio atractiva que me muestre rápidamente los beneficios clave de MealMaster para que pueda decidir si quiero registrarme.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso a una página de inicio atractiva con beneficios clave de MealMaster**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca información sobre los beneficios de la aplicación  
+Entonces encuentra una página de inicio atractiva y bien diseñada que destaca rápidamente los beneficios clave de MealMaster, como planificación de comidas personalizadas, seguimiento de nutrientes, recetas saludables, etc., lo que le permite tomar una decisión informada sobre si quiere registrarse o no.  
+
+**Scenario 02: Dificultad para encontrar beneficios clave en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca información sobre los beneficios de la aplicación  
+Entonces tiene problemas para identificar rápidamente los beneficios clave de MealMaster, lo que dificulta su toma de decisiones sobre si quiere registrarse o no.  
+
+## 05 Ver testimonios y reseñas de otros usuarios satisfechos en la página de inicio
+
+**Título:** Ver testimonios y reseñas de otros usuarios satisfechos en la página de inicio  
+**Descripción:** Como visitante, quiero ver testimonios y reseñas de otros usuarios satisfechos en la página de inicio para ganar confianza en la aplicación.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a testimonios y reseñas en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca testimonios y reseñas de otros usuarios  
+Entonces encuentra fácilmente una sección dedicada que muestra testimonios y reseñas auténticas de otros usuarios satisfechos con la aplicación, lo que le proporciona confianza en la calidad y efectividad de MealMaster.  
+
+**Scenario 02: Dificultad para encontrar testimonios y reseñas en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca testimonios y reseñas de otros usuarios  
+Entonces tiene problemas para encontrar una sección que muestre testimonios y reseñas, lo que afecta su confianza en la aplicación y puede disminuir su interés en registrarse.  
+
+## 06 Navegar fácilmente por las características clave de MealMaster
+
+**Título:** Navegar fácilmente por las características clave de MealMaster  
+**Descripción:** Como visitante, quiero poder navegar fácilmente por las características clave de MealMaster, como la creación de platillos y planes alimenticios, para comprender rápidamente cómo la aplicación puede ayudarme.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a características clave de MealMaster**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca información sobre las características clave de la aplicación  
+Entonces encuentra fácilmente una navegación clara y organizada que le permite explorar las características clave de MealMaster, como la creación de platillos, la planificación de planes alimenticios, el seguimiento de nutrientes, entre otros, lo que le ayuda a comprender rápidamente cómo la aplicación puede beneficiarlo.  
+
+**Scenario 02: Dificultad para navegar por las características clave de MealMaster**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca información sobre las características clave de la aplicación  
+Entonces tiene problemas para encontrar una navegación clara y organizada que le permita explorar las características clave de MealMaster, lo que dificulta su comprensión sobre cómo la aplicación puede beneficiarlo y puede disminuir su interés en registrarse.  
+
+## 07 Encontrar fácilmente información sobre precios y planes en la página de inicio
+
+**Título:** Encontrar fácilmente información sobre precios y planes en la página de inicio  
+**Descripción:** Como visitante, quiero encontrar fácilmente información sobre precios y planes disponibles en la página de inicio, para evaluar si el producto se ajusta a mis necesidades y presupuesto.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a información sobre precios y planes en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca información sobre precios y planes disponibles  
+Entonces encuentra fácilmente una sección dedicada que presenta de manera clara y detallada los precios y planes disponibles de MealMaster, lo que le permite evaluar si el producto se ajusta a sus necesidades y presupuesto.  
+
+**Scenario 02: Dificultad para encontrar información sobre precios y planes en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca información sobre precios y planes disponibles  
+Entonces tiene problemas para encontrar una sección que presente claramente los precios y planes disponibles, lo que dificulta su evaluación del producto y puede disminuir su interés en registrarse.  
+
+## 08 Ver información sobre el servicio premium y beneficios extras en la landing page
+
+**Título:** Ver información sobre el servicio premium y beneficios extras en la landing page  
+**Descripción:** Como visitante, quiero ver información sobre el servicio premium de MealMaster y sus beneficios extras en la landing page, para decidir si quiero suscribirme.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a información sobre el servicio premium y beneficios extras en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca información sobre el servicio premium y beneficios extras  
+Entonces encuentra fácilmente una sección dedicada que presenta de manera clara y detallada los beneficios del servicio premium de MealMaster, así como los extras que ofrece en comparación con la versión gratuita, lo que le permite tomar una decisión informada sobre si suscribirse o no.  
+
+**Scenario 02: Dificultad para encontrar información sobre el servicio premium y beneficios extras en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca información sobre el servicio premium y beneficios extras  
+Entonces tiene problemas para encontrar una sección que presente claramente los beneficios del servicio premium y los extras, lo que dificulta su toma de decisiones sobre si suscribirse o no.  
+
+## 09 Encontrar información sobre los colaboradores del proyecto en la landing page
+
+**Título:** Encontrar información sobre los colaboradores del proyecto en la landing page  
+**Descripción:** Como visitante, quiero encontrar información sobre los colaboradores del proyecto en la landing page, para saber quiénes están detrás de la aplicación y qué experiencia tienen.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a información sobre los colaboradores del proyecto en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca información sobre los colaboradores del proyecto  
+Entonces encuentra fácilmente una sección dedicada que presenta información sobre los colaboradores del proyecto, incluyendo sus nombres, roles, experiencia relevante y contribuciones al desarrollo de la aplicación, lo que le brinda confianza y transparencia sobre quiénes están detrás de la aplicación.  
+
+**Scenario 02: Dificultad para encontrar información sobre los colaboradores del proyecto en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca información sobre los colaboradores del proyecto  
+Entonces tiene problemas para encontrar una sección que presente claramente información sobre los colaboradores del proyecto, lo que puede generar dudas sobre la transparencia y credibilidad de la aplicación.  
+
+## 10 Encontrar fácilmente la información de contacto de la empresa en la página de inicio
+
+**Título:** Encontrar fácilmente la información de contacto de la empresa en la página de inicio  
+**Descripción:** Como visitante, quiero encontrar fácilmente la información de contacto de la empresa en la página de inicio, para saber quiénes están detrás.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a la información de contacto de la empresa en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca la información de contacto de la empresa  
+Entonces encuentra fácilmente una sección dedicada que presenta información de contacto clara y visible, como dirección de correo electrónico, número de teléfono y dirección física de la empresa, lo que le permite saber quiénes están detrás de la aplicación y cómo pueden ser contactados.  
+
+**Scenario 02: Dificultad para encontrar la información de contacto de la empresa en la página de inicio**  
+Dado que un visitante carga la página de inicio de MealMaster  
+Cuando busca la información de contacto de la empresa  
+Entonces tiene problemas para encontrar una sección que presente claramente la información de contacto de la empresa, lo que dificulta su comprensión sobre quiénes están detrás de la aplicación y cómo pueden ser contactados.  
+
+## 11 Ver ejemplos visuales de platillos variados y atractivos en la landing page
+
+**Título:** Ver ejemplos visuales de platillos variados y atractivos en la landing page  
+**Descripción:** Como visitante, deseo ver ejemplos visuales de platillos variados y atractivos en la landing page, para sentirme motivado en probar la aplicación web.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a ejemplos visuales de platillos en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca ejemplos visuales de platillos  
+Entonces encuentra fácilmente una sección que presenta imágenes atractivas y variadas de platillos elaborados con la aplicación, mostrando su aspecto visualmente atractivo y apetitoso, lo que le motiva a probar la aplicación web.  
+
+**Scenario 02: Dificultad para encontrar ejemplos visuales de platillos en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca ejemplos visuales de platillos  
+Entonces tiene problemas para encontrar una sección que presente claramente ejemplos visuales de platillos, lo que disminuye su motivación para probar la aplicación web.  
+
+## 12 Ver ejemplos de planes semanales adaptados a diferentes objetivos en la landing page
+
+**Título:** Ver ejemplos de planes semanales adaptados a diferentes objetivos en la landing page  
+**Descripción:** Como visitante, deseo ver en la landing page ejemplos de planes semanales adaptados a diferentes objetivos (perder grasa, ganar masa muscular, etc.), para comprender cómo MealMaster puede ayudarme a alcanzar mis metas.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a ejemplos de planes semanales adaptados a diferentes objetivos en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca ejemplos de planes semanales  
+Entonces encuentra fácilmente una sección que presenta ejemplos de planes semanales adaptados a diferentes objetivos, como perder grasa, ganar masa muscular, mantener el peso, etc., lo que le ayuda a comprender cómo MealMaster puede ayudarlo a alcanzar sus metas de forma personalizada.  
+
+**Scenario 02: Dificultad para encontrar ejemplos de planes semanales en la landing page**  
+Dado que un visitante carga la landing page de MealMaster  
+Cuando busca ejemplos de planes semanales  
+Entonces tiene problemas para encontrar una sección que presente claramente ejemplos de planes semanales adaptados a diferentes objetivos, lo que dificulta su comprensión sobre cómo MealMaster puede ayudarlo a alcanzar sus metas de forma personalizada.  
+
+## 13 Cambio de contraseña en MealMaster
+
+**Título:** Cambio de contraseña en MealMaster  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Cambio exitoso de contraseña**  
+Dado que un usuario interesado en alimentación saludable desea cambiar su contraseña en MealMaster  
+Cuando accede a la configuración de su cuenta y selecciona la opción de cambiar contraseña  
+Entonces se le solicita ingresar su contraseña actual y luego ingresar y confirmar la nueva contraseña, y una vez completado el proceso, la contraseña se actualiza satisfactoriamente.  
+
+**Scenario 02: Error al cambiar la contraseña**  
+Dado que un usuario interesado en alimentación saludable desea cambiar su contraseña en MealMaster  
+Cuando intenta cambiar la contraseña, pero ingresa incorrectamente su contraseña actual o no cumple con los criterios de seguridad  
+Entonces se le muestra un mensaje de error indicando la razón por la cual no se pudo completar el cambio de contraseña, y se le brinda la oportunidad de intentarlo nuevamente.  
+
+## 14 Filtrado de preferencias alimenticias
+
+**Título:** Filtrado de preferencias alimenticias  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero poder filtrar mis preferencias para poder evitar que dentro de mi dieta haya algún alimento al que soy alérgico o no me gusta.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Filtrado exitoso de preferencias alimenticias**  
+Dado que un usuario interesado en alimentación saludable desea filtrar sus preferencias alimenticias en MealMaster  
+Cuando accede a la configuración de su cuenta y selecciona la opción de preferencias alimenticias  
+Entonces puede especificar sus alergias alimenticias y alimentos que desea evitar, y una vez guardados los cambios, la aplicación filtra automáticamente los alimentos que no cumplen con estas preferencias en las recomendaciones y planes alimenticios.  
+
+**Scenario 02: Dificultad para filtrar preferencias alimenticias**  
+Dado que un usuario interesado en alimentación saludable desea filtrar sus preferencias alimenticias en MealMaster  
+Cuando intenta acceder a la opción de preferencias alimenticias pero no encuentra la funcionalidad o el proceso es confuso  
+Entonces se siente frustrado y puede abandonar el proceso de configuración, lo que limita su capacidad de personalizar su experiencia en la aplicación.  
+
+## 15 Visualización de planes de alimentación personalizados
+
+**Título:** Visualización de planes de alimentación personalizados  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero poder visualizar planes de alimentación personalizados en MealMaster, para tener una guía clara de mis comidas diarias.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Visualización exitosa de planes de alimentación personalizados**  
+Dado que un usuario interesado en alimentación saludable desea visualizar planes de alimentación personalizados en MealMaster  
+Cuando accede a la sección de planes alimenticios y selecciona su plan personalizado  
+Entonces puede ver claramente las comidas recomendadas para cada día, incluyendo desayuno, almuerzo, cena y refrigerios, así como las recetas y cantidades de ingredientes necesarios, lo que le proporciona una guía clara para sus comidas diarias.  
+
+**Scenario 02: Problemas al visualizar planes de alimentación personalizados**  
+Dado que un usuario interesado en alimentación saludable desea visualizar planes de alimentación personalizados en MealMaster  
+Cuando intenta acceder a su plan personalizado pero la información no se muestra correctamente o hay errores en las recetas o cantidades de ingredientes  
+Entonces se siente frustrado y confundido, lo que puede afectar su experiencia y confianza en la aplicación.  
+
+## 16 Modificar el método de pago en la aplicación
+
+**Título:** Modificar el método de pago en la aplicación  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero tener la opción de modificar mi método de pago, por si deseo realizar compras con otra tarjeta.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Modificación exitosa del método de pago**  
+Dado que un usuario interesado en alimentación saludable desea modificar su método de pago en MealMaster  
+Cuando accede a la configuración de su cuenta y selecciona la opción de métodos de pago  
+Entonces puede agregar una nueva tarjeta de crédito o débito, eliminar o editar las tarjetas existentes, y una vez guardados los cambios, el nuevo método de pago queda registrado para futuras transacciones.  
+
+**Scenario 02: Dificultad para modificar el método de pago**  
+Dado que un usuario interesado en alimentación saludable desea modificar su método de pago en MealMaster  
+Cuando intenta acceder a la opción de métodos de pago pero encuentra dificultades técnicas o no encuentra la funcionalidad  
+Entonces se siente frustrado y puede abandonar el proceso de modificación del método de pago, lo que limita su capacidad de gestionar sus opciones de pago en la aplicación.  
+
+## 17 Eliminar permanentemente la cuenta de MealMaster
+
+**Título:** Eliminar permanentemente la cuenta de MealMaster  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero tener la opción de eliminar permanentemente mi cuenta de MealMaster.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Eliminación exitosa de la cuenta de MealMaster**  
+Dado que un usuario interesado en alimentación saludable desea eliminar permanentemente su cuenta de MealMaster  
+Cuando accede a la configuración de su cuenta y selecciona la opción de eliminar cuenta  
+Entonces se le solicita confirmar la eliminación de su cuenta y después de confirmar, su cuenta y todos los datos asociados se eliminan permanentemente del sistema.  
+
+**Scenario 02: Dificultad para eliminar la cuenta de MealMaster**  
+Dado que un usuario interesado en alimentación saludable desea eliminar permanentemente su cuenta de MealMaster  
+Cuando intenta acceder a la opción de eliminar cuenta pero no encuentra la funcionalidad o encuentra dificultades técnicas  
+Entonces se siente frustrado y puede abandonar el proceso de eliminación de cuenta, lo que limita su capacidad de gestionar su presencia en la aplicación.  
+
+## 18 Observar en la plataforma las reseñas de recetas
+
+**Título:** Observar en la plataforma las reseñas de recetas  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero poder observar las reseñas de los platos para tener mayor confianza en lo que prepararé.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a las reseñas de recetas**  
+Dado que un usuario interesado en alimentación saludable desea ver las reseñas de recetas en MealMaster  
+Cuando busca una receta específica o navega por las opciones de recetas  
+Entonces encuentra fácilmente las reseñas de otros usuarios debajo de cada receta, mostrando sus comentarios y valoraciones, lo que le proporciona una mayor confianza en la calidad y gusto de los platos.  
+
+**Scenario 02: Dificultad para encontrar las reseñas de recetas**  
+Dado que un usuario interesado en alimentación saludable desea ver las reseñas de recetas en MealMaster  
+Cuando busca las reseñas pero no encuentra la funcionalidad o no están disponibles para algunas recetas  
+Entonces se siente frustrado y puede dudar sobre la calidad de los platos, lo que puede afectar su experiencia en la aplicación.  
+
+## 19 Visualización de platos más destacados
+
+**Título:** Visualización de platos más destacados  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero ver ejemplos de platos más destacados en la página de inicio para tener una idea de lo que puedo cocinar con la aplicación.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a platos más destacados en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca ejemplos de platos más destacados  
+Entonces encuentra fácilmente una sección dedicada que presenta imágenes y descripciones de platos populares y bien valorados, lo que le proporciona inspiración y le ayuda a decidir qué cocinar con la aplicación.  
+
+**Scenario 02: Dificultad para encontrar platos más destacados en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca ejemplos de platos más destacados pero la sección no está claramente visible o no está presente  
+Entonces se siente frustrado y puede perderse de descubrir nuevas recetas y funcionalidades de la aplicación.  
+
+## 20 Acceso a la calculadora de calorías
+
+**Título:** Acceso a la calculadora de calorías  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero tener acceso a una calculadora de calorías en la página de inicio para poder estimar rápidamente mis necesidades calóricas diarias.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a la calculadora de calorías en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca acceso a una calculadora de calorías  
+Entonces encuentra una sección claramente visible que ofrece una calculadora de calorías, donde puede ingresar información personalizada y obtener rápidamente estimaciones de sus necesidades calóricas diarias.  
+
+**Scenario 02: Dificultad para encontrar la calculadora de calorías en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca acceso a una calculadora de calorías pero la funcionalidad no está visible o no está presente  
+Entonces se siente frustrado y puede perderse de utilizar esta herramienta útil para su planificación dietética.  
+
+## 21 Acceso a la sección de soporte al cliente
+
+**Título:** Acceso a la sección de soporte al cliente  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero encontrar fácilmente la sección de soporte al cliente en la página de inicio para poder hacer preguntas o reportar problemas.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a la sección de soporte al cliente en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca la sección de soporte al cliente  
+Entonces encuentra un enlace visible o un botón dedicado que lo dirige rápidamente a la sección de soporte al cliente, donde puede hacer preguntas, encontrar respuestas a problemas comunes y reportar cualquier problema que encuentre.  
+
+**Scenario 02: Dificultad para encontrar la sección de soporte al cliente en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca la sección de soporte al cliente pero no la encuentra o está oculta  
+Entonces se siente frustrado y puede tener dificultades para obtener ayuda o resolver problemas con la aplicación.  
+
+## 22 Acceso a la sección de precios y planes
+
+**Título:** Acceso a la sección de precios y planes  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero encontrar fácilmente la sección de precios y planes en la página de inicio para entender los costos asociados con el uso de la aplicación.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a la sección de precios y planes en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca la sección de precios y planes  
+Entonces encuentra un enlace visible o un botón dedicado que lo lleva directamente a la sección de precios y planes, donde puede ver claramente las opciones disponibles, los costos asociados y los beneficios de cada plan de suscripción.  
+
+**Scenario 02: Dificultad para encontrar la sección de precios y planes en la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster  
+Cuando busca la sección de precios y planes pero no la encuentra o está oculta  
+Entonces se siente frustrado y puede tener dificultades para entender los costos asociados con el uso de la aplicación, lo que puede afectar su decisión de suscribirse.  
+
+## 23 Acceso a un tour guiado
+
+**Título:** Acceso a un tour guiado  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero tener la opción de realizar un tour guiado por la aplicación desde la página de inicio para familiarizarme rápidamente con sus características.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil al tour guiado desde la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster por primera vez  
+Cuando busca una manera de familiarizarse con las características de la aplicación  
+Entonces encuentra un enlace o botón claramente visible que le permite acceder a un tour guiado, donde puede aprender rápidamente sobre las funcionalidades y cómo utilizar la aplicación de manera efectiva.  
+
+**Scenario 02: Dificultad para acceder al tour guiado desde la página de inicio**  
+Dado que un usuario interesado en alimentación saludable carga la página de inicio de MealMaster por primera vez  
+Cuando busca una manera de familiarizarse con las características de la aplicación pero no encuentra el tour guiado o está oculto  
+Entonces se siente frustrado y puede tener dificultades para comprender cómo utilizar la aplicación de manera efectiva.  
+
+## 24 Registro de Ingredientes
+
+**Título:** Registro de Ingredientes  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero poder registrar los ingredientes que tengo a la mano, para que la aplicación pueda sugerirme platillos que pueda preparar con ellos.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Registro exitoso de ingredientes**  
+Dado que un usuario interesado en alimentación saludable desea registrar ingredientes en MealMaster  
+Cuando accede a la sección de registro de ingredientes y agrega los ingredientes disponibles en su despensa  
+Entonces la aplicación guarda los ingredientes registrados y utiliza esta información para sugerirle recetas que pueda preparar con los ingredientes disponibles.  
+
+**Scenario 02: Dificultad para registrar ingredientes**  
+Dado que un usuario interesado en alimentación saludable desea registrar ingredientes en MealMaster  
+Cuando intenta registrar ingredientes pero encuentra dificultades técnicas o la funcionalidad no está clara  
+Entonces se siente frustrado y puede abandonar el proceso, limitando su capacidad de recibir recomendaciones personalizadas de recetas.  
+
+## 25 Filtros de Platillos
+
+**Título:** Filtros de Platillos  
+**Descripción:** Como usuario interesado en alimentación saludable, quiero poder aplicar filtros a las sugerencias de platillos, para que pueda elegir si quiero que sean saludables o no.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Aplicación exitosa de filtros a las sugerencias de platillos**  
+Dado que un usuario interesado en alimentación saludable desea aplicar filtros en MealMaster  
+Cuando busca la opción de aplicar filtros y selecciona criterios como saludable, vegetariano, bajo en carbohidratos, etc.  
+Entonces la aplicación filtra las sugerencias de platillos según los criterios seleccionados, permitiéndole encontrar opciones que se ajusten a sus preferencias y necesidades dietéticas.  
+
+**Scenario 02: Dificultad para aplicar filtros a las sugerencias de platillos**  
+Dado que un usuario interesado en alimentación saludable desea aplicar filtros en MealMaster  
+Cuando intenta aplicar filtros pero no encuentra la opción o la funcionalidad no está clara  
+Entonces se siente frustrado y puede abandonar el proceso, limitando su capacidad de recibir recomendaciones personalizadas de recetas.  
+
+## 26 Instrucciones de Cocina
+
+**Título:** Instrucciones de Cocina  
+**Descripción:** Como usuario interesado en alimentación saludable con habilidades de cocina baja, quiero que la aplicación me proporcione instrucciones paso a paso para preparar los platillos sugeridos, para que pueda aprender y mejorar mis habilidades de cocina.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Instrucciones claras y detalladas para preparar platillos**  
+Dado que un usuario interesado en alimentación saludable con habilidades de cocina baja accede a la receta de un platillo sugerido  
+Cuando busca las instrucciones de preparación  
+Entonces encuentra instrucciones paso a paso que son claras, concisas y fáciles de seguir, lo que le permite preparar el platillo con confianza y mejorar sus habilidades culinarias.  
+
+**Scenario 02: Dificultad para comprender las instrucciones de cocina**  
+Dado que un usuario interesado en alimentación saludable con habilidades de cocina baja accede a la receta de un platillo sugerido  
+Cuando las instrucciones de preparación son confusas o incompletas  
+Entonces se siente frustrado y puede tener dificultades para preparar el platillo correctamente, lo que afecta su experiencia con la aplicación.  
+
+## 27 Creación de Planes Alimenticios (Premium)
+
+**Título:** Creación de Planes Alimenticios (Premium)  
+**Descripción:** Como usuario premium, quiero poder crear planes alimenticios semanales basados en mis objetivos (perder grasa, ganar masa muscular, mantener un peso saludable), para que pueda seguir una dieta personalizada y alcanzar mis metas de salud.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Creación exitosa de planes alimenticios personalizados**  
+Dado que un usuario premium accede a la funcionalidad de creación de planes alimenticios  
+Cuando selecciona sus objetivos de salud y preferencias dietéticas  
+Entonces puede crear fácilmente un plan alimenticio semanal personalizado que se ajuste a sus necesidades y metas, lo que le permite seguir una dieta estructurada y alcanzar sus objetivos de salud.  
+
+**Scenario 02: Dificultades técnicas al crear planes alimenticios**  
+Dado que un usuario premium accede a la funcionalidad de creación de planes alimenticios  
+Cuando encuentra errores técnicos o la funcionalidad no está disponible  
+Entonces se siente frustrado y no puede crear el plan alimenticio deseado, lo que limita su capacidad de seguir una dieta personalizada.  
+
+## 28 Detalles de la Dieta (Premium)
+
+**Título:** Detalles de la Dieta (Premium)  
+**Descripción:** Como usuario premium, quiero que la aplicación me proporcione todos los detalles específicos (calorías, grasas, etc.) de la dieta que voy a consumir en mi día a día, para que pueda monitorear mi ingesta nutricional.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Acceso fácil a los detalles de la dieta diaria**  
+Dado que un usuario premium accede a su plan alimenticio diario  
+Cuando busca información detallada sobre calorías, grasas, proteínas, etc.  
+Entonces encuentra fácilmente todos los detalles específicos de la dieta diaria, lo que le permite monitorear su ingesta nutricional y realizar ajustes según sea necesario.  
+
+**Scenario 02: Información incompleta o difícil de encontrar sobre la dieta diaria**  
+Dado que un usuario premium accede a su plan alimenticio diario  
+Cuando la información detallada no está disponible o es difícil de encontrar  
+Entonces se siente frustrado y no puede monitorear adecuadamente su ingesta nutricional, lo que afecta su experiencia con la aplicación.  
+
+## 29 Personalización de Planes Alimenticios (Premium)
+
+**Título:** Personalización de Planes Alimenticios (Premium)  
+**Descripción:** Como usuario premium, quiero poder personalizar mi plan alimentario semanal con diferentes filtros (dinero, preferencia de alimentos), para que se ajuste a mis necesidades y preferencias.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Personalización exitosa de planes alimenticios con diferentes filtros**  
+Dado que un usuario premium accede a la funcionalidad de personalización de planes alimenticios  
+Cuando selecciona diferentes filtros como presupuesto, preferencia de alimentos, etc.  
+Entonces puede personalizar fácilmente su plan alimentario semanal para que se ajuste a sus necesidades y preferencias específicas, lo que mejora su experiencia con la aplicación y su capacidad para seguir una dieta personalizada.  
+
+**Scenario 02: Dificultades técnicas al personalizar planes alimenticios**  
+Dado que un usuario premium accede a la funcionalidad de personalización de planes alimenticios  
+Cuando encuentra errores técnicos o la funcionalidad no está disponible  
+Entonces se siente frustrado y no puede personalizar su plan alimenticio según sus necesidades, lo que limita su capacidad de seguir una dieta personalizada.  
+
+## 30 Sugerencias de Reemplazo (Premium)
+
+**Título:** Sugerencias de Reemplazo (Premium)  
+**Descripción:** Como usuario premium, quiero que la aplicación me sugiera platos o comidas equivalentes para reemplazar en mi plan alimentario semanal, para que pueda mantener la variedad en mi dieta.  
+**Criterios de Aceptación:**  
+
+**Scenario 01: Sugerencias de reemplazo útiles y variadas**  
+Dado que un usuario premium accede a su plan alimentario semanal  
+Cuando busca sugerencias de reemplazo para ciertos platos o ingredientes  
+Entonces la aplicación le proporciona sugerencias útiles y variadas de platos o comidas equivalentes que puede incluir en su plan alimenticio, lo que le permite mantener la variedad en su dieta y explorar nuevas opciones culinarias.  
+
+**Scenario 02: Falta de sugerencias de reemplazo en el plan alimenticio**  
+Dado que un usuario premium accede a su plan alimentario semanal  
+Cuando busca sugerencias de reemplazo pero la funcionalidad no está disponible o las sugerencias son limitadas  
+Entonces se siente frustrado y puede tener dificultades para mantener la variedad en su dieta, lo que afecta su experiencia con la aplicación.  
+
 
 ## 3.3. Impact Mapping.
 **Link del miro:  https://miro.com/app/board/uXjVKNP7IR4=/?share_link_id=521254084234**
@@ -1041,13 +1521,103 @@ EP-01 | US-08 | #185942721 | Accesibilidad de la página | Sección de redes soc
 ![Sprint review development Evidence](images/execution1.png)
 ![Sprint review development Evidence](images/execution1.png)
 
+## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
-![Imgur](images/sprint2.png)
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Background</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-04-24</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>7 días</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>(Presencial) en la propia universidad</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>
+      <ul>
+        <li>Cortés Casas, Joaquín Marcelo</li>
+        <li>Díaz Silva, Fernando Josué</li>
+        <li>Chávez Rojas, Carlos Raúl Guillermo</li>
+        <li>Ruiz Blas, Luciano</li>
+        <li>Becerra Llempen, Fabiola</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n – 0 Review Summary</th>
+    <td>
+      <ul>
+        <li>US-14: Como usuario interesado en alimentación saludable, quiero poder filtrar mis preferencias para poder evitar que dentro de mi dieta haya algún alimento al que soy alérgico o no me gusta.</li>
+        <li>US-15: Como usuario interesado en alimentación saludable, quiero poder visualizar planes de alimentación personalizados en MealMaster, para tener una guía clara de mis comidas diarias.</li>
+        <li>US-24: Como usuario interesado en alimentación saludable, quiero poder registrar los ingredientes que tengo a la mano, para que la aplicación pueda sugerirme platillos que pueda preparar con ellos.</li>
+        <li>US-25: Como usuario interesado en alimentación saludable, quiero poder aplicar filtros a las sugerencias de platillos, para que pueda elegir si quiero que sean saludables o no.</li>
+        <li>US-26: Como usuario interesado en alimentación saludable con habilidades de cocina baja, quiero que la aplicación me proporcione instrucciones paso a paso para preparar los platillos sugeridos, para que pueda aprender y mejorar mis habilidades de cocina.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n – 1 Retrospective Summary</th>
+    <td>
+      <ul>
+        <li>Meta principal: X</li>
+        <li>Metas específicas: X</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <td>
+      <ul>
+        <li>Desplegar una versión mejorada del landing page.</li>
+        <li>Integrar nuevas funcionalidades según el feedback del sprint anterior.</li>
+        <li>Preparar la base para la implementación del backend en futuros sprints.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>X Puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>X Puntos</td>
+  </tr>
+</table>
 
 #### 5.2.2.2. Sprint Backlog 2
-![Imgur](images/backlog2.png)
+
+Link de board en Trello: [Enlace](#)
+
+*Sprint #* | Sprint 2
+
+*User Story* | *Work Item / Task* | *Id* | *Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status*
+--- | --- | --- | --- | --- | --- | --- | ---
+US-14 | Filtrado de preferencias alimenticias | #185942721 | Filtrar los platos de comida recuperados de un API. | 5 hours | x | Done
+US-15 | Visualización de planes de alimentación personalizados | #185942721 | En base a platos previamente filtrados y operaciones CRUD, mostrar en un apartado los platos de comida. | 5 hours | x | Done
+US-24 | Registro de Ingredientes | #185942721 | Listar los ingredientes de comida para generar un plan de comida en base a estos. | 5 hours | x | Done
+US-25 | Filtro de Platillos | #185942721 | Filtrar los platos de comida recuperados de un API. | 5 hours | x | Done
+US-26 | Instrucciones de Cocina | #185942721 | Interfaz del detallado de un plato de cocina seleccionado, con el tutorial de cómo prepararlo. | 5 hours | x | Done
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 ![Sprint review development Evidence](images/evidence2.png)

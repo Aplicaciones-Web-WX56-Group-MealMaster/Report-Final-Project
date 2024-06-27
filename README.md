@@ -152,6 +152,8 @@ Abril, 2024-1
 | --------| ----------- | ----------- | ----------- |
 | TB1     | 04/04/2024 |MealMaster |Documentación de los capítulos I-V. Implementación y despliegue de la primera versión del Landing Page.|
 | TP     | 02/05/2024 |MealMaster |Documentación y código del Sprint N°2, desplegando la primera versión del aplicativo web.|
+| TB2     | 17/05/2024 |MealMaster |Documentación y código del Sprint N°3, desplegando la primera versión del aplicativo web.|
+| TF     | 27/06/24 |MealMaster |Documentación y código del Sprint N°4, desplegando las versiones del aplicativo web, conclusiones, bibliografías y anexos.|
 
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/orgs/Aplicaciones-Web-WX56-Group-MealMaster/repositories)

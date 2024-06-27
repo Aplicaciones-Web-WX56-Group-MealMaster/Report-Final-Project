@@ -552,8 +552,7 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
-| 01
-|US-LP-01|Implementación de Landing Page Responsive|Como usuario interesado en alimentación saludable, quiero interactuar con una landing page responsive que se adapte a mi pantalla.|5|
+| 01|US-LP-01|Implementación de Landing Page Responsive|Como usuario interesado en alimentación saludable, quiero interactuar con una landing page responsive que se adapte a mi pantalla.|5|
 |02|US-LP-02|Visualización de Redes Sociales de MealMaster|Como usuario interesado en alimentación saludable, quiero visualizar las redes sociales de MealMaster.|3|
 |03|US-LP-03|Visualización de Planes de Alimentación Destacados|Como usuario interesado en alimentación saludable, quiero ver ejemplos de planes de alimentación en la página de inicio para tener una idea de lo que puedo lograr con la aplicación.|3|
 |04|US-01|Página de Inicio Atractiva|Como visitante, quiero ver una página de inicio atractiva que me muestre rápidamente los beneficios clave de MealMaster para poder decidir si quiero registrarme.|5|

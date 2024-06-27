@@ -946,27 +946,95 @@ Como Git usa un modelo de sistema distribuido, cada desarrollador tiene una copi
 
 **GitHub**: Es una plataforma basada en Git que permite el alojamiento y la colaboración de código fuente. Fue lanzado en 2008 y se ha convertido en uno de los servicios más populares para desarrolladores de todo el mundo. Los desarrolladores pueden crear repositorios en GitHub para almacenar y administrar su código fuente. Estos repositorios pueden ser públicos, lo que significa que cualquiera puede ver y contribuir al código, o privados, que son más apropiados para proyectos comerciales o privados.
 
-La capacidad de permitir la colaboración en equipo es uno de los aspectos más destacados de GitHub. Varios desarrolladores pueden trabajar en el mismo repositorio al mismo tiempo, realizar modificaciones en varias ramas y fusionarlos fácilmente. Esto facilita que los equipos trabajen juntos y gestionan las diversas contribuciones. GitHub ofrece una variedad de herramientas adicionales además de la gestión de código fuente. Los "problemas" permiten un seguimiento de las tareas, errores o mejoras del proyecto. Se pueden solicitar revisiones y fusionar los cambios realizados por colaboradores externos antes de incorporarlos al repositorio principal mediante "requerimientos de salida". Las "acciones" de GitHub son una característica importante que permite automatizar tareas y flujos de trabajo dentro del proyecto. La ejecución de pruebas, la creación de documentación o la implementación continua son ejemplos de esto. GitHub es conocido por su enfoque en el código abierto y su comunidad activa. GitHub aloja una gran cantidad de proyectos de código abierto, lo que facilita la colaboración y promueve la transparencia en el desarrollo de software. Esta herramienta nos ayudará a colaborar con Git, es una plataforma que puede mantener un repositorio de código en la nube y permite que varios trabajadores trabajen en
-
- un solo proyecto, viendo las ediciones propias de cada integrante, mejorando el trabajo en equipo para los trabajos por hacer.
+La capacidad de permitir la colaboración en equipo es uno de los aspectos más destacados de GitHub. Varios desarrolladores pueden trabajar en el mismo repositorio al mismo tiempo, realizar modificaciones en varias ramas y fusionarlos fácilmente. Esto facilita que los equipos trabajen juntos y gestionan las diversas contribuciones. GitHub ofrece una variedad de herramientas adicionales además de la gestión de código fuente. Los "problemas" permiten un seguimiento de las tareas, errores o mejoras del proyecto. Se pueden solicitar revisiones y fusionar los cambios realizados por colaboradores externos antes de incorporarlos al repositorio principal mediante "requerimientos de salida". Las "acciones" de GitHub son una característica importante que permite automatizar tareas y flujos de trabajo dentro del proyecto. La ejecución de pruebas, la creación de documentación o la implementación continua son ejemplos de esto. GitHub es conocido por su enfoque en el código abierto y su comunidad activa. GitHub aloja una gran cantidad de proyectos de código abierto, lo que facilita la colaboración y promueve la transparencia en el desarrollo de software. Esta herramienta nos ayudará a colaborar con Git, es una plataforma que puede mantener un repositorio de código en la nube y permite que varios trabajadores trabajen en un solo proyecto, viendo las ediciones propias de cada integrante, mejorando el trabajo en equipo para los trabajos por hacer.
 
 ![Imgur](images/git.png)
-
-Aquí tienes el texto corregido y formateado en Markdown:
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
-![Imgur](images/sprint1.JPG)
-![Imgur](images/sprint1.1.JPG)
-![Imgur](images/sprint1.2.JPG)
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Background</th>
+    <td>2024-04-26</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>6 días</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>(Presencial) en la propia universidad</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Cortés Casas, Joaquín Marcelo / Díaz Silva, Fernando Josué / Chávez Rojas, Carlos Raúl Guillermo / Ruiz Blas, Luciano / Becerra Llempen, Fabiola</td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>Cortés Casas, Joaquín Marcelo / Díaz Silva, Fernando Josué / Chávez Rojas, Carlos Raúl Guillermo / Ruiz Blas, Luciano / Becerra Llempen, Fabiola</td>
+  </tr>
+  <tr>
+    <th>Sprint n – 0 Review Summary</th>
+    <td>
+      <ul>
+        <li>En este sprint se implementó un landing page visualmente atractivo y profesional.</li>
+        <li>Se aseguró una interfaz intuitiva y fácil de utilizar para los usuarios.</li>
+        <li>Se hizo responsive el landing page para adaptarse a diversas resoluciones de pantalla.</li>
+        <li>Se incorporó una sección de planes de servicio en el landing page.</li>
+        <li>Se añadió un botón de registro visible en la página principal.</li>
+        <li>Se creó una sección "Acerca de nosotros" para presentar la historia, misión y valores de Meal Master.</li>
+        <li>Se implementó una sección de recomendaciones de aliados y redes sociales en la landing page.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n – 1 Retrospective Summary</th>
+    <td>Se identificó la necesidad de mejorar la calidad y consistencia del landing page y asegurar una integración fluida con futuras versiones del aplicativo web.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <td>
+      <ul>
+        <li>Desplegar una versión mejorada del landing page.</li>
+        <li>Integrar nuevas funcionalidades según el feedback del sprint anterior.</li>
+        <li>Preparar la base para la implementación del backend en futuros sprints.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>16 Puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>16 Puntos</td>
+  </tr>
+</table>
 
 #### 5.2.1.2. Sprint Backlog 1
-![Imgur](images/backlog.JPG)
-![Imgur](images/backlog1.JPG)
-![Imgur](images/backlog1.1.JPG)
+
+Link de board en Trello: [Enlace](#)
+
+*Sprint #* | Sprint 1
+
+*User Story* | *Work Item / Task* | *Id* | *Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status*
+--- | --- | --- | --- | --- | --- | --- | ---
+EP-01 | US-01 | #185942721 | Accesibilidad de la página | Creación de landing page atractiva. Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa. | 5 hours | Fabiola Becerra | Done
+EP-01 | US-02 | #185942721 | Accesibilidad de la página | Interfaz intuitiva para comprender la propuesta de valor de Meal Master. Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece. | 5 hours | Joaquin Casas | Done
+EP-01 | US-03 | #185942721 | Accesibilidad de la página | Implementación de landing page responsive. Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla. | 3 hours | Fernando Silva | Done
+EP-01 | US-04 | #185942721 | Accesibilidad de la página | Sección sobre los planes de servicio de Meal Master en la landing page. Como usuario, quiero que la landing page de Meal Master me muestra una sección de los servicios que brinda como sus planes de Meal Master, para así poder generar mi atención y curiosidad hacia este. | 2 hours | Carlos Rojas | Done
+EP-01 | US-05 | #185942721 | Accesibilidad de la página | Creación del botón de “registro” para poder ser un usuario de la aplicación. Como usuario, quiero que la landing page de Meal Master me muestre el botón de “registro” en la landing page para poder ser un usuario de la aplicación. | 2 hours | Fernando Silva | Done
+EP-01 | US-06 | #185942721 | Accesibilidad de la página | Sección "Acerca de nosotros" en landing page. Como usuario, quiero que la landing page de Meal Master tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca. | 2 hours | Luciano Blas | Done
+EP-01 | US-07 | #185942721 | Accesibilidad de la página | Sección de recomendaciones en landing page. Como usuario, quiero que la landing page de Meal Master tenga una sección que me muestre a todos sus aliados en cuanto a recomendaciones para que me inspire confianza. | 2 hours | Joaquin Casas | Done
+EP-01 | US-08 | #185942721 | Accesibilidad de la página | Sección de redes sociales de Meal Master en landing page. Como usuario, quiero que la landing page de Meal Master tenga una sección de redes sociales claramente visible, para que me brinde más confianza al saber que es una aplicación conocida y actualizada. | 2 hours | Luciano Blas | Done
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 ![Sprint review development Evidence](images/execution.png)

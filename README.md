@@ -1017,19 +1017,16 @@ Ocupación: _____
 | HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
 | --------------------------------------------- | ---------- | --------- |
 | Visibilidad del estado del sistema|     ✅       |Funcionalidades referentes a la visibilidad del estado del sistema aún se encuentran en proceso de desarollado, por lo que no hubieron observaciones en este caso.|
-  |
-| Coincidencia entre el sistema y el mundo real |    ✅        | El idioma que utiliza la aplicación se acerca al lenguaje común de los segmentos objetivos, brindando un entorno familiar y sencillo de utilizar.  |
+| Coincidencia entre el sistema y el mundo real |    ✅     | El idioma que utiliza la aplicación se acerca al lenguaje común de los segmentos objetivos, brindando un entorno familiar y sencillo de utilizar.  |
 |Relación entre el sistema y el mundo real|
-| Libertad y control por parte del usuario:     |      ✅      | El usuario es libre de navegar por la aplicación sin problemas o restricciones, por lo que se cumple la libertad y control del usuario al utilizar la aplicación.|
-   |
-| Consistencia y estándares                         |    ✅        |Los entrevistados mencionan la facilidad de utilizar la aplicación, por lo que no se presentan errores de consistencia o estándares de diseño.  |
-| Prevención de errores                    |      ✅      | Funciones relacionadas a la prevención de errores se siguen trabajando en el desarrollo de la aplicación.   |
-| Reconocimiento antes que recuerdo
-             |      ✅      | El usuario no debe recordar funciones de la aplicación para realizar funciones comunes al navegar por la aplicación.   |
-| Flexibilidad y eficiencia de uso                |    ✅        | Se cumple la flexibilidad del usuario al otorgar las funciones más relevantes al ingresar a la aplicación en el caso de las próximas citas médicas por atender y la opción de reservar citas médicas.   |
-| Estética y diseño minimalista             |      ✅      | Se prioriza el contenido relevante al mostrar información y sus características antes que los elementos adicionales. Además, se utilizan colores de fondo simples y fuentes de color  de letras más oscuras para resltar el contenido.   |
-| Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores |    ✅        | Los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación.  |
-| Ayuda y documentación|    ✅        | De igual manera, los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. Sin embargo, se proyecta tener un apartado de preguntas frecuentes y sistema de tickets para resolver consultas en un futuro.  |
+| Libertad y control por parte del usuario:  |   ✅   | El usuario es libre de navegar por la aplicación sin problemas o restricciones, por lo que se cumple la libertad y control del usuario al utilizar la aplicación.|
+| Consistencia y estándares  |    ✅   |Los entrevistados mencionan la facilidad de utilizar la aplicación, por lo que no se presentan errores de consistencia o estándares de diseño.  |
+| Prevención de errores   |   ✅  | Funciones relacionadas a la prevención de errores se siguen trabajando en el desarrollo de la aplicación. |
+| Reconocimiento antes que recuerdo |      ✅  | El usuario no debe recordar funciones de la aplicación para realizar funciones comunes al navegar por la aplicación. |
+| Flexibilidad y eficiencia de uso  |    ✅    | Se cumple la flexibilidad del usuario al otorgar las funciones más relevantes al ingresar a la aplicación en el caso de las próximas citas médicas por atender y la opción de reservar citas médicas.|
+| Estética y diseño minimalista  |      ✅  | Se prioriza el contenido relevante al mostrar información y sus características antes que los elementos adicionales. Además, se utilizan colores de fondo simples y fuentes de color  de letras más oscuras para resltar el contenido.|
+| Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores |    ✅  | Los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. |
+| Ayuda y documentación|    ✅   | De igual manera, los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. Sin embargo, se proyecta tener un apartado de preguntas frecuentes y sistema de tickets para resolver consultas en un futuro.|
 
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)

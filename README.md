@@ -505,9 +505,9 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 ### 2.3.5. As-is Scenario Mapping.
 
 **As-is Scenario Mapping 1: Cocinero Inexperto**  
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | Fases  | Investigar páginas web de nutrición y para aprender a cocinar |Analizar los planes de cada una de las páginas encontradas | Escoger la página web más confiable|Empezar a estructurar un plan alimenticio en la web| Filtrar mis preferencias alimenticias|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Doing  | Investigo en internet páginas web de confianza para aprender a cocinar y revisar el valor nutricional de mis platos de comida |Analizar los planes que veo recomendable para lo que busco.|En base a mi previo análisis, escojo la página web más prometedora.|Dentro de la página web, busco realizar la organización de mi plan de alimentos según mis preferencias.|Busco aplicar ciertos filtros para disfrutar del plan alimentario organizado.|
+|Doing  | Investigo en internet páginas web de confianza para aprender a cocinar y revisar el valor nutricional de mis platos de comida |Analizar los planes que veo recomendable para lo que busco.|En base a mi previo análisis, escojo la página web más prometedora.|Dentro de la página web, busco realizar la organización de mi plan de alimentos según mis preferencias.|Busco aplicar ciertos filtros para disfrutar del plan alimentario organizado.|
 | Thinking  |Espero que existan múltiples plataformas web que ayuden al proceso de cocina. |Ojalá los planes ofrecidos tengan un valor adicional.|Espero haber elegido la página web más confiable de las disponibles.|Espero organizar de forma rápida y efectiva un plan de alimentos.|Espero que el plan alimenticio sea suficientemente efectivo.|
 |Feeling|Tengo dudas al momento de investigar y conocer cuál es la opción más conveniente.|Miedo por escoger un plan con información desactualizada.|Siento dudas sobre la seguridad de la página web, pudiendo no ser confiable.|Siento dudas al momento de pensar en los detalles del plan alimenticio por generar, pudiendo ser impráctico.|Me siento aliviado, sabiendo que mis necesidades van a ser saciadas en base a mi correcta elección.|
 
